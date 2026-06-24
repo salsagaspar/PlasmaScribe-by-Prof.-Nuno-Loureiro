@@ -1,0 +1,317 @@
+[
+  {
+    "id": 0,
+    "start": 0.0,
+    "duration": 98.7,
+    "english": "Bem-vindos à nossa aula sobre Física de Plasmas, uma área fascinante que estuda o comportamento de plasmas, que são gases ionizados. Nesta disciplina, vamos explorar como os plasmas se comportam em diferentes situações, desde o vento solar até a fusão nuclear.",
+    "indonesian": "Selamat datang di pelajaran kami tentang Fisika Plasma, sebuah area yang menarik yang mempelajari perilaku plasma, yang merupakan gas yang terionisasi. Dalam disiplin ini, kita akan mengeksplorasi bagaimana plasma berperilaku dalam situasi yang berbeda, dari angin surya hingga fusi nuklir."
+  },
+  {
+    "id": 1,
+    "start": 98.7,
+    "duration": 98.7,
+    "english": "A Física de Plasmas é uma área interdisciplinar que combina conceitos da física, matemática e engenharia. Ela é fundamental para entender fenômenos como a formação de estrelas e galáxias, bem como o comportamento de plasmas em laboratório.",
+    "indonesian": "Fisika Plasma adalah sebuah area antardisiplin yang menggabungkan konsep dari fisika, matematika, dan teknik. Ini adalah fundamental untuk memahami fenomena seperti pembentukan bintang dan galaksi, serta perilaku plasma di laboratorium."
+  },
+  {
+    "id": 2,
+    "start": 197.4,
+    "duration": 98.7,
+    "english": "Um dos tópicos mais importantes na Física de Plasmas é a rekoneksi magnetik (magnetic reconnection), que ocorre quando as linhas do campo magnético se conectam e se separam. Isso pode levar a uma liberação de energia enorme.",
+    "indonesian": "Salah satu topik paling penting dalam Fisika Plasma adalah rekoneksi magnetik (magnetic reconnection), yang terjadi ketika garis-garis medan magnet terhubung dan terpisah. Ini dapat menyebabkan pelepasan energi yang sangat besar."
+  },
+  {
+    "id": 3,
+    "start": 296.1,
+    "duration": 98.7,
+    "english": "Outro tópico fundamental é a turbulência, que é o comportamento caótico dos fluidos. Na Física de Plasmas, a turbulência é especialmente importante, pois pode afetar a estabilidade dos plasmas.",
+    "indonesian": "Topik lain yang fundamental adalah turbulensi, yang merupakan perilaku kacau dari fluida. Dalam Fisika Plasma, turbulensi sangat penting, karena dapat mempengaruhi stabilitas plasma."
+  },
+  {
+    "id": 4,
+    "start": 394.8,
+    "duration": 98.7,
+    "english": "A Física de Plasmas também estuda a formação de plasmoides, que são estruturas magnetizadas que se formam em plasmas. Esses plasmoides podem ter um papel importante na fusão nuclear.",
+    "indonesian": "Fisika Plasma juga mempelajari pembentukan plasmoid, yang merupakan struktur magnetisasi yang terbentuk dalam plasma. Plasmoid ini dapat memiliki peran penting dalam fusi nuklir."
+  },
+  {
+    "id": 5,
+    "start": 493.5,
+    "duration": 98.7,
+    "english": "A magnetohidrodinâmica é uma ferramenta fundamental para estudar o comportamento dos plasmas. Ela combina a hidrodinâmica e a teoria eletromagnética para entender como os plasmas se comportam em diferentes situações.",
+    "indonesian": "Magnetohidrodinamika adalah alat yang fundamental untuk mempelajari perilaku plasma. Ini menggabungkan hidrodinamika dan teori elektromagnetik untuk memahami bagaimana plasma berperilaku dalam situasi yang berbeda."
+  },
+  {
+    "id": 6,
+    "start": 592.2,
+    "duration": 98.7,
+    "english": "A Física de Plasmas tem muitas aplicações práticas, desde a fusão nuclear até a propulsão de espaçonaves. Além disso, ela também é fundamental para entender fenômenos naturais, como a formação de estrelas e galáxias.",
+    "indonesian": "Fisika Plasma memiliki banyak aplikasi praktis, dari fusi nuklir hingga propulsi pesawat luar angkasa. Selain itu, ini juga fundamental untuk memahami fenomena alami, seperti pembentukan bintang dan galaksi."
+  },
+  {
+    "id": 7,
+    "start": 690.9,
+    "duration": 98.7,
+    "english": "Nesta aula, vamos explorar como a Física de Plasmas pode ser aplicada à fusão nuclear, que é uma fonte de energia limpa e sustentável. Vamos discutir os desafios e as oportunidades nessa área.",
+    "indonesian": "Dalam pelajaran ini, kita akan mengeksplorasi bagaimana Fisika Plasma dapat diterapkan pada fusi nuklir, yang merupakan sumber energi bersih dan berkelanjutan. Kita akan membahas tantangan dan peluang dalam bidang ini."
+  },
+  {
+    "id": 8,
+    "start": 789.6,
+    "duration": 98.7,
+    "english": "A fusão nuclear é um processo em que núcleos atômicos se combinam para formar um núcleo mais pesado, liberando energia no processo. Isso é o oposto da fissão nuclear, que é o processo utilizado em usinas nucleares.",
+    "indonesian": "Fusi nuklir adalah proses di mana inti atom bergabung untuk membentuk inti yang lebih berat, melepaskan energi dalam proses ini. Ini adalah kebalikan dari fisi nuklir, yang merupakan proses yang digunakan dalam pembangkit listrik nuklir."
+  },
+  {
+    "id": 9,
+    "start": 888.3,
+    "duration": 98.7,
+    "english": "A Física de Plasmas é uma área em constante evolução, com novas descobertas e avanços tecnológicos sendo feitos regularmente. É um campo emocionante para trabalhar, com muitas oportunidades para contribuir para o avanço da ciência e da tecnologia.",
+    "indonesian": "Fisika Plasma adalah area yang terus berkembang, dengan penemuan baru dan kemajuan teknologi yang dilakukan secara teratur. Ini adalah bidang yang menarik untuk bekerja, dengan banyak peluang untuk memberikan kontribusi pada kemajuan sains dan teknologi."
+  },
+  {
+    "id": 10,
+    "start": 987.0,
+    "duration": 98.7,
+    "english": "Agora, vamos falar sobre o comportamento de plasmas turbulentos, que é um tópico fundamental na física de plasmas. A turbulência é um fenômeno complexo que envolve a interação de muitas escalas, desde a escala macroscópica até a escala microscópica.",
+    "indonesian": "Sekarang, kita akan membahas tentang perilaku plasma turbulen, yang merupakan topik dasar dalam fisika plasma. Turbulensi adalah fenomena kompleks yang melibatkan interaksi banyak skala, dari skala makroskopis hingga skala mikroskopis."
+  },
+  {
+    "id": 11,
+    "start": 1085.7,
+    "duration": 98.7,
+    "english": "A magnetohidrodinâmica é uma ferramenta poderosa para estudar a turbulência em plasmas. Ela combina a hidrodinâmica e a teoria eletromagnética para descrever o comportamento de plasmas em movimento.",
+    "indonesian": "Magnetohidrodinamika adalah alat yang kuat untuk mempelajari turbulensi dalam plasma. Ia menggabungkan hidrodinamika dan teori elektromagnetik untuk menggambarkan perilaku plasma yang bergerak."
+  },
+  {
+    "id": 12,
+    "start": 1184.4,
+    "duration": 98.7,
+    "english": "A instabilidade de plasmoides é um fenômeno importante na turbulência de plasmas. Ela ocorre quando um plasmoid, que é uma região de plasma quente e densa, se torna instável e começa a se fragmentar.",
+    "indonesian": "Instabilitas plasmoid adalah fenomena penting dalam turbulensi plasma. Ia terjadi ketika sebuah plasmoid, yang merupakan wilayah plasma panas dan padat, menjadi tidak stabil dan mulai terfragmentasi."
+  },
+  {
+    "id": 13,
+    "start": 1283.1,
+    "duration": 98.7,
+    "english": "A rekoneksi magnetik é outro fenômeno importante na turbulência de plasmas. Ela ocorre quando as linhas do campo magnético se reconnectam, liberando energia e afetando o comportamento do plasma.",
+    "indonesian": "Rekoneksi magnetik (magnetic reconnection) adalah fenomena penting lainnya dalam turbulensi plasma. Ia terjadi ketika garis-garis medan magnet terhubung kembali, melepaskan energi dan mempengaruhi perilaku plasma."
+  },
+  {
+    "id": 14,
+    "start": 1381.8,
+    "duration": 98.7,
+    "english": "A escala de dissipação é um parâmetro importante na turbulência de plasmas. Ela define a escala em que a energia é dissipada e afeta o comportamento do plasma.",
+    "indonesian": "Skala disipasi adalah parameter penting dalam turbulensi plasma. Ia mendefinisikan skala di mana energi disipasi dan mempengaruhi perilaku plasma."
+  },
+  {
+    "id": 15,
+    "start": 1480.5,
+    "duration": 98.7,
+    "english": "A difusão é um processo importante na turbulência de plasmas. Ela ocorre quando as partículas se movem aleatoriamente, afetando a distribuição de energia e momentum no plasma.",
+    "indonesian": "Difusi adalah proses penting dalam turbulensi plasma. Ia terjadi ketika partikel bergerak secara acak, mempengaruhi distribusi energi dan momentum dalam plasma."
+  },
+  {
+    "id": 16,
+    "start": 1579.2,
+    "duration": 98.7,
+    "english": "A escala cinética é um parâmetro importante na turbulência de plasmas. Ela define a escala em que as partículas se movem e interagem, afetando o comportamento do plasma.",
+    "indonesian": "Skala kinetik adalah parameter penting dalam turbulensi plasma. Ia mendefinisikan skala di mana partikel bergerak dan berinteraksi, mempengaruhi perilaku plasma."
+  },
+  {
+    "id": 17,
+    "start": 1677.9,
+    "duration": 98.7,
+    "english": "A giroviscosidade é um efeito importante na turbulência de plasmas. Ela ocorre quando as partículas se movem em espirais, afetando a viscosidade e a dissipação de energia no plasma.",
+    "indonesian": "Giroviskositas adalah efek penting dalam turbulensi plasma. Ia terjadi ketika partikel bergerak dalam spiral, mempengaruhi viskositas dan disipasi energi dalam plasma."
+  },
+  {
+    "id": 18,
+    "start": 1776.6,
+    "duration": 98.7,
+    "english": "A interação entre a turbulência e a rekoneksi magnetik é um tópico de grande interesse na física de plasmas. Ela pode afetar o comportamento do plasma e a eficiência de processos como a fusião nuclear.",
+    "indonesian": "Interaksi antara turbulensi dan rekoneksi magnetik (magnetic reconnection) adalah topik yang sangat menarik dalam fisika plasma. Ia dapat mempengaruhi perilaku plasma dan efisiensi proses seperti fusi nuklir."
+  },
+  {
+    "id": 19,
+    "start": 1875.3,
+    "duration": 98.7,
+    "english": "Em resumo, a turbulência de plasmas é um fenômeno complexo e multifacetado que envolve a interação de muitas escalas e processos. A compreensão desses processos é fundamental para o desenvolvimento de aplicações como a fusião nuclear e a propulsão de espaçonaves.",
+    "indonesian": "Secara keseluruhan, turbulensi plasma adalah fenomena kompleks dan multifaset yang melibatkan interaksi banyak skala dan proses. Pemahaman proses ini sangat penting untuk pengembangan aplikasi seperti fusi nuklir dan propulsi pesawat luar angkasa."
+  },
+  {
+    "id": 20,
+    "start": 1974.0,
+    "duration": 98.7,
+    "english": "Agora, vamos falar sobre o comportamento de plasmas turbulentos. A turbulência é um fenômeno complexo que ocorre em muitos fluidos, incluindo plasmas.",
+    "indonesian": "Sekarang, kita akan membahas tentang perilaku plasma turbulen. Turbulensi adalah fenomena kompleks yang terjadi pada banyak fluida, termasuk plasma."
+  },
+  {
+    "id": 21,
+    "start": 2072.7,
+    "duration": 98.7,
+    "english": "Em plasmas, a turbulência pode levar a uma perda de confinamento magnético, o que é um grande desafio para a fusão nuclear.",
+    "indonesian": "Pada plasma, turbulensi dapat menyebabkan kehilangan kurungan magnetis, yang merupakan tantangan besar bagi fusi nuklir."
+  },
+  {
+    "id": 22,
+    "start": 2171.4,
+    "duration": 98.7,
+    "english": "A instabilidade de plasmoides é um tipo de instabilidade que pode ocorrer em plasmas turbulentos, e é importante entender como ela afeta o comportamento do plasma.",
+    "indonesian": "Instabilitas plasmoid adalah jenis instabilitas yang dapat terjadi pada plasma turbulen, dan penting untuk memahami bagaimana itu mempengaruhi perilaku plasma."
+  },
+  {
+    "id": 23,
+    "start": 2270.1,
+    "duration": 98.7,
+    "english": "A dinâmica dos plasmas turbulentos é governada pelas equações de magnetohidrodinâmica, que descrevem o comportamento do plasma em resposta a campos magnéticos e forças.",
+    "indonesian": "Dinamika plasma turbulen diperintah oleh persamaan magnetohidrodinamika, yang menjelaskan perilaku plasma sebagai respons terhadap medan magnet dan gaya."
+  },
+  {
+    "id": 24,
+    "start": 2368.8,
+    "duration": 98.7,
+    "english": "A reconnexão magnética é um processo importante que ocorre em plasmas turbulentos, e pode levar a uma liberação de energia.",
+    "indonesian": "Rekoneksi magnetik adalah proses penting yang terjadi pada plasma turbulen, dan dapat menyebabkan pelepasan energi."
+  },
+  {
+    "id": 25,
+    "start": 2467.5,
+    "duration": 98.7,
+    "english": "A escala de dissipação é um parâmetro importante na dinâmica dos plasmas turbulentos, e determina como a energia é dissipada no plasma.",
+    "indonesian": "Skala disipasi adalah parameter penting dalam dinamika plasma turbulen, dan menentukan bagaimana energi didispersikan dalam plasma."
+  },
+  {
+    "id": 26,
+    "start": 2566.2,
+    "duration": 98.7,
+    "english": "A difusão é um processo que ocorre em plasmas turbulentos, e pode levar a uma perda de confinamento magnético.",
+    "indonesian": "Difusi adalah proses yang terjadi pada plasma turbulen, dan dapat menyebabkan kehilangan kurungan magnetis."
+  },
+  {
+    "id": 27,
+    "start": 2664.9,
+    "duration": 98.7,
+    "english": "A escala cinética é um parâmetro importante na dinâmica dos plasmas turbulentos, e determina como as partículas se comportam no plasma.",
+    "indonesian": "Skala kinetik adalah parameter penting dalam dinamika plasma turbulen, dan menentukan bagaimana partikel berperilaku dalam plasma."
+  },
+  {
+    "id": 28,
+    "start": 2763.6,
+    "duration": 98.7,
+    "english": "A viscosidade giromagnética é um efeito que ocorre em plasmas turbulentos, e pode afetar o comportamento do plasma.",
+    "indonesian": "Giroviskositas adalah efek yang terjadi pada plasma turbulen, dan dapat mempengaruhi perilaku plasma."
+  },
+  {
+    "id": 29,
+    "start": 2862.3,
+    "duration": 98.7,
+    "english": "A compreensão da dinâmica dos plasmas turbulentos é fundamental para o desenvolvimento de reatores de fusão nuclear, como tokamaks e stellarators.",
+    "indonesian": "Pemahaman tentang dinamika plasma turbulen sangat penting untuk pengembangan reaktor fusi nuklir, seperti tokamak dan stellarator."
+  },
+  {
+    "id": 30,
+    "start": 2961.0,
+    "duration": 98.7,
+    "english": "Agora, vamos falar sobre o vento solar e plasmas astrofísicos. O vento solar é um fluxo de partículas carregadas que emanam do Sol e se propagam pelo espaço.",
+    "indonesian": "Sekarang, kita akan membahas tentang angin surya dan plasma astrofisika. Angin surya adalah aliran partikel bermuatan yang keluar dari Matahari dan menyebar ke ruang angkasa."
+  },
+  {
+    "id": 31,
+    "start": 3059.7,
+    "duration": 98.7,
+    "english": "Essa propagação é influenciada pela interação entre o campo magnético solar e o plasma. A turbulência nesse contexto é fundamental para entender a dinâmica do vento solar.",
+    "indonesian": "Persebaran ini dipengaruhi oleh interaksi antara medan magnet Matahari dan plasma. Turbulensi dalam konteks ini sangat penting untuk memahami dinamika angin surya."
+  },
+  {
+    "id": 32,
+    "start": 3158.4,
+    "duration": 98.7,
+    "english": "Além disso, a física de plasmas também é crucial para entender a formação e evolução de buracos negros. A matéria que cai em um buraco negro é ionizada e forma um plasma.",
+    "indonesian": "Selain itu, fisika plasma juga sangat penting untuk memahami pembentukan dan evolusi lubang hitam. Materi yang jatuh ke dalam lubang hitam diionisasi dan membentuk plasma."
+  },
+  {
+    "id": 33,
+    "start": 3257.1,
+    "duration": 98.7,
+    "english": "A dinâmica desse plasma é governada pelas leis da magnetohidrodinâmica, que descrevem a interação entre o campo magnético e o fluxo de plasma.",
+    "indonesian": "Dinamika plasma ini dikuasai oleh hukum magnetohidrodinamika, yang menjelaskan interaksi antara medan magnet dan aliran plasma."
+  },
+  {
+    "id": 34,
+    "start": 3355.8,
+    "duration": 98.7,
+    "english": "A rekoneksi magnética (magnetic reconnection) é um processo fundamental nesse contexto, pois permite a transferência de energia entre o campo magnético e o plasma.",
+    "indonesian": "Rekoneksi magnetik (magnetic reconnection) adalah proses fundamental dalam konteks ini, karena memungkinkan transfer energi antara medan magnet dan plasma."
+  },
+  {
+    "id": 35,
+    "start": 3454.5,
+    "duration": 98.7,
+    "english": "A compreensão desses processos é essencial para entender a física de plasmas astrofísicos e para desenvolver modelos precisos da dinâmica do vento solar e da formação de buracos negros.",
+    "indonesian": "Pemahaman proses ini sangat penting untuk memahami fisika plasma astrofisika dan untuk mengembangkan model yang akurat tentang dinamika angin surya dan pembentukan lubang hitam."
+  },
+  {
+    "id": 36,
+    "start": 3553.2,
+    "duration": 98.7,
+    "english": "Além disso, a física de plasmas também tem aplicações práticas, como no desenvolvimento de reatores de fusão nuclear, onde a contenção do plasma é fundamental para alcançar a fusão controlada.",
+    "indonesian": "Selain itu, fisika plasma juga memiliki aplikasi praktis, seperti dalam pengembangan reaktor fusi nuklir, di mana penahanan plasma sangat penting untuk mencapai fusi yang terkendali."
+  },
+  {
+    "id": 37,
+    "start": 3651.9,
+    "duration": 98.7,
+    "english": "A instabilidade de plasmoides é um desafio significativo nesse contexto, pois pode levar à perda de contenção do plasma e à interrupção do processo de fusão.",
+    "indonesian": "Instabilitas plasmoid adalah tantangan signifikan dalam konteks ini, karena dapat menyebabkan kehilangan penahanan plasma dan penghentian proses fusi."
+  },
+  {
+    "id": 38,
+    "start": 3750.6,
+    "duration": 98.7,
+    "english": "Portanto, a compreensão da física de plasmas é fundamental para avançar em diversas áreas, desde a astrofísica até a engenharia de reatores de fusão nuclear.",
+    "indonesian": "Oleh karena itu, pemahaman fisika plasma sangat penting untuk kemajuan di berbagai bidang, dari astrofisika hingga teknik reaktor fusi nuklir."
+  },
+  {
+    "id": 39,
+    "start": 3849.3,
+    "duration": 98.7,
+    "english": "A pesquisa em física de plasmas continua a ser uma área ativa e desafiadora, com muitas questões ainda por serem respondidas e muitos desafios por serem superados.",
+    "indonesian": "Penelitian dalam fisika plasma terus menjadi bidang yang aktif dan menantang, dengan banyak pertanyaan yang masih belum terjawab dan banyak tantangan yang masih harus diatasi."
+  },
+  {
+    "id": 40,
+    "start": 3948.0,
+    "duration": 98.7,
+    "english": "Agora, vamos falar sobre o futuro da fusão nuclear como fonte de energia limpa. A fusão nuclear é um processo em que núcleos atômicos se combinam para formar um núcleo mais pesado, liberando energia no processo.",
+    "indonesian": "Sekarang, kita akan membahas tentang masa depan fusi nuklir sebagai sumber energi bersih. Fusi nuklir adalah proses di mana inti atom bergabung untuk membentuk inti yang lebih berat, melepaskan energi dalam prosesnya."
+  },
+  {
+    "id": 41,
+    "start": 4046.7,
+    "duration": 98.7,
+    "english": "Um dos principais desafios para alcançar a fusão nuclear é a criação de um ambiente estável o suficiente para que a reação ocorra. Isso envolve a contenção do plasma quente, que é um estado da matéria que consiste em partículas carregadas, como elétrons e íons.",
+    "indonesian": "Salah satu tantangan utama untuk mencapai fusi nuklir adalah menciptakan lingkungan yang stabil cukup untuk reaksi terjadi. Ini melibatkan kurungan plasma panas, yang merupakan keadaan materi yang terdiri dari partikel bermuatan, seperti elektron dan ion."
+  },
+  {
+    "id": 42,
+    "start": 4145.4,
+    "duration": 98.7,
+    "english": "Os tokamaks e stellarators são dois tipos de dispositivos que estão sendo desenvolvidos para alcançar a fusão nuclear. Eles usam campos magnéticos para conter o plasma quente e manter a reação estável.",
+    "indonesian": "Tokamak dan stellarator adalah dua jenis perangkat yang sedang dikembangkan untuk mencapai fusi nuklir. Mereka menggunakan medan magnet untuk mengurung plasma panas dan menjaga reaksi tetap stabil."
+  },
+  {
+    "id": 43,
+    "start": 4244.1,
+    "duration": 98.7,
+    "english": "A física de plasmas desempenha um papel fundamental no estudo da fusão nuclear. A compreensão dos processos físicos que ocorrem nos plasmas é essencial para o desenvolvimento de dispositivos de fusão eficientes.",
+    "indonesian": "Fisika plasma memainkan peran penting dalam studi fusi nuklir. Pemahaman tentang proses fisika yang terjadi dalam plasma sangat penting untuk pengembangan perangkat fusi yang efisien."
+  },
+  {
+    "id": 44,
+    "start": 4342.8,
+    "duration": 97.2,
+    "english": "Em resumo, a fusão nuclear é uma fonte de energia limpa e promissora, mas ainda há muitos desafios a serem superados antes que possamos aproveitá-la. A física de plasmas é uma área de pesquisa ativa e emocionante que está ajudando a avançar nosso conhecimento e tecnologia.",
+    "indonesian": "Secara keseluruhan, fusi nuklir adalah sumber energi bersih dan menjanjikan, tetapi masih banyak tantangan yang harus diatasi sebelum kita dapat memanfaatkannya. Fisika plasma adalah area penelitian yang aktif dan menarik yang membantu meningkatkan pengetahuan dan teknologi kita."
+  }
+]

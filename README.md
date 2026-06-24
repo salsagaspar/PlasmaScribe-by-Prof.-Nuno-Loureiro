@@ -1,18 +1,26 @@
 # 🌌 PlasmaScribe
 
-Interactive Physics Lecture Transcript & AI RAG Assistant (Bilingual: English - Indonesian) for Prof. Nuno Loureiro's lecture: *"Modern Perspectives and Challenges in Magnetic Reconnection"*.
+Interactive Physics Lecture Transcript & AI RAG Assistant (Bilingual: English - Indonesian) for Prof. Nuno Loureiro's lectures and podcasts.
 
-PlasmaScribe is a complete AI Engineering application that downloads, transcribes, translates, indexes, and enables interactive AI Chat (RAG) in Indonesian for specialized plasma physics lectures. It features a custom premium dark-themed UI (plasma color scheme) with glassmorphic visuals and smooth scroll interactions.
+PlasmaScribe is a complete AI Engineering application that downloads, transcribes, translates, indexes, and enables interactive AI Chat (RAG) in Indonesian for specialized plasma physics lectures. It features a custom premium dark-themed UI (plasma color scheme) with glassmorphic visuals, interactive quizzes, video notebooks, and on-the-fly document reference ingestion.
 
 ---
 
 ## 🌟 Core Features
 
-- **Dynamic Video & Transcript Sync**: Integrates the YouTube Iframe Player API to synchronize the active transcript segment with the current playback time. The transcript automatically scrolls into view as the video plays.
+- **Multi-Media Lecture Catalog**: Support for multiple lectures and podcasts, including:
+  - MIT Lecture: *"Modern Perspectives and Challenges in Magnetic Reconnection"* (YouTube)
+  - Guest Lecture: *"Plasma Physics: from fusion energy to cosmic magnetogenesis"* (PLANCKS 2021 YouTube)
+  - Podcast episode: *"Nuno Loureiro - Chegou finalmente o tempo da energia de fusão?"* (45 Graus #119 Spotify)
+  - Podcast episode: *"Física de Plasmas - Nuno Loureiro"* (Descobertas da Física Moderna #03 Spotify)
+- **Dynamic Player & Transcript Sync**: Integrates the YouTube Iframe Player API to synchronize the active transcript segment with the current playback time. The transcript automatically scrolls into view as the video plays.
 - **Interactive Time Seeking**: Click on any transcript row to jump the video directly to that timestamp.
-- **Cross-Lingual Semantic Search**: Search terms semantically in both English and Indonesian (e.g., searching for "tokamak" or "rekoneksi" returns matching segments instantly, even if searched in the opposite language).
+- **Cross-Lingual Semantic Search**: Search terms semantically in both English/Portuguese and Indonesian (e.g., searching for "tokamak" or "rekoneksi" returns matching segments instantly).
 - **Indonesian RAG Chat Assistant**: Chat with the video content using a dedicated sidebar. The AI (Llama 3.3) responds in Indonesian and generates clickable timestamp links (e.g., `[02:14]`) allowing users to easily seek the player.
-- **Physics-Specific Glossary Integration**: Transcripts are translated using a domain-specific glossary (`glossary.json`) to map advanced scientific terms correctly (e.g., *magnetic reconnection* -> rekoneksi magnetik, *magnetic islands* -> pulau magnetik).
+- **Advanced Document RAG Upload**: Ingest and index PDF or TXT reference papers/documents on-the-fly. The AI Assistant integrates active documents into its context and automatically cites them (e.g. `[Dokumen: paper_name.pdf]`) in its response.
+- **AI Quiz Mode**: Dynamically generates a 5-question multiple-choice quiz based on the selected transcript. Features immediate feedback, explanations, and timestamp links to watch the relevant explanation in the video.
+- **Video Notebook**: Take personal notes synchronized with the current video playback time, edit/delete notes, and export notes as a Markdown (`.md`) file.
+- **Physics-Specific Glossary Integration**: Auto-scans transcripts for 24+ advanced plasma physics terms (e.g., *magnetic reconnection*, *plasmoid instability*, *stellarator*) mapping to their Indonesian translations and timestamps.
 
 ---
 
@@ -20,9 +28,10 @@ PlasmaScribe is a complete AI Engineering application that downloads, transcribe
 
 ### Backend
 - **Framework**: FastAPI (Python)
-- **AI Services**: Groq Cloud API (Whisper-large-v3 for audio transcription, Llama-3.3-70b-versatile for translation and chat)
+- **AI Services**: Groq Cloud API (`whisper-large-v3` for audio transcription, `llama-3.3-70b-versatile` for translation, quiz generation, and chat)
 - **Vector DB**: ChromaDB (Local SQLite-based persistent store)
 - **Embeddings**: Local `Sentence-Transformers` (`all-MiniLM-L6-v2`)
+- **Document Parser**: `pypdf` for parsing user-uploaded PDF papers
 
 ### Frontend
 - **Framework**: Vite + React
@@ -107,30 +116,26 @@ If you prefer to run the components directly on your host machine:
 
 All transcript assets, translations, and vector indices have already been generated and committed. If you need to re-run the pipeline from scratch:
 
-1. **Download & Transcribe Audio**:
+1. **Download & Transcribe Audio (YouTube)**:
    ```bash
    python backend/download_transcript.py
    ```
    Downloads the YouTube lecture audio stream (`.webm` via `yt-dlp`) and transcribes it into `backend/transcript_raw.json` using Groq Whisper.
 
-2. **Translate to Indonesian**:
+2. **Generate Spotify Transcripts**:
+   ```bash
+   python backend/generate_spotify_transcripts.py
+   ```
+   Downloads and processes Portuguese Spotify audio transcripts using Groq.
+
+3. **Translate to Indonesian**:
    ```bash
    python backend/translate_groq.py
    ```
    Translates English transcript segments into Indonesian via Llama 3.3 and maps physics terminology based on `backend/glossary.json`, saving the output to `backend/transcript_bilingual.json`.
 
-3. **Build Semantic Index**:
+4. **Build Semantic Index**:
    ```bash
    python backend/build_index.py
    ```
-   Generates local embeddings using Sentence-Transformers and indexes the data into a ChromaDB database inside `backend/chroma_db/`.
-
----
-
-## Frontend
-![alt text](<Screenshot 2026-06-22 003241.png>)
-
-## Backend
-![alt text](<Screenshot 2026-06-22 004854.png>)
-
----
+   Generates local embeddings using Sentence-Transformers and indexes all transcript files into a ChromaDB database inside `backend/chroma_db/`.

@@ -1,0 +1,275 @@
+[
+  {
+    "id": 0,
+    "start": 0.0,
+    "duration": 100.0,
+    "english": "Bem-vindos ao podcast 45 Graus, eu sou o seu apresentador e hoje vamos falar sobre uma tema muito interessante: a energia de fusão. Nosso convidado é o professor Nuno Loureiro, catedrático no MIT e especialista em física de plasmas.",
+    "indonesian": "Selamat datang di podcast 45 Graus, saya adalah pembawa acara dan hari ini kita akan membahas topik yang sangat menarik: energi fusi. Tamu kita adalah Profesor Nuno Loureiro, profesor di MIT dan spesialis dalam fisika plasma."
+  },
+  {
+    "id": 1,
+    "start": 100.0,
+    "duration": 100.0,
+    "english": "Nuno Loureiro é um dos principais especialistas em física de plasmas e tem trabalhado no MIT por muitos anos. Ele vai nos explicar como funciona a energia de fusão e quais são os desafios técnicos para gerar essa energia.",
+    "indonesian": "Nuno Loureiro adalah salah satu spesialis utama dalam fisika plasma dan telah bekerja di MIT selama banyak tahun. Ia akan menjelaskan kepada kita bagaimana energi fusi bekerja dan apa saja tantangan teknis untuk menghasilkan energi tersebut."
+  },
+  {
+    "id": 2,
+    "start": 200.0,
+    "duration": 100.0,
+    "english": "A energia de fusão é uma forma de energia que é gerada pela fusão de núcleos atômicos, como o deutério e o trítio. Essa reação libera uma grande quantidade de energia, que pode ser usada para gerar eletricidade.",
+    "indonesian": "Energi fusi adalah bentuk energi yang dihasilkan oleh fusi inti atom, seperti deuterium dan tritium. Reaksi ini melepaskan sejumlah besar energi, yang dapat digunakan untuk menghasilkan listrik."
+  },
+  {
+    "id": 3,
+    "start": 300.0,
+    "duration": 100.0,
+    "english": "No entanto, a fusão nuclear é um processo muito complexo e difícil de controlar. É necessário criar condições extremas, como temperaturas muito altas e pressões muito grandes, para que a reação ocorra.",
+    "indonesian": "Namun, fusi nuklir adalah proses yang sangat kompleks dan sulit dikendalikan. Diperlukan kondisi ekstrem, seperti suhu yang sangat tinggi dan tekanan yang sangat besar, agar reaksi tersebut terjadi."
+  },
+  {
+    "id": 4,
+    "start": 400.0,
+    "duration": 100.0,
+    "english": "Uma das principais dificuldades é a criação de um confinamento magnético que possa manter o plasma, que é o estado da matéria em que os átomos são ionizados, estável por tempo suficiente para que a reação ocorra.",
+    "indonesian": "Salah satu kesulitan utama adalah menciptakan kurungan magnetis yang dapat menjaga plasma, yang merupakan keadaan materi di mana atom-atom diionisasi, stabil selama waktu yang cukup lama agar reaksi tersebut terjadi."
+  },
+  {
+    "id": 5,
+    "start": 500.0,
+    "duration": 100.0,
+    "english": "Além disso, a simulação computacional desempenha um papel fundamental no desenvolvimento da energia de fusão, pois permite que os cientistas testem e otimizem os diferentes parâmetros do processo.",
+    "indonesian": "Selain itu, simulasi komputasi memainkan peran penting dalam pengembangan energi fusi, karena memungkinkan ilmuwan untuk menguji dan mengoptimalkan parameter yang berbeda dari proses tersebut."
+  },
+  {
+    "id": 6,
+    "start": 600.0,
+    "duration": 100.0,
+    "english": "Nuno Loureiro vai nos explicar como a simulação computacional é usada para entender melhor o comportamento do plasma e como isso ajuda a desenvolver a energia de fusão.",
+    "indonesian": "Nuno Loureiro akan menjelaskan kepada kita bagaimana simulasi komputasi digunakan untuk memahami perilaku plasma dengan lebih baik dan bagaimana hal itu membantu mengembangkan energi fusi."
+  },
+  {
+    "id": 7,
+    "start": 700.0,
+    "duration": 100.0,
+    "english": "A energia de fusão é uma das principais fontes de energia do futuro, pois é limpa, segura e praticamente ilimitada. No entanto, ainda há muitos desafios técnicos a serem superados antes que possamos gerar energia de fusão em larga escala.",
+    "indonesian": "Energi fusi adalah salah satu sumber energi utama di masa depan, karena bersih, aman, dan hampir tidak terbatas. Namun, masih ada banyak tantangan teknis yang harus diatasi sebelum kita dapat menghasilkan energi fusi dalam skala besar."
+  },
+  {
+    "id": 8,
+    "start": 800.0,
+    "duration": 100.0,
+    "english": "Nuno Loureiro vai nos falar sobre os principais desafios técnicos que precisam ser superados para gerar energia de fusão em larga escala e como a comunidade científica está trabalhando para resolver esses desafios.",
+    "indonesian": "Nuno Loureiro akan berbicara kepada kita tentang tantangan teknis utama yang harus diatasi untuk menghasilkan energi fusi dalam skala besar dan bagaimana komunitas ilmiah bekerja untuk memecahkan tantangan-tantangan tersebut."
+  },
+  {
+    "id": 9,
+    "start": 900.0,
+    "duration": 100.0,
+    "english": "Além disso, vamos discutir sobre os recentes avanços na área de fusão nuclear, como o projeto ITER e o desenvolvimento de novas tecnologias para a geração de energia de fusão.",
+    "indonesian": "Selain itu, kita akan membahas tentang kemajuan terbaru di bidang fusi nuklir, seperti proyek ITER dan pengembangan teknologi baru untuk menghasilkan energi fusi."
+  },
+  {
+    "id": 10,
+    "start": 1000.0,
+    "duration": 100.0,
+    "english": "A fusão nuclear é um processo em que os núcleos atômicos se fundem para formar um núcleo mais pesado, liberando energia no processo.",
+    "indonesian": "Fusi nuklir adalah proses di mana inti atom bergabung untuk membentuk inti yang lebih berat, melepaskan energi dalam proses tersebut."
+  },
+  {
+    "id": 11,
+    "start": 1100.0,
+    "duration": 100.0,
+    "english": "Esse processo ocorre naturalmente no sol e em outras estrelas, onde a temperatura e a pressão são tão altas que os núcleos atômicos são forçados a se fundir.",
+    "indonesian": "Proses ini terjadi secara alami di matahari dan bintang lainnya, di mana suhu dan tekanan sangat tinggi sehingga inti atom terpaksa bergabung."
+  },
+  {
+    "id": 12,
+    "start": 1200.0,
+    "duration": 100.0,
+    "english": "No entanto, replicar esse processo na Terra é um desafio técnico significativo, pois requer a criação de condições extremas de temperatura e pressão.",
+    "indonesian": "Namun, mereplikasi proses ini di Bumi adalah tantangan teknis yang signifikan, karena memerlukan penciptaan kondisi ekstrem suhu dan tekanan."
+  },
+  {
+    "id": 13,
+    "start": 1300.0,
+    "duration": 100.0,
+    "english": "A simulação computacional desempenha um papel fundamental na pesquisa de fusão nuclear, pois permite que os cientistas modeluem e analisem os processos complexos envolvidos.",
+    "indonesian": "Simulasi komputasi memainkan peran penting dalam penelitian fusi nuklir, karena memungkinkan para ilmuwan untuk memodelkan dan menganalisis proses kompleks yang terlibat."
+  },
+  {
+    "id": 14,
+    "start": 1400.0,
+    "duration": 100.0,
+    "english": "A energia liberada nas reações nucleares de fusão vem da diferença de massa entre os núcleos atômicos que se fundem e o núcleo resultante.",
+    "indonesian": "Energi yang dilepaskan dalam reaksi nuklir fusi berasal dari perbedaan massa antara inti atom yang bergabung dan inti hasilnya."
+  },
+  {
+    "id": 15,
+    "start": 1500.0,
+    "duration": 100.0,
+    "english": "Essa energia é liberada na forma de radiação eletromagnética, como raios X e radiação gama, e pode ser convertida em eletricidade utilizando tecnologias apropriadas.",
+    "indonesian": "Energi ini dilepaskan dalam bentuk radiasi elektromagnetik, seperti sinar X dan radiasi gama, dan dapat diubah menjadi listrik dengan menggunakan teknologi yang tepat."
+  },
+  {
+    "id": 16,
+    "start": 1600.0,
+    "duration": 100.0,
+    "english": "Os progressos científicos recentes na área de fusão nuclear incluem o desenvolvimento de novas tecnologias de confinamento magnético e inercial.",
+    "indonesian": "Kemajuan ilmiah terbaru dalam bidang fusi nuklir termasuk pengembangan teknologi baru [rekoneksi magnetik (magnetic reconnection)] dan inersia."
+  },
+  {
+    "id": 17,
+    "start": 1700.0,
+    "duration": 100.0,
+    "english": "O projeto ITER, por exemplo, é uma iniciativa internacional que visa desenvolver uma usina de fusão nuclear comercialmente viável.",
+    "indonesian": "Proyek ITER, misalnya, adalah inisiatif internasional yang bertujuan mengembangkan pembangkit [fusi kurungan magnetis (magnetic confinement fusion)] yang layak secara komersial."
+  },
+  {
+    "id": 18,
+    "start": 1800.0,
+    "duration": 100.0,
+    "english": "Além disso, a pesquisa em fusão nuclear também tem implicações para a astrofísica, pois pode ajudar a entender melhor os processos que ocorrem nas estrelas e em outros corpos celestes.",
+    "indonesian": "Selain itu, penelitian fusi nuklir juga memiliki implikasi untuk astrofisika, karena dapat membantu memahami proses yang terjadi di bintang dan benda langit lainnya."
+  },
+  {
+    "id": 19,
+    "start": 1900.0,
+    "duration": 100.0,
+    "english": "A fusão nuclear é uma área de pesquisa em constante evolução, com novos desafios e oportunidades surgindo a cada dia.",
+    "indonesian": "Fusi nuklir adalah area penelitian yang terus berkembang, dengan tantangan dan kesempatan baru muncul setiap hari."
+  },
+  {
+    "id": 20,
+    "start": 2000.0,
+    "duration": 100.0,
+    "english": "Agora, vamos falar sobre a física de plasmas e como ela se relaciona com a fusão nuclear. A fusão nuclear é um processo em que os núcleos atômicos se fundem para formar um novo núcleo, liberando energia no processo.",
+    "indonesian": "Sekarang, kita akan membahas tentang fisika plasma dan bagaimana hubungannya dengan fusi nuklir. Fusi nuklir adalah proses di mana inti atom bergabung untuk membentuk inti baru, melepaskan energi dalam prosesnya."
+  },
+  {
+    "id": 21,
+    "start": 2100.0,
+    "duration": 100.0,
+    "english": "A física de plasmas é fundamental para entender como a fusão nuclear ocorre, pois os plasmas são compostos por partículas carregadas, como elétrons e íons, que interagem entre si.",
+    "indonesian": "Fisika plasma sangat penting untuk memahami bagaimana fusi nuklir terjadi, karena plasma terdiri dari partikel bermuatan, seperti elektron dan ion, yang berinteraksi satu sama lain."
+  },
+  {
+    "id": 22,
+    "start": 2200.0,
+    "duration": 100.0,
+    "english": "Um dos principais desafios da fusão nuclear é alcançar as condições necessárias para que a reação ocorra, como temperaturas extremamente altas e pressões muito elevadas.",
+    "indonesian": "Salah satu tantangan utama fusi nuklir adalah mencapai kondisi yang diperlukan agar reaksi terjadi, seperti suhu yang sangat tinggi dan tekanan yang sangat tinggi."
+  },
+  {
+    "id": 23,
+    "start": 2300.0,
+    "duration": 100.0,
+    "english": "A simulação computacional é uma ferramenta importante para entender como a fusão nuclear ocorre e como podemos alcançar as condições necessárias para a reação.",
+    "indonesian": "Simulasi komputasi adalah alat yang penting untuk memahami bagaimana fusi nuklir terjadi dan bagaimana kita dapat mencapai kondisi yang diperlukan untuk reaksi tersebut."
+  },
+  {
+    "id": 24,
+    "start": 2400.0,
+    "duration": 100.0,
+    "english": "A energia libertada nas reações de fusão nuclear vem da diferença de massa entre os núcleos atômicos que se fundem e o núcleo resultante.",
+    "indonesian": "Energi yang dilepaskan dalam reaksi fusi nuklir berasal dari perbedaan massa antara inti atom yang bergabung dan inti yang dihasilkan."
+  },
+  {
+    "id": 25,
+    "start": 2500.0,
+    "duration": 100.0,
+    "english": "A fusão nuclear é um processo que ocorre naturalmente no sol e em outras estrelas, onde as condições de temperatura e pressão são adequadas para a reação.",
+    "indonesian": "Fusi nuklir adalah proses yang terjadi secara alami di matahari dan bintang lainnya, di mana kondisi suhu dan tekanan sesuai untuk reaksi tersebut."
+  },
+  {
+    "id": 26,
+    "start": 2600.0,
+    "duration": 100.0,
+    "english": "No entanto, replicar essas condições na Terra é um desafio significativo, pois requer a criação de um ambiente com temperaturas extremamente altas e pressões muito elevadas.",
+    "indonesian": "Namun, mereplikasi kondisi tersebut di Bumi adalah tantangan yang signifikan, karena memerlukan penciptaan lingkungan dengan suhu yang sangat tinggi dan tekanan yang sangat tinggi."
+  },
+  {
+    "id": 27,
+    "start": 2700.0,
+    "duration": 100.0,
+    "english": "Os cientistas estão trabalhando para desenvolver tecnologias que permitam a fusão nuclear em laboratório, como o tokamak e o stellarator.",
+    "indonesian": "Para mencapai hal ini, para mencapai rekoneksi magnetik (magnetic reconnection) yang efisien, ilmuwan sedang bekerja untuk mengembangkan teknologi yang memungkinkan fusi nuklir di laboratorium, seperti tokamak dan stellarator."
+  },
+  {
+    "id": 28,
+    "start": 2800.0,
+    "duration": 100.0,
+    "english": "Essas tecnologias utilizam campos magnéticos para confinar e aquecer o plasma, criando as condições necessárias para a fusão nuclear.",
+    "indonesian": "Teknologi ini menggunakan medan magnet (magnetic field) untuk mengurung dan memanaskan plasma, menciptakan kondisi yang diperlukan untuk fusi nuklir, yang melibatkan rekoneksi magnetik (magnetic reconnection) dan instabilitas plasmoid (plasmoid instability)."
+  },
+  {
+    "id": 29,
+    "start": 2900.0,
+    "duration": 100.0,
+    "english": "A fusão nuclear é uma fonte de energia limpa e sustentável, que pode ser uma alternativa às fontes de energia fósseis e nucleares atuais.",
+    "indonesian": "Fusi nuklir adalah sumber energi yang bersih dan berkelanjutan, yang dapat menjadi alternatif untuk sumber energi fosil dan nuklir saat ini, dengan potensi untuk mengurangi dampak lingkungan dan meningkatkan keamanan energi."
+  },
+  {
+    "id": 30,
+    "start": 3000.0,
+    "duration": 100.0,
+    "english": "Agora, vamos falar sobre os progressos científicos recentes na área de fusão nuclear, como o projeto ITER e o confinamento magnético.",
+    "indonesian": "Sekarang, kita akan membahas tentang kemajuan ilmiah terkini di bidang fusi nuklir, seperti proyek ITER dan kurungan magnetis (magnetic confinement fusion)."
+  },
+  {
+    "id": 31,
+    "start": 3100.0,
+    "duration": 100.0,
+    "english": "O projeto ITER é um exemplo de como a comunidade científica está trabalhando juntos para alcançar a fusão nuclear controlada.",
+    "indonesian": "Proyek ITER adalah contoh bagaimana komunitas ilmiah bekerja sama untuk mencapai fusi nuklir terkendali."
+  },
+  {
+    "id": 32,
+    "start": 3200.0,
+    "duration": 100.0,
+    "english": "A fusão nuclear é uma reação em que dois núcleos atômicos se combinam para formar um novo núcleo, liberando energia no processo.",
+    "indonesian": "Fusi nuklir adalah reaksi di mana dua inti atom bergabung untuk membentuk inti baru, melepaskan energi dalam prosesnya."
+  },
+  {
+    "id": 33,
+    "start": 3300.0,
+    "duration": 100.0,
+    "english": "O confinamento magnético é uma técnica usada para conter o plasma quente e alcançar as condições necessárias para a fusão nuclear.",
+    "indonesian": "Kurungan magnetis (magnetic confinement) adalah teknik yang digunakan untuk mengandung plasma panas dan mencapai kondisi yang diperlukan untuk fusi nuklir."
+  },
+  {
+    "id": 34,
+    "start": 3400.0,
+    "duration": 100.0,
+    "english": "A energia liberada nas reações de fusão nuclear pode ser convertida em eletricidade utilizável na rede.",
+    "indonesian": "Energi yang dilepaskan dalam reaksi fusi nuklir dapat diubah menjadi listrik yang dapat digunakan dalam jaringan."
+  },
+  {
+    "id": 35,
+    "start": 3500.0,
+    "duration": 100.0,
+    "english": "A fusão aneutrónica é uma abordagem que visa minimizar a produção de nêutrons, tornando a fusão nuclear mais segura e eficiente.",
+    "indonesian": "Fusi aneutronik adalah pendekatan yang bertujuan untuk meminimalkan produksi neutron, membuat fusi nuklir lebih aman dan efisien."
+  },
+  {
+    "id": 36,
+    "start": 3600.0,
+    "duration": 100.0,
+    "english": "A investigação em fusão nuclear também tem implicações para a astrofísica, pois pode ajudar a entender melhor os processos que ocorrem nas estrelas.",
+    "indonesian": "Penelitian fusi nuklir juga memiliki implikasi untuk astrofisika, karena dapat membantu memahami proses yang terjadi di bintang-bintang dengan lebih baik."
+  },
+  {
+    "id": 37,
+    "start": 3700.0,
+    "duration": 100.0,
+    "english": "A liderança da Europa na investigação de fusão nuclear é fundamental para o desenvolvimento de tecnologias inovadoras e sustentáveis.",
+    "indonesian": "Kepemimpinan Eropa dalam penelitian fusi nuklir sangat penting untuk pengembangan teknologi inovatif dan berkelanjutan."
+  },
+  {
+    "id": 38,
+    "start": 3800.0,
+    "duration": 100.0,
+    "english": "A previsão é que a energia de fusão comercial esteja disponível na rede elétrica dentro de algumas décadas, o que pode revolucionar a forma como geramos energia.",
+    "indonesian": "Perkiraan adalah bahwa energi fusi komersial akan tersedia dalam jaringan listrik dalam beberapa dekade, yang dapat merevolusi cara kita menghasilkan energi."
+  }
+]

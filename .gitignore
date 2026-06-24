@@ -30,7 +30,9 @@ coverage.xml
 # Audio / Transcription downloads
 backend/audio.webm
 backend/audio.*
-backend/transcript_raw.json
+backend/transcript_raw*.json
+backend/*.vtt
+backend/uploaded_documents.json
 
 # Local Vector Database
 backend/chroma_db/

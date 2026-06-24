@@ -1,0 +1,3565 @@
+[
+  {
+    "id": 0,
+    "start": 1.92,
+    "duration": 8.08,
+    "english": "Okay well thank you thanks again uh for the introduction and uh thanks for the invitation i'm delighted",
+    "indonesian": "Baik, terima kasih, terima kasih lagi, uh, untuk pengantar dan, uh, terima kasih atas undangannya, saya senang"
+  },
+  {
+    "id": 1,
+    "start": 10.0,
+    "duration": 5.2,
+    "english": "To be here talking to you guys um i would be more delighted if this was",
+    "indonesian": "Untuk berada di sini dan berbicara dengan kalian, um, saya akan lebih senang jika ini diadakan"
+  },
+  {
+    "id": 2,
+    "start": 15.2,
+    "duration": 4.32,
+    "english": "Actually held in person i love porto i would have loved the excuse to go there",
+    "indonesian": "Secara langsung, saya suka Porto, saya akan sangat senang memiliki alasan untuk pergi ke sana"
+  },
+  {
+    "id": 3,
+    "start": 19.52,
+    "duration": 6.72,
+    "english": "Uh sadly that's not to be um but uh let me let me anyway applaud",
+    "indonesian": "Uh, sayangnya itu tidak akan terjadi, um, tapi, uh, biarkan saya, biarkan saya, bagaimanapun, memberi tepuk tangan"
+  },
+  {
+    "id": 4,
+    "start": 26.24,
+    "duration": 6.32,
+    "english": "The uh the committee for organizing this against what must have been difficult odds and",
+    "indonesian": "Kepada, uh, komite untuk mengorganisir ini melawan apa yang pasti merupakan kesulitan besar dan"
+  },
+  {
+    "id": 5,
+    "start": 32.56,
+    "duration": 8.48,
+    "english": "Everyone is attending for you know trying to better oneself by participating in this event and making it a success so",
+    "indonesian": "Semua orang yang hadir, kalian tahu, mencoba meningkatkan diri dengan berpartisipasi dalam acara ini dan membuatnya sukses, jadi"
+  },
+  {
+    "id": 6,
+    "start": 41.04,
+    "duration": 6.48,
+    "english": "Again um and nice to meet you everybody and uh and i hope um i hope i won't be",
+    "indonesian": "Lagi, um, dan senang bertemu dengan kalian semua, dan, uh, dan saya berharap, um, saya berharap saya tidak akan"
+  },
+  {
+    "id": 7,
+    "start": 47.52,
+    "duration": 8.48,
+    "english": "Wasting too much of your time with my lecture which is slightly ambitious in terms of its scope",
+    "indonesian": "Membuang terlalu banyak waktu kalian dengan kuliah saya, yang sedikit ambisius dalam hal cakupannya"
+  },
+  {
+    "id": 8,
+    "start": 56.0,
+    "duration": 7.6,
+    "english": "And um may not actually you know i won't be able to do justice to all of these things",
+    "indonesian": "Dan, um, mungkin tidak benar-benar, kalian tahu, saya tidak akan dapat melakukan keadilan untuk semua hal"
+  },
+  {
+    "id": 9,
+    "start": 63.6,
+    "duration": 5.04,
+    "english": "That are uh alluded to in the title but i'm hoping that i will be able to",
+    "indonesian": "Yang, uh, disinggung dalam judul, tapi saya berharap bahwa saya akan dapat"
+  },
+  {
+    "id": 10,
+    "start": 68.64,
+    "duration": 8.08,
+    "english": "Communicate at least some of the excitement about um plasma physics in its in several of its",
+    "indonesian": "Berkomunikasi setidaknya beberapa kegembiraan tentang, um, fisika plasma dalam beberapa manifestasinya yang saya kenal lebih baik, um, baik"
+  },
+  {
+    "id": 11,
+    "start": 76.72,
+    "duration": 8.16,
+    "english": "Sort of manifestations that i'm more familiar with um well no so",
+    "indonesian": "Jenis, um, saya tidak tahu, jadi"
+  },
+  {
+    "id": 12,
+    "start": 84.88,
+    "duration": 5.76,
+    "english": "If you wish to ask questions throughout the lecture uh that's fine i won't be actively monitoring the chat",
+    "indonesian": "Jika kalian ingin bertanya selama kuliah, uh, itu tidak masalah, saya tidak akan secara aktif memantau obrolan"
+  },
+  {
+    "id": 13,
+    "start": 90.64,
+    "duration": 7.52,
+    "english": "Because i'll be um you know focus on the talk but uh if something shows up um maybe the",
+    "indonesian": "Karena saya akan, uh, kalian tahu, fokus pada pembicaraan, tapi, uh, jika sesuatu muncul, um, mungkin"
+  },
+  {
+    "id": 14,
+    "start": 98.16,
+    "duration": 8.95,
+    "english": "Organizers can interrupt me and will clarify it as we go along cool so",
+    "indonesian": "Para penyelenggara dapat memotong saya dan akan menjelaskannya seiring berjalannya, keren, jadi"
+  },
+  {
+    "id": 15,
+    "start": 107.12,
+    "duration": 7.44,
+    "english": "I suppose you know um maybe i thought a good place to start is by",
+    "indonesian": "Saya rasa, kalian tahu, um, mungkin saya pikir tempat yang baik untuk memulai adalah"
+  },
+  {
+    "id": 16,
+    "start": 114.56,
+    "duration": 9.04,
+    "english": "Giving everybody a more specific idea of what a plasma is and um you know the sorts of complexities",
+    "indonesian": "Memberi semua orang gambaran yang lebih spesifik tentang apa itu plasma dan, uh, kalian tahu, jenis-jenis kompleksitas"
+  },
+  {
+    "id": 17,
+    "start": 123.6,
+    "duration": 7.99,
+    "english": "That arise when you're trying to study plasma physics so here's what the plasma is",
+    "indonesian": "Yang muncul ketika kalian mencoba mempelajari fisika plasma, jadi ini adalah apa itu plasma"
+  },
+  {
+    "id": 18,
+    "start": 131.6,
+    "duration": 9.92,
+    "english": "So plasma equals this person plus that person i'm hoping that you know that will",
+    "indonesian": "Jadi plasma sama dengan orang ini plus orang itu, saya berharap bahwa kalian tahu itu akan"
+  },
+  {
+    "id": 19,
+    "start": 141.52,
+    "duration": 6.48,
+    "english": "Recognize these two faces so that's maxwell and that's boltzmann and the reason i say this is that",
+    "indonesian": "Mengenali kedua wajah ini, jadi itu Maxwell dan itu Boltzmann, dan alasan saya mengatakan ini adalah bahwa"
+  },
+  {
+    "id": 20,
+    "start": 148.0,
+    "duration": 9.44,
+    "english": "Plasmas are a collection of interacting charged particles many of them",
+    "indonesian": "Plasma adalah kumpulan partikel bermuatan yang berinteraksi, banyak di antaranya"
+  },
+  {
+    "id": 21,
+    "start": 157.44,
+    "duration": 10.16,
+    "english": "And they interact via their mutual potential and so to explain the interaction of this up electron and ion gas",
+    "indonesian": "Dan mereka berinteraksi melalui potensial bersama, sehingga untuk menjelaskan interaksi gas elektron dan ion ini"
+  },
+  {
+    "id": 22,
+    "start": 167.6,
+    "duration": 10.4,
+    "english": "For example you typically well you will need maxwell's equations and of course because there's so many of them",
+    "indonesian": "Misalnya, Anda biasanya memerlukan persamaan Maxwell dan, tentu saja, karena ada banyak di antaranya"
+  },
+  {
+    "id": 23,
+    "start": 178.0,
+    "duration": 8.72,
+    "english": "You're better off using a statistical description as provided by boltzmann now more recently um these",
+    "indonesian": "Anda lebih baik menggunakan deskripsi statistik seperti yang diberikan oleh Boltzmann, dan baru-baru ini, uh, ini"
+  },
+  {
+    "id": 24,
+    "start": 186.72,
+    "duration": 7.28,
+    "english": "Two gentlemen also feature in um plasmas that we are interested in even though i won't talk very much about",
+    "indonesian": "Dua orang juga menjadi bagian dari plasma yang kita minati, meskipun saya tidak akan berbicara banyak tentang"
+  },
+  {
+    "id": 25,
+    "start": 194.0,
+    "duration": 11.04,
+    "english": "This um so this person is einstein of course and he is here because in many astrophysical applications um",
+    "indonesian": "Orang ini adalah Einstein, tentu saja, dan dia ada di sini karena dalam banyak aplikasi astrofisika, efek relativitas umum sangat penting"
+  },
+  {
+    "id": 26,
+    "start": 205.04,
+    "duration": 7.52,
+    "english": "Step relativity effects in plasmas are important and oftentimes general relativity effects such as for example",
+    "indonesian": "Efek relativitas khusus dalam plasma sangat penting dan seringkali efek relativitas umum, seperti misalnya"
+  },
+  {
+    "id": 27,
+    "start": 212.56,
+    "duration": 5.92,
+    "english": "If you're studying a christian around black holes or if you're studying neutron star collisions these are all",
+    "indonesian": "Jika Anda mempelajari sekitar lubang hitam atau jika Anda mempelajari tabrakan bintang neutron, semua ini adalah plasma dan Anda tidak bisa mengabaikan efek relativistik dan dalam kasus yang lebih eksotis, seperti"
+  },
+  {
+    "id": 28,
+    "start": 218.48,
+    "duration": 9.04,
+    "english": "Plasmas and you know there you can you can't neglect relativistic effects and in even more exotic cases such as",
+    "indonesian": "Magnetar dan pulsar, efek QED menjadi penting dan jadi Julian Schringer ada di sini untuk menunjukkan bahwa itu juga memungkinkan"
+  },
+  {
+    "id": 29,
+    "start": 227.52,
+    "duration": 9.6,
+    "english": "Magnetars and uh pulsars uh qed effects become important and so julian schringer is here to do um",
+    "indonesian": "Untuk menunjukkan bahwa itu juga memungkinkan sekarang, itu mungkin tidak akan mengejutkan Anda"
+  },
+  {
+    "id": 30,
+    "start": 237.12,
+    "duration": 7.2,
+    "english": "To show to show that that's also possible now it probably won't surprise you uh",
+    "indonesian": "Bahwa kombinasi teori yang dikerjakan oleh keempat orang di layar Anda sekarang"
+  },
+  {
+    "id": 31,
+    "start": 244.32,
+    "duration": 6.96,
+    "english": "That the combination of the theories worked on by these four people on your screen right",
+    "indonesian": "Sekarang mengarah pada sesuatu yang cukup kompleks dan, uh, jika itu adalah intuisi Anda, Anda benar"
+  },
+  {
+    "id": 32,
+    "start": 251.28,
+    "duration": 9.28,
+    "english": "Now leads to something that's pretty complex and um if that's your intuition you are correct",
+    "indonesian": "Jadi dinamika plasma memang sangat kompleks dan mungkin paling baik digambarkan sebagai elektrodinamika statistik tidak setimbang"
+  },
+  {
+    "id": 33,
+    "start": 260.56,
+    "duration": 8.08,
+    "english": "So plasma dynamics is indeed very complex and perhaps best described as out of equilibrium",
+    "indonesian": "Dengan efek relativistik dan kadang-kadang dengan efek QED"
+  },
+  {
+    "id": 34,
+    "start": 268.64,
+    "duration": 9.19,
+    "english": "Statistical electrodynamics uh sometimes with relativistic effects and sometimes with uh qed effect",
+    "indonesian": "Sekarang, plasma melakukan hal-hal luar biasa dan kita mempelajarinya karena mereka melakukan hal-hal luar biasa dan"
+  },
+  {
+    "id": 35,
+    "start": 277.84,
+    "duration": 7.84,
+    "english": "Now plasmas do amazing things and we study them uh both because they do amazing things and",
+    "indonesian": "Kita memiliki rasa ingin tahu intelektual dan jadi kita tahu kita sebagai fisikawan, kadang-kadang kita didorong oleh pertanyaan itu sendiri dan tidak"
+  },
+  {
+    "id": 36,
+    "start": 285.68,
+    "duration": 6.48,
+    "english": "We are intellectually curious and so we know us as physicists sometimes we're driven by the question itself and not",
+    "indonesian": "Selalu aplikasi praktisnya, tetapi juga karena ada banyak aplikasi praktis dari ilmu plasma"
+  },
+  {
+    "id": 37,
+    "start": 292.16,
+    "duration": 7.68,
+    "english": "Necessarily its practical applications but also because there are many practical uh applications of plasma",
+    "indonesian": "Jadi apa yang Anda lihat di sini sebenarnya adalah contoh dari keduanya, ini adalah"
+  },
+  {
+    "id": 38,
+    "start": 299.84,
+    "duration": 4.32,
+    "english": "Science so what you're looking at here is actually an example of both this is the",
+    "indonesian": "Matahari, meletus, jadi Anda mungkin telah melihat gambar dari solar flare sebelumnya, apa yang Anda lihat adalah semua"
+  },
+  {
+    "id": 39,
+    "start": 304.16,
+    "duration": 10.16,
+    "english": "Sun uh flaring uh so you probably have seen images of solar flares before what you're looking at is so all of",
+    "indonesian": "Ini adalah contoh dari kedua hal tersebut, yaitu ilmu plasma dan aplikasinya"
+  },
+  {
+    "id": 40,
+    "start": 314.32,
+    "duration": 4.4,
+    "english": "These contours here i hope you can see my screen these are actually so this is actually",
+    "indonesian": "Kontur-kontur ini, semoga Anda bisa melihat layar saya, sebenarnya, jadi ini sebenarnya"
+  },
+  {
+    "id": 41,
+    "start": 318.72,
+    "duration": 5.28,
+    "english": "Radiation that you're seeing from the plasma in the solar corona and the plasma is",
+    "indonesian": "Radiasi yang Anda lihat dari plasma di korona surya dan plasma itu"
+  },
+  {
+    "id": 42,
+    "start": 324.0,
+    "duration": 6.4,
+    "english": "Very strongly anchored in the magnetic fields on the surface of the sun so it actually",
+    "indonesian": "Sangat kuat tertambat pada medan magnet di permukaan matahari sehingga sebenarnya"
+  },
+  {
+    "id": 43,
+    "start": 330.4,
+    "duration": 7.52,
+    "english": "Traces magnetic field lines so these loops are loops of magnetic field and because the photo is fierce so the",
+    "indonesian": "Mengikuti garis-garis medan magnet sehingga loop-loop ini adalah loop dari medan magnet dan karena foto itu sangat kuat sehingga"
+  },
+  {
+    "id": 44,
+    "start": 337.92,
+    "duration": 7.92,
+    "english": "The surface if you will of the sun is turbulent these magnetic field loops are being continuously twisted by random",
+    "indonesian": "Permukaan, jika Anda mau, dari matahari itu turbulen, loop-loop medan magnet ini terus-menerus dipuntir oleh gerakan acak"
+  },
+  {
+    "id": 45,
+    "start": 345.84,
+    "duration": 8.4,
+    "english": "Footpoint motion and um sometimes that leads to a lot of tension being applied to these",
+    "indonesian": "Titik kaki dan, uh, kadang-kadang itu menyebabkan banyak ketegangan diterapkan pada medan magnet ini dan relaksasinya dapat menyebabkan peristiwa-peristiwa ledakan seperti semburan surya sehingga itu tentu saja"
+  },
+  {
+    "id": 46,
+    "start": 354.24,
+    "duration": 8.64,
+    "english": "Magnetic fields and their relaxation can lead to these explosive events such as solar flares so that's of course",
+    "indonesian": "Suatu hal yang menarik untuk dipahami, Anda tahu, bagaimana tepatnya ini terjadi, tetapi jika Anda lebih berpikiran teknik atau"
+  },
+  {
+    "id": 47,
+    "start": 362.88,
+    "duration": 7.2,
+    "english": "A fascinating thing to try to understand you know how exactly does this happen but if you're more engineering minded or",
+    "indonesian": "Lebih berpikiran praktis, peristiwa-peristiwa seperti ini, uh, meluncurkan elektron berenergi tinggi yang, Anda tahu, dalam kasus ekstrem dapat"
+  },
+  {
+    "id": 48,
+    "start": 370.08,
+    "duration": 10.0,
+    "english": "More practical minded these sorts of events uh launch highly energetic electrons that you know in extreme cases can",
+    "indonesian": "Bahkan menghancurkan satelit dan Anda tahu bahwa itu adalah masalah untuk komunikasi di bumi dll, sehingga itu meluncurkan"
+  },
+  {
+    "id": 49,
+    "start": 380.08,
+    "duration": 9.04,
+    "english": "Actually fry satellites and you know that that's a problem for communications on earth etc so it launches a",
+    "indonesian": "Disiplin, uh, yang dikenal sebagai cuaca ruang angkasa, uh, yang mencoba memahami koneksi matahari-bumi dan"
+  },
+  {
+    "id": 50,
+    "start": 389.12,
+    "duration": 7.6,
+    "english": "Discipline um known as space weather uh which tries to understand the sun earth connection and",
+    "indonesian": "Apa yang terjadi di sana dan itu, tentu saja, di jantungnya adalah dinamika plasma non-linear"
+  },
+  {
+    "id": 51,
+    "start": 396.72,
+    "duration": 7.68,
+    "english": "What's going on there and that of course at the heart of that is non-linear plasma dynamics",
+    "indonesian": "Seperti yang Anda lihat di sini, jadi mari kita berbicara sedikit tentang mengapa fisika plasma itu penting"
+  },
+  {
+    "id": 52,
+    "start": 404.4,
+    "duration": 7.36,
+    "english": "Such as you're seeing here so let's talk a little bit about why plasma physics matters",
+    "indonesian": "Uh, jadi saya sudah mengatakan ini sebelumnya, uh, itu menarik per se sebagai garis depan intelektual fisika teoretis"
+  },
+  {
+    "id": 53,
+    "start": 411.76,
+    "duration": 6.64,
+    "english": "Um so i said this already um it's interesting per se as an intellectual frontier of theoretical physics",
+    "indonesian": "Uh, maaf dan, uh, secara kebetulan, Anda tahu, Anda, uh, pertanyaan yang sering muncul adalah ini"
+  },
+  {
+    "id": 54,
+    "start": 418.4,
+    "duration": 8.0,
+    "english": "Um sorry and sort of by the way you know you um the question that often arises is this",
+    "indonesian": "Anda tahu, saya kadang-kadang menjelaskan kepada, uh, rekan bahwa, Anda tahu, banyak fisika plasma adalah"
+  },
+  {
+    "id": 55,
+    "start": 426.4,
+    "duration": 7.2,
+    "english": "You know i sometimes explain to uh colleagues that you know a lot of plasma physics is",
+    "indonesian": "Prarelativistik dan pra-kuantum dan mereka, uh, menatap saya dengan kepercayaan dan berpikir bagaimana itu bisa menarik"
+  },
+  {
+    "id": 56,
+    "start": 433.6,
+    "duration": 5.92,
+    "english": "Pre-relativistic and pre-quantum and they sort of stare at me in this belief and think how can that be any",
+    "indonesian": "Dan, uh, Anda tahu, itu menarik dalam arti bahwa di luar keseimbangan elektrodinamika statistik"
+  },
+  {
+    "id": 57,
+    "start": 439.52,
+    "duration": 6.16,
+    "english": "Interesting and well you know it's interesting in the sense that out of equilibrium statistical",
+    "indonesian": "Tidaklah sederhana dan, uh, itu saja, sehingga Maxwell plus Boltzmann menyebabkan kompleksitas yang luar biasa dan, uh, itu cukup untuk menjaga banyak"
+  },
+  {
+    "id": 58,
+    "start": 445.68,
+    "duration": 6.24,
+    "english": "Electrodynamics is not a source filled by any means and so that alone so maxwell plus",
+    "indonesian": "Orang sibuk dan, uh, itu cukup menarik"
+  },
+  {
+    "id": 59,
+    "start": 451.92,
+    "duration": 8.64,
+    "english": "Bloatzman leads to enormous complexity and um that's quite enough to keep a lot of",
+    "indonesian": "Dan, uh, itu cukup untuk menjaga banyak orang sibuk"
+  },
+  {
+    "id": 60,
+    "start": 460.56,
+    "duration": 6.8,
+    "english": "A lot of us busy um so you know so i'm not i'm not overstating it when i say that it's an",
+    "indonesian": "Banyak dari kita sibuk, jadi Anda tahu, jadi saya tidak melebih-lebihkan ketika saya mengatakan bahwa ini adalah"
+  },
+  {
+    "id": 61,
+    "start": 467.36,
+    "duration": 7.28,
+    "english": "Open intellectual frontier of theoretical physics but in terms of sort of scientific and engineering questions",
+    "indonesian": "Sebuah batas intelektual terbuka dari fisika teoretis, tetapi dalam hal pertanyaan ilmiah dan teknik"
+  },
+  {
+    "id": 62,
+    "start": 474.64,
+    "duration": 9.6,
+    "english": "Um you may have heard of fusion as an alternative clean energy source so much",
+    "indonesian": "Um, Anda mungkin telah mendengar tentang fusi sebagai sumber energi bersih alternatif, sehingga banyak"
+  },
+  {
+    "id": 63,
+    "start": 484.24,
+    "duration": 5.6,
+    "english": "So that the national academy of engineering here in the u.s has chosen fusion as",
+    "indonesian": "Sehingga Akademi Nasional Teknik di sini di AS telah memilih fusi sebagai"
+  },
+  {
+    "id": 64,
+    "start": 489.84,
+    "duration": 6.16,
+    "english": "One of the grand challenges for engineering in the 21st century and i'll talk more about this fusion at",
+    "indonesian": "Salah satu tantangan besar untuk teknik di abad ke-21 dan saya akan membahas lebih lanjut tentang fusi ini di"
+  },
+  {
+    "id": 65,
+    "start": 496.0,
+    "duration": 6.08,
+    "english": "Its heart whether it is successful or not depends on how much we can control the plasma",
+    "indonesian": "Intinya, apakah itu berhasil atau tidak, tergantung pada seberapa banyak kita dapat mengontrol plasma"
+  },
+  {
+    "id": 66,
+    "start": 502.08,
+    "duration": 6.8,
+    "english": "And predict and understand its non-linear dynamics so that's quite a challenge and then there's a lot of applications",
+    "indonesian": "Dan memprediksi serta memahami dinamika non-liniernya, sehingga itu merupakan tantangan yang cukup besar dan kemudian ada banyak aplikasi"
+  },
+  {
+    "id": 67,
+    "start": 508.88,
+    "duration": 4.32,
+    "english": "In astrophysics and one of the ones that i will talk about a little bit",
+    "indonesian": "Dalam astrofisika dan salah satunya yang akan saya bahas sedikit"
+  },
+  {
+    "id": 68,
+    "start": 513.2,
+    "duration": 6.48,
+    "english": "Is the origin of magnetic fields that provide a universe and that ties into the magnetogenesis",
+    "indonesian": "Adalah asal-usul medan magnet yang menyediakan alam semesta dan itu terkait dengan masalah magnetogenesis"
+  },
+  {
+    "id": 69,
+    "start": 519.68,
+    "duration": 9.6,
+    "english": "Problem and the dynamo column meaning the amplification of magnetic fields via plasma motions things i want to talk",
+    "indonesian": "Dan dinamo, yang berarti amplifikasi medan magnet melalui gerakan plasma, hal-hal yang ingin saya bahas"
+  },
+  {
+    "id": 70,
+    "start": 529.28,
+    "duration": 6.96,
+    "english": "About so much are origin of cosmic rays which are thought to be accelerated by plasma processes uh throughout the",
+    "indonesian": "Tentang asal-usul sinar kosmik yang diyakini dipercepat oleh proses plasma di seluruh"
+  },
+  {
+    "id": 71,
+    "start": 536.24,
+    "duration": 6.72,
+    "english": "Universe blackwell emission injects um and a lot of other things like neutron star collisions",
+    "indonesian": "Alam semesta, emisi blackwell, dan banyak hal lain seperti tabrakan bintang neutron"
+  },
+  {
+    "id": 72,
+    "start": 542.96,
+    "duration": 9.84,
+    "english": "Um you know magnetars etc many astrophysical environments um are essentially plasmas that we try",
+    "indonesian": "Um, Anda tahu, magnetar, dan lain-lain, banyak lingkungan astrofisika yang pada dasarnya adalah plasma yang kita coba"
+  },
+  {
+    "id": 73,
+    "start": 552.8,
+    "duration": 8.04,
+    "english": "To understand and that depend on so our understanding of those environments depends on a clear understanding of plasma",
+    "indonesian": "Pahami dan pemahaman kita tentang lingkungan tersebut tergantung pada pemahaman yang jelas tentang fenomena plasma"
+  },
+  {
+    "id": 74,
+    "start": 560.84,
+    "duration": 6.44,
+    "english": "Phenomena and then people to of course explore applications of plasma physics to things like tabletop particle",
+    "indonesian": "Dan kemudian orang-orang juga menjelajahi aplikasi fisika plasma pada hal-hal seperti akselerator partikel meja"
+  },
+  {
+    "id": 75,
+    "start": 567.28,
+    "duration": 8.16,
+    "english": "Accelerators achieved via you know very powerful lasers uh space weather that i've mentioned already and then there's a whole",
+    "indonesian": "Yang dicapai melalui laser yang sangat kuat, cuaca ruang angkasa yang telah saya sebutkan sebelumnya, dan kemudian ada seluruh industri yang mengelilingi fisika plasma suhu rendah"
+  },
+  {
+    "id": 76,
+    "start": 575.44,
+    "duration": 7.6,
+    "english": "Industry surrounding low temperature plasma physics um with a lot of you know real industrial applications but i'll say",
+    "indonesian": "Um, dengan banyak aplikasi industri nyata, tetapi saya tidak akan mengatakan apa-apa tentang itu karena itu bukan domain saya dan saya tidak memiliki waktu untuk menjelajahinya"
+  },
+  {
+    "id": 77,
+    "start": 583.04,
+    "duration": 5.8,
+    "english": "Nothing about that because that's not my domain and nor do i have the time to explore it",
+    "indonesian": "Baik, jadi di sini adalah um, pengenalan singkat tentang fisika plasma"
+  },
+  {
+    "id": 78,
+    "start": 588.84,
+    "duration": 8.2,
+    "english": "Here okay so here's um a very brief introduction to plasma",
+    "indonesian": "Fisika plasma 101, seperti yang mereka sebut di AS untuk kursus pengantar, jadi Anda tahu, biarkan saya"
+  },
+  {
+    "id": 79,
+    "start": 597.04,
+    "duration": 9.44,
+    "english": "Physics so 101 as they would call it in the us's denomination for introductory courses so you know let me",
+    "indonesian": "Mulai"
+  },
+  {
+    "id": 80,
+    "start": 606.48,
+    "duration": 6.48,
+    "english": "Say i say to you the plasma is a collection of a large number of charged particles",
+    "indonesian": "Katakanlah saya katakan kepada Anda bahwa plasma adalah kumpulan sejumlah besar partikel bermuatan"
+  },
+  {
+    "id": 81,
+    "start": 612.96,
+    "duration": 7.44,
+    "english": "And they're interacting for simplicity via their own coulomb potential right so i have a particle here a particle here",
+    "indonesian": "Dan mereka berinteraksi, untuk kesederhanaan, melalui potensial Coulomb mereka sendiri, kan? Jadi saya memiliki partikel di sini, partikel di sini"
+  },
+  {
+    "id": 82,
+    "start": 620.4,
+    "duration": 4.48,
+    "english": "They are at the certain distance we can compute the force between those two particles",
+    "indonesian": "Mereka berada pada jarak tertentu, kita dapat menghitung gaya antara kedua partikel tersebut"
+  },
+  {
+    "id": 83,
+    "start": 624.88,
+    "duration": 6.08,
+    "english": "And you know how do i solve the evolution of this of this system you know you might say",
+    "indonesian": "Dan Anda tahu, bagaimana saya memecahkan evolusi sistem ini, Anda tahu, Anda mungkin berkata"
+  },
+  {
+    "id": 84,
+    "start": 630.96,
+    "duration": 8.16,
+    "english": "Well that's very simple i'll solve f equals ma for each particle trivial okay so what do i do i know i choose a",
+    "indonesian": "Baiklah, itu sangat sederhana, saya akan memecahkan f = ma untuk setiap partikel, trivial, oke, apa yang saya lakukan, saya memilih sebuah"
+  },
+  {
+    "id": 85,
+    "start": 639.12,
+    "duration": 5.28,
+    "english": "Particle i compute the force on that particle due to every other particle in my system",
+    "indonesian": "Partikel, saya menghitung gaya pada partikel tersebut karena setiap partikel lain dalam sistem saya"
+  },
+  {
+    "id": 86,
+    "start": 644.4,
+    "duration": 4.64,
+    "english": "And that gives me the acceleration i'll move it forward and you know i do this for every",
+    "indonesian": "Dan itu memberi saya percepatan, saya akan memindahkannya ke depan, dan Anda tahu, saya melakukan ini untuk setiap"
+  },
+  {
+    "id": 87,
+    "start": 649.04,
+    "duration": 7.68,
+    "english": "Particle so that's called an n-body problem um and you can do that if you have two or three",
+    "indonesian": "Partikel, jadi itu disebut masalah n-tubuh, um, dan Anda dapat melakukannya jika Anda memiliki dua atau tiga"
+  },
+  {
+    "id": 88,
+    "start": 656.72,
+    "duration": 8.64,
+    "english": "Particles uh you know computationally you can do it if you have a few million particles but you know",
+    "indonesian": "Partikel, uh, Anda tahu, secara komputasi Anda dapat melakukannya jika Anda memiliki beberapa juta partikel, tapi Anda tahu"
+  },
+  {
+    "id": 89,
+    "start": 665.36,
+    "duration": 6.56,
+    "english": "There's many more particles than that in a plasma there's in fact uh you know",
+    "indonesian": "Terdapat banyak partikel lain dalam plasma, ada sebenarnya, uh, Anda tahu"
+  },
+  {
+    "id": 90,
+    "start": 671.92,
+    "duration": 4.16,
+    "english": "Billions and billions right and so this is not going to be a fruitful approach",
+    "indonesian": "Miliaran dan miliaran, kan? Jadi ini tidak akan menjadi pendekatan yang berguna"
+  },
+  {
+    "id": 91,
+    "start": 676.08,
+    "duration": 5.2,
+    "english": "Because even though it is sort of the most rigorous approach you are not going to be able to solve",
+    "indonesian": "Karena meskipun ini adalah pendekatan yang paling ketat, Anda tidak akan dapat memecahkan"
+  },
+  {
+    "id": 92,
+    "start": 681.28,
+    "duration": 7.76,
+    "english": "Anything right that's nor analytically nor really computationally and you know this illustration here is actually a",
+    "indonesian": "Apa pun, baik secara analitis maupun komputasi, dan Anda tahu, ilustrasi di sini sebenarnya adalah"
+  },
+  {
+    "id": 93,
+    "start": 689.04,
+    "duration": 5.6,
+    "english": "Simulation done by a high school high school student that was interning in my group",
+    "indonesian": "Simulasi yang dilakukan oleh seorang siswa sekolah menengah yang magang di kelompok saya"
+  },
+  {
+    "id": 94,
+    "start": 694.64,
+    "duration": 7.28,
+    "english": "And this is just to show you this is the complexity of uh electron trajectories that you can",
+    "indonesian": "Dan ini hanya untuk menunjukkan kepada Anda, ini adalah kompleksitas trayektori elektron yang dapat"
+  },
+  {
+    "id": 95,
+    "start": 701.92,
+    "duration": 7.6,
+    "english": "Get in a plasma if you have a magnetic field that you impose that's varying sinusoidally as a",
+    "indonesian": "Anda dapatkan dalam plasma jika Anda memiliki medan magnet yang Anda tetapkan yang bervariasi sinusoidally sebagai"
+  },
+  {
+    "id": 96,
+    "start": 709.52,
+    "duration": 9.68,
+    "english": "Function of time okay so this picture here is imagine that you give these electrons",
+    "indonesian": "Fungsi waktu, oke, jadi gambar di sini adalah bayangkan Anda memberikan elektron-elektron ini"
+  },
+  {
+    "id": 97,
+    "start": 719.2,
+    "duration": 5.52,
+    "english": "A magnetic field that you prescribe this magnetic field varies as a function of time at some frequency",
+    "indonesian": "Sebuah medan magnet yang Anda tetapkan, medan magnet ini bervariasi sebagai fungsi waktu pada beberapa frekuensi"
+  },
+  {
+    "id": 98,
+    "start": 724.72,
+    "duration": 4.64,
+    "english": "And you ask what are going to be the trajectories of these electrons and this is what you get you know you",
+    "indonesian": "Dan Anda bertanya, apa yang akan menjadi trayektori elektron-elektron ini, dan ini adalah apa yang Anda dapatkan, Anda tahu Anda"
+  },
+  {
+    "id": 99,
+    "start": 729.36,
+    "duration": 6.08,
+    "english": "See the electrons with random velocities initially and you get this sort of behavior you",
+    "indonesian": "Melihat elektron-elektron dengan kecepatan acak awalnya dan Anda mendapatkan perilaku seperti ini, Anda"
+  },
+  {
+    "id": 100,
+    "start": 735.44,
+    "duration": 7.44,
+    "english": "Know as an illustration i think it makes it quite clear that even to the prescribed simple magnetic",
+    "indonesian": "Dikenal sebagai ilustrasi, saya pikir itu membuatnya cukup jelas bahwa bahkan untuk medan magnet sederhana yang ditentukan"
+  },
+  {
+    "id": 101,
+    "start": 742.88,
+    "duration": 6.96,
+    "english": "Fields give rise to a lot of complexity and you know magnetic fields in a plasma when they are evolved",
+    "indonesian": "Menghasilkan banyak kompleksitas dan Anda tahu medan magnet dalam plasma ketika mereka berkembang"
+  },
+  {
+    "id": 102,
+    "start": 749.84,
+    "duration": 6.4,
+    "english": "Self-consistently easily become turbulent right and so it's basically hopeless to think that you're going to be",
+    "indonesian": "Dengan sendirinya mudah menjadi turbulen, jadi sebenarnya tidak mungkin untuk berpikir bahwa Anda akan menghitung trajektori secara eksak atau apa pun yang mendekati kondisi realistis, oke, jadi kita tidak melakukan ini"
+  },
+  {
+    "id": 103,
+    "start": 756.24,
+    "duration": 9.68,
+    "english": "Computing trajectories exactly or anything that approaches realistic conditions okay um so we don't do this right",
+    "indonesian": "Karena jika Anda mencoba melakukan masalah ini dengan simulasi n-tubuh, Anda tidak akan dapat menyelesaikannya, jadi sebaliknya, seperti yang saya katakan, kita sering mengadopsi deskripsi statistik lebih"
+  },
+  {
+    "id": 104,
+    "start": 765.92,
+    "duration": 6.88,
+    "english": "Because if you if you were trying to do this problem with an n-body simulation you you'd",
+    "indonesian": "Karena jika Anda mencoba melakukan masalah ini dengan simulasi n-tubuh, Anda pada dasarnya akan berhenti, Anda tidak akan dapat menyelesaikan apa pun"
+  },
+  {
+    "id": 105,
+    "start": 772.8,
+    "duration": 7.2,
+    "english": "Basically stop you wouldn't be able to solve anything so instead like i said you know we often",
+    "indonesian": "Jadi, sebaliknya, seperti yang saya katakan, kita sering mengadopsi deskripsi statistik lebih, dan di sini, Anda tahu, ada persamaan Boltzmann, jika Anda mau"
+  },
+  {
+    "id": 106,
+    "start": 780.0,
+    "duration": 6.0,
+    "english": "Adopt sort of a more statistical description and here's you know here's boltzmann equation if you wish",
+    "indonesian": "Di mana percepatan diberikan oleh gaya Lorentz, medan listrik plus medan magnet yang bekerja pada partikel yang berada pada posisi r dengan kecepatan v, oke, jadi bagaimana Anda menyelesaikan ini"
+  },
+  {
+    "id": 107,
+    "start": 786.0,
+    "duration": 5.28,
+    "english": "Where the acceleration is given by the lorentz force electric field plus a magnetic field",
+    "indonesian": "Konsisten, baik, Anda melakukan ini, Anda melakukan ini sebagai berikut, Anda mengatakan saya akan menyelesaikan persamaan ini, tapi saya membutuhkan medan listrik dan medan magnet, luar biasa, jadi saya tahu persamaan Maxwell, di sini mereka"
+  },
+  {
+    "id": 108,
+    "start": 791.28,
+    "duration": 8.8,
+    "english": "Acting on particles that are at position r with velocity v okay so how do you solve this stuff",
+    "indonesian": "Dan, kira-kira, mereka ditulis di sini dalam satuan cgs karena, uh, kita adalah penganut kuat fakta bahwa medan listrik dan medan magnet harus memiliki satuan yang sama, jadi kita menggunakan cgs secara umum, jadi di sana Anda"
+  },
+  {
+    "id": 109,
+    "start": 800.08,
+    "duration": 6.48,
+    "english": "Consistently well you do it you do it as follows you say i'm going to solve this equation",
+    "indonesian": "Jadi, itu saja, uh, itu saja Maxwell, lalu Anda mengatakan, tapi Maxwell bergantung pada kerapatan muatan dan bergantung pada kerapatan arus, jadi bagaimana saya bisa menghitungnya, baik, Anda melakukan itu"
+  },
+  {
+    "id": 110,
+    "start": 806.56,
+    "duration": 6.48,
+    "english": "But i need electric fields and magnetic fields wonderful so i know maxwell's equations here they are",
+    "indonesian": "Karena kerapatan muatan adalah jumlah atas semua spesies dari kerapatan kali muatan, dan kerapatan adalah hanya integral atas ruang kecepatan dari fungsi distribusi, dan kecepatan adalah momen pertama, jadi"
+  },
+  {
+    "id": 111,
+    "start": 813.04,
+    "duration": 7.36,
+    "english": "And by the way they are written here in uh cgs units because um we are strong believers in",
+    "indonesian": "Ini adalah sistem tertutup, dan itu adalah hal yang indah, dalam cara tertentu, kan, jadi Anda menyelesaikan persamaan ini untuk mendapatkan, Anda menghitung arus dan Anda menghitung kerapatan dan kerapatan muatan dan kecepatan Anda"
+  },
+  {
+    "id": 112,
+    "start": 820.4,
+    "duration": 6.64,
+    "english": "The fact that the electric field and magnetic field should have the same units so we use cgs tendentially so there you",
+    "indonesian": "Anda memasukkan itu ke dalam persamaan Maxwell, Anda menghitung medan listrik dan medan magnet yang konsisten, Anda memasukkan semuanya kembali, dan Anda"
+  },
+  {
+    "id": 113,
+    "start": 827.04,
+    "duration": 5.92,
+    "english": "Are so that's it um so that's maxwell and then you say well but maxwell depends on charge",
+    "indonesian": "Anda memasukkan semuanya kembali, dan Anda, uh, menyelesaikan sistem ini secara konsisten, dan itu adalah hal yang indah"
+  },
+  {
+    "id": 114,
+    "start": 832.96,
+    "duration": 7.36,
+    "english": "Density and depends on current density so how can i compute those well you do",
+    "indonesian": "Jadi, Anda menyelesaikan persamaan ini untuk mendapatkan, Anda menghitung arus dan Anda menghitung kerapatan dan kerapatan muatan dan kecepatan Anda, Anda memasukkan itu ke dalam persamaan Maxwell"
+  },
+  {
+    "id": 115,
+    "start": 840.32,
+    "duration": 8.72,
+    "english": "That because card density is the sum over all species of density times charge and the density is just the integral",
+    "indonesian": "Anda menghitung medan listrik dan medan magnet yang konsisten, Anda memasukkan semuanya kembali, dan Anda menyelesaikan sistem ini secara konsisten"
+  },
+  {
+    "id": 116,
+    "start": 849.04,
+    "duration": 6.4,
+    "english": "Over velocity space of the distribution function and the velocity is the first moment so",
+    "indonesian": "Dan itu adalah hal yang indah, dalam cara tertentu, kan, jadi Anda menyelesaikan persamaan ini untuk mendapatkan, Anda menghitung arus dan Anda menghitung kerapatan dan kerapatan muatan dan kecepatan Anda"
+  },
+  {
+    "id": 117,
+    "start": 855.44,
+    "duration": 6.4,
+    "english": "This is a closed system and it's a beautiful thing in a way right so you solve this equation to get",
+    "indonesian": "Anda memasukkan itu ke dalam persamaan Maxwell, Anda menghitung medan listrik dan medan magnet yang konsisten, Anda memasukkan semuanya kembali, dan Anda menyelesaikan sistem ini secara konsisten, dan itu adalah sistem tertutup"
+  },
+  {
+    "id": 118,
+    "start": 861.84,
+    "duration": 7.44,
+    "english": "F you compute the current and you compute the density and the charge density and the velocities you",
+    "indonesian": "Jadi, Anda menyelesaikan persamaan ini untuk mendapatkan, Anda menghitung arus dan Anda menghitung kerapatan dan kerapatan muatan dan kecepatan Anda, Anda memasukkan itu ke dalam persamaan Maxwell, Anda menghitung medan listrik dan medan magnet yang konsisten"
+  },
+  {
+    "id": 119,
+    "start": 869.28,
+    "duration": 8.32,
+    "english": "Plug that into maxwell's equations you compute the consistent electric fields and magnetic fields you plug the whole thing back and you",
+    "indonesian": "Anda memasukkan semuanya kembali, dan Anda menyelesaikan sistem ini secara konsisten, dan itu adalah hal yang indah, dalam cara tertentu, kan"
+  },
+  {
+    "id": 120,
+    "start": 877.6,
+    "duration": 5.04,
+    "english": "Solve again and you iterate until you converge now this is simple to state here's",
+    "indonesian": "Selesaikan lagi dan Anda mengulangi sampai Anda mencapai konvergensi sekarang ini sederhana untuk dinyatakan di sini"
+  },
+  {
+    "id": 121,
+    "start": 882.64,
+    "duration": 5.28,
+    "english": "Here's a simulation uh what you're looking at is just one dimensional in position and",
+    "indonesian": "Ini adalah simulasi uh apa yang Anda lihat hanyalah satu dimensi dalam posisi dan"
+  },
+  {
+    "id": 122,
+    "start": 887.92,
+    "duration": 6.32,
+    "english": "One dimensional velocity and you're looking at contours of f and there's some instability that doesn't",
+    "indonesian": "Satu dimensi kecepatan dan Anda melihat kontur dari f dan ada beberapa ketidakstabilan yang tidak"
+  },
+  {
+    "id": 123,
+    "start": 894.24,
+    "duration": 6.8,
+    "english": "Matter here it looks quite complicated but just to demonstrate that we can do this simulation and you know",
+    "indonesian": "Materi di sini terlihat cukup rumit tapi hanya untuk menunjukkan bahwa kita dapat melakukan simulasi ini dan Anda tahu"
+  },
+  {
+    "id": 124,
+    "start": 901.04,
+    "duration": 6.4,
+    "english": "Evolving f has a continuous object right the distribution function rather than thinking of individual particles which is sort of a",
+    "indonesian": "Mengembangkan f memiliki objek kontinu yang tepat fungsi distribusi daripada memikirkan partikel individu yang merupakan jenis"
+  },
+  {
+    "id": 125,
+    "start": 907.44,
+    "duration": 8.16,
+    "english": "More challenging problem now of course this is a fully non-linear system because to compute f i need electric and",
+    "indonesian": "Masalah yang lebih menantang sekarang tentu saja ini adalah sistem non-linear penuh karena untuk menghitung f saya perlu medan listrik dan"
+  },
+  {
+    "id": 126,
+    "start": 915.6,
+    "duration": 3.52,
+    "english": "Magnetic fields but to compute the electric and magnetic fields i need to know f",
+    "indonesian": "Medan magnet tetapi untuk menghitung medan listrik dan medan magnet saya perlu mengetahui f"
+  },
+  {
+    "id": 127,
+    "start": 919.12,
+    "duration": 6.96,
+    "english": "Right so it's fully non-linear and f itself is a six it's a fixed v object plus time",
+    "indonesian": "Kanan jadi ini adalah non-linear penuh dan f itu sendiri adalah enam itu adalah objek v yang tetap plus waktu"
+  },
+  {
+    "id": 128,
+    "start": 926.08,
+    "duration": 6.4,
+    "english": "And that's incredibly unpleasant of course you know you are not going to make a lot of",
+    "indonesian": "Dan itu sangat tidak menyenangkan tentu saja Anda tahu Anda tidak akan membuat banyak"
+  },
+  {
+    "id": 129,
+    "start": 932.48,
+    "duration": 7.68,
+    "english": "Progress trying to solve this analytically it is sort of very difficult it took someone like",
+    "indonesian": "Kemajuan mencoba menyelesaikan ini secara analitis itu adalah jenis sangat sulit itu membutuhkan seseorang seperti"
+  },
+  {
+    "id": 130,
+    "start": 940.16,
+    "duration": 8.88,
+    "english": "Landau himself to solve the linear version of this problem and therefore derive what is known as",
+    "indonesian": "Landau sendiri untuk menyelesaikan versi linear dari masalah ini dan oleh karena itu menghasilkan apa yang dikenal sebagai"
+  },
+  {
+    "id": 131,
+    "start": 949.04,
+    "duration": 10.08,
+    "english": "Landau damping in plasmas and it took a fields medalist cedric villani recently uh mathematician to show",
+    "indonesian": "Landau damping dalam plasma dan itu membutuhkan seorang pemenang medali Fields Cedric Villani baru-baru ini uh matematikawan untuk menunjukkan"
+  },
+  {
+    "id": 132,
+    "start": 959.12,
+    "duration": 8.88,
+    "english": "Um some interesting effects about the long-term behavior of the solutions to these equations so you know i'm not just take name",
+    "indonesian": "Um beberapa efek menarik tentang perilaku jangka panjang dari solusi untuk persamaan-persamaan ini jadi Anda tahu saya tidak hanya mengambil nama"
+  },
+  {
+    "id": 133,
+    "start": 968.0,
+    "duration": 8.08,
+    "english": "Dropping i'm saying this to you know to highlight the challenge in solving this equation",
+    "indonesian": "Saya mengatakan ini untuk Anda tahu untuk menyoroti tantangan dalam menyelesaikan persamaan ini"
+  },
+  {
+    "id": 134,
+    "start": 976.08,
+    "duration": 8.95,
+    "english": "Analytically or you know or deriving a lot of insight from an equation like this",
+    "indonesian": "Secara analitis atau Anda tahu atau menghasilkan banyak wawasan dari persamaan seperti ini"
+  },
+  {
+    "id": 135,
+    "start": 985.04,
+    "duration": 6.08,
+    "english": "Now you can take the extreme of opposite view you can say you know maybe i can think of this",
+    "indonesian": "Sekarang Anda dapat mengambil ekstrem dari pandangan yang berlawanan Anda dapat mengatakan Anda tahu mungkin saya dapat memikirkan plasma ini"
+  },
+  {
+    "id": 136,
+    "start": 991.12,
+    "duration": 7.12,
+    "english": "Plasma as a fluid a fluid of electrons and ions interacting with each other but i don't need to think about these",
+    "indonesian": "Sebagai fluida fluida elektron dan ion yang berinteraksi satu sama lain tetapi saya tidak perlu memikirkan partikel-partikel ini"
+  },
+  {
+    "id": 137,
+    "start": 998.24,
+    "duration": 6.32,
+    "english": "Particles maybe they're colliding enough right they collide all the time and therefore they have a fluid-like",
+    "indonesian": "Mungkin mereka bertabrakan cukup kan mereka bertabrakan sepanjang waktu dan oleh karena itu mereka memiliki karakter seperti fluida"
+  },
+  {
+    "id": 138,
+    "start": 1004.56,
+    "duration": 6.24,
+    "english": "Character this the flow of this object this plasma is you know like water except of course it now",
+    "indonesian": "Aliran objek ini plasma adalah Anda tahu seperti air kecuali tentu saja sekarang itu"
+  },
+  {
+    "id": 139,
+    "start": 1010.8,
+    "duration": 6.32,
+    "english": "Responds to the lawrence force and so if you adopt that so assuming that there's enough",
+    "indonesian": "Menanggapi hukum gaya Lorentz dan jika Anda mengadopsi itu dengan menganggap bahwa ada cukup"
+  },
+  {
+    "id": 140,
+    "start": 1017.12,
+    "duration": 9.44,
+    "english": "Collisions the distribution function is approximately maxwellian you'd write equations like this where rho is mass density so this thing is like a",
+    "indonesian": "Tumbukan, fungsi distribusi kira-kira Maxwell, Anda akan menulis persamaan seperti ini di mana rho adalah kerapatan massa, sehingga hal ini seperti"
+  },
+  {
+    "id": 141,
+    "start": 1026.56,
+    "duration": 8.8,
+    "english": "Continuity equation this thing here is actually just f equals m a right so this is this is the",
+    "indonesian": "Persamaan kontinuitas, hal ini di sini sebenarnya hanya f sama dengan m a, jadi ini adalah persamaan"
+  },
+  {
+    "id": 142,
+    "start": 1035.36,
+    "duration": 8.0,
+    "english": "Momentum equation where the forces acting on your fluid are pressure gradient viscosity lawrence force this is the",
+    "indonesian": "Momentum di mana gaya-gaya yang bekerja pada fluida Anda adalah gradien tekanan, viskositas, gaya Lorentz, ini adalah"
+  },
+  {
+    "id": 143,
+    "start": 1043.36,
+    "duration": 7.04,
+    "english": "Acceleration and then you need a diabetic equation of states an equation for pressure again you need to know the magnetic",
+    "indonesian": "Percepatan dan kemudian Anda memerlukan persamaan keadaan diabetes, persamaan untuk tekanan lagi Anda perlu tahu medan magnet"
+  },
+  {
+    "id": 144,
+    "start": 1050.4,
+    "duration": 8.96,
+    "english": "Field so you couple that with what's left of maxwell's equations and these are called",
+    "indonesian": "Jadi Anda menggabungkan itu dengan apa yang tersisa dari persamaan Maxwell dan ini disebut"
+  },
+  {
+    "id": 145,
+    "start": 1059.36,
+    "duration": 7.12,
+    "english": "The magnetohydrodynamic equations they're hydrodynamics but now there's a magnetic field so you refer to this as",
+    "indonesian": "Persamaan magnetohidrodinamik (magnetohydrodynamic equations), ini adalah hidrodinamika tetapi sekarang ada medan magnet jadi Anda merujuk pada ini sebagai"
+  },
+  {
+    "id": 146,
+    "start": 1066.48,
+    "duration": 9.68,
+    "english": "Magneto hydrodynamics and the first person to actually um sorry excuse me i've been lecturing online for over a year now and",
+    "indonesian": "Magnetohidrodinamika (magnetohydrodynamics) dan orang pertama yang sebenarnya, uh, maaf, saya telah mengajar online selama lebih dari satu tahun sekarang dan"
+  },
+  {
+    "id": 147,
+    "start": 1076.16,
+    "duration": 10.4,
+    "english": "It's still difficult to get things right um okay so this is this is alphane um who is the person to",
+    "indonesian": "Masih sulit untuk mendapatkan hal-hal yang benar, uh, oke, jadi ini adalah, uh, Alfvén, uh, yang merupakan orang yang"
+  },
+  {
+    "id": 148,
+    "start": 1086.56,
+    "duration": 8.64,
+    "english": "Coin this term magnetohydrodynamics and to first use these equations to derive um it's a type of wave that is",
+    "indonesian": "Menciptakan istilah magnetohidrodinamika dan pertama kali menggunakan persamaan ini untuk menghasilkan, uh, jenis gelombang yang karakteristik dari plasmanya, yaitu gelombang Alfvén, gangguan pada medan magnet yang merambat sepanjang medan magnet"
+  },
+  {
+    "id": 149,
+    "start": 1095.2,
+    "duration": 8.56,
+    "english": "Characteristic of plasmid called alphen waves disturbances in the magnetic field that propagate along the magnetic field",
+    "indonesian": "Dan untuk pekerjaan itu Anda mendapatkan Hadiah Nobel pada tahun 1970, jadi hanya untuk merangkum ini adalah dua"
+  },
+  {
+    "id": 150,
+    "start": 1103.76,
+    "duration": 6.16,
+    "english": "And for that work you got the nobel prize in 1970. so just to summarize these are two",
+    "indonesian": "Pandangan ekstrem dari plasma, Anda baik mengatakan saya akan menyelesaikan persamaan Boltzmann untuk fungsi distribusi"
+  },
+  {
+    "id": 151,
+    "start": 1109.92,
+    "duration": 6.24,
+    "english": "Extreme views of the plasma you either say i'm going to solve boltzmann equation for the distribution",
+    "indonesian": "Anda melakukan itu jika tumbukan jarang terjadi atau Anda mengatakan saya akan menyelesaikan persamaan magnetohidrodinamik"
+  },
+  {
+    "id": 152,
+    "start": 1116.16,
+    "duration": 6.4,
+    "english": "Function you do that if collisions are infrequent or you say i'm going to solve the",
+    "indonesian": "Dan Anda melakukan itu jika tumbukan cukup sering sekarang Anda tahu kecuali Anda adalah seorang jenius, sangat sulit untuk mendapatkan intuisi hanya dengan menatap kecepatan persamaan, persamaan Boltzmann"
+  },
+  {
+    "id": 153,
+    "start": 1122.56,
+    "duration": 8.96,
+    "english": "Magneto hydrodynamic equations and you do that if collisions are frequent enough now you know unless you're a genius it's",
+    "indonesian": "Tapi persamaan seperti ini sangat menarik bagi intuisi kita karena setiap orang memiliki gagasan tentang apa itu kerapatan"
+  },
+  {
+    "id": 154,
+    "start": 1131.52,
+    "duration": 6.64,
+    "english": "Very hard to get intuition from just staring at the velocity of the equation the boltzmann equation",
+    "indonesian": "Atau apa itu tekanan atau Anda tahu apa itu aliran, kan, air, Anda tahu saya memiliki aliran plasma"
+  },
+  {
+    "id": 155,
+    "start": 1138.16,
+    "duration": 7.76,
+    "english": "But equations like this appeal very much to our intuition because everybody has an idea of what a density",
+    "indonesian": "Saya mengukur kecepatan sebagai pada posisi tertentu, saya memahami konsep itu, kan, jadi sering kali kita mencoba bekerja dengan persamaan ini"
+  },
+  {
+    "id": 156,
+    "start": 1145.92,
+    "duration": 6.48,
+    "english": "Is or what the pressure is or you know what the flow is right of water you know i have a plasma",
+    "indonesian": "Jika kita bisa, jika tidak ada alasan lain, hanya karena fakta bahwa Anda tahu ini berbicara tentang"
+  },
+  {
+    "id": 157,
+    "start": 1152.4,
+    "duration": 8.4,
+    "english": "Flowing i measure velocity as at some position i understand that concept right so oftentimes we try to work with these",
+    "indonesian": "Kuantitas yang Anda tahu dapat diukur dan bahwa Anda memiliki banyak intuisi"
+  },
+  {
+    "id": 158,
+    "start": 1160.8,
+    "duration": 6.56,
+    "english": "Equations if we can if for no other reason just the fact that you know these are talking about",
+    "indonesian": "Jadi sering kali kita mencoba bekerja dengan persamaan ini jika kita bisa, jika tidak ada alasan lain, hanya karena fakta bahwa Anda tahu ini berbicara tentang"
+  },
+  {
+    "id": 159,
+    "start": 1167.36,
+    "duration": 4.56,
+    "english": "Quantities that you know you can measure and that you have a lot of intuition",
+    "indonesian": "Kuantitas yang Anda tahu dapat diukur dan bahwa Anda memiliki banyak intuisi"
+  },
+  {
+    "id": 160,
+    "start": 1171.92,
+    "duration": 8.08,
+    "english": "About and also oftentimes well not often always it's much easier",
+    "indonesian": "Tentang dan juga sering kali lebih mudah, tidak selalu, tapi sering kali lebih mudah"
+  },
+  {
+    "id": 161,
+    "start": 1180.0,
+    "duration": 3.76,
+    "english": "To solve these equations on a computer than it is to solve boltzmann because of",
+    "indonesian": "Untuk menyelesaikan persamaan-persamaan ini di komputer daripada menyelesaikan persamaan Boltzmann karena"
+  },
+  {
+    "id": 162,
+    "start": 1183.76,
+    "duration": 6.32,
+    "english": "Course all of these quantities here density velocity etc these are quantities that are just",
+    "indonesian": "Karena semua kuantitas di sini, seperti kepadatan, kecepatan, dan sebagainya, adalah kuantitas tiga dimensi, xyz, sedangkan f adalah objek enam dimensi v, kan? Jadi dalam hal"
+  },
+  {
+    "id": 163,
+    "start": 1190.08,
+    "duration": 6.32,
+    "english": "Three-dimensional the xyz whereas f was a six v object right so in terms of",
+    "indonesian": "Biaya komputasi, lebih mudah untuk menangani persamaan-persamaan ini daripada menangani persamaan Boltzmann, jadi"
+  },
+  {
+    "id": 164,
+    "start": 1196.4,
+    "duration": 4.96,
+    "english": "Computational costs it's much easier to deal with these equations than it is to deal with",
+    "indonesian": "Dalam hal biaya komputasi, lebih mudah untuk menangani persamaan-persamaan ini daripada menangani persamaan Boltzmann"
+  },
+  {
+    "id": 165,
+    "start": 1201.36,
+    "duration": 5.2,
+    "english": "Um with the boltzmann equation so here's an example of something that these equations are used",
+    "indonesian": "Um, dengan persamaan Boltzmann, jadi di sini ada contoh sesuatu yang digunakan persamaan-persamaan ini untuk"
+  },
+  {
+    "id": 166,
+    "start": 1206.56,
+    "duration": 6.72,
+    "english": "For this is a 3d simulation of an accretion disk around the central a massive central object perhaps a black",
+    "indonesian": "Ini adalah simulasi 3D dari cakram akrasi di sekitar objek pusat yang masif, mungkin sebuah lubang hitam"
+  },
+  {
+    "id": 167,
+    "start": 1213.28,
+    "duration": 7.36,
+    "english": "Hole the object itself is not simulated right but the christian disk is and you see that these equations capture",
+    "indonesian": "Objek itu sendiri tidak disimulasikan, kan? Tapi cakram akrasi disimulasikan dan Anda lihat bahwa persamaan-persamaan ini menangkap"
+  },
+  {
+    "id": 168,
+    "start": 1220.64,
+    "duration": 6.16,
+    "english": "Turbulence in the secretion disk and that turbulence is why matter in the accretion disk",
+    "indonesian": "Turbulensi (turbulence) di cakram akrasi dan turbulensi itu yang menyebabkan materi di cakram akrasi"
+  },
+  {
+    "id": 169,
+    "start": 1226.8,
+    "duration": 7.92,
+    "english": "Accretes much faster through the central object than it would if the only thing causing",
+    "indonesian": "Mengalir lebih cepat ke objek pusat daripada jika satu-satunya hal yang menyebabkan pelanggaran konservasi momentum sudut adalah viskositas karena viskositas sangat kecil di banyak cakram akrasi"
+  },
+  {
+    "id": 170,
+    "start": 1234.72,
+    "duration": 12.87,
+    "english": "Your break of angular momentum conservation was viscosity because viscosity is extremely small in many of these accretion disks",
+    "indonesian": "Karena viskositas sangat kecil di banyak cakram akrasi"
+  },
+  {
+    "id": 171,
+    "start": 1247.6,
+    "duration": 4.88,
+    "english": "Awesome so now that i think i've set the stage i'm sorry i'm looking for",
+    "indonesian": "Bagus, jadi sekarang saya rasa saya telah menyiapkan panggung, saya minta maaf, saya mencari"
+  },
+  {
+    "id": 172,
+    "start": 1252.48,
+    "duration": 6.96,
+    "english": "A watch excuse me just to keep track of time um now that i've set the stage we can",
+    "indonesian": "Jam, maaf, hanya untuk memantau waktu, um, sekarang saya telah menyiapkan panggung, kita bisa"
+  },
+  {
+    "id": 173,
+    "start": 1259.44,
+    "duration": 8.4,
+    "english": "Talk a little more about the things in the title and namely some aspects of fusion and some aspects",
+    "indonesian": "Berbicara sedikit lebih lanjut tentang hal-hal dalam judul dan khususnya beberapa aspek fusi dan beberapa aspek"
+  },
+  {
+    "id": 174,
+    "start": 1267.84,
+    "duration": 4.64,
+    "english": "Of magnetic fields throughout the universe so let me tell you a little bit about",
+    "indonesian": "Medan magnet di seluruh alam semesta, jadi izinkan saya memberitahu Anda sedikit tentang"
+  },
+  {
+    "id": 175,
+    "start": 1272.48,
+    "duration": 6.4,
+    "english": "Fusion um so the sun shines because fusion happens in this in the core of",
+    "indonesian": "Fusi, um, jadi matahari bersinar karena fusi terjadi di inti matahari"
+  },
+  {
+    "id": 176,
+    "start": 1278.88,
+    "duration": 8.4,
+    "english": "The sun right and um we've been trying to do that on earth for quite some time now",
+    "indonesian": "Kanan, dan, um, kita telah mencoba melakukan itu di bumi selama beberapa waktu sekarang"
+  },
+  {
+    "id": 177,
+    "start": 1287.28,
+    "duration": 8.0,
+    "english": "Um our problem is of course that we don't have the kind of gravitational pull that the sun has",
+    "indonesian": "Um, masalah kita tentu saja bahwa kita tidak memiliki gaya gravitasi seperti yang dimiliki matahari"
+  },
+  {
+    "id": 178,
+    "start": 1295.28,
+    "duration": 4.16,
+    "english": "Right so you can't very well just come up with an experiment in the lab",
+    "indonesian": "Kanan, jadi Anda tidak bisa hanya datang dengan eksperimen di laboratorium"
+  },
+  {
+    "id": 179,
+    "start": 1299.44,
+    "duration": 5.04,
+    "english": "Where you're going to confine a plasma gravitationally by just having you know some source of",
+    "indonesian": "Di mana Anda akan mengurung plasma secara gravitasi hanya dengan memiliki, Anda tahu, beberapa sumber"
+  },
+  {
+    "id": 180,
+    "start": 1304.48,
+    "duration": 8.24,
+    "english": "Gravity there right so um we're trying to do it with magnetic fields instead and",
+    "indonesian": "Gravitasi ada di sana, jadi, uh, kita mencoba melakukannya dengan medan magnet sebagai gantinya dan"
+  },
+  {
+    "id": 181,
+    "start": 1312.72,
+    "duration": 9.92,
+    "english": "It all relies on taking some gas right and heating it up so that your nuclei can overcome their mutual",
+    "indonesian": "Semuanya bergantung pada mengambil sejumlah gas, kan, dan memanaskannya sehingga inti Anda dapat mengatasi repulsinya secara bersamaan"
+  },
+  {
+    "id": 182,
+    "start": 1322.64,
+    "duration": 5.52,
+    "english": "Repulsion overcome the colon barrier and fuse and you know in this particular case for",
+    "indonesian": "Mengatasi repulsinya, mengatasi hambatan kolon dan melebur, dan Anda tahu dalam kasus khusus ini, misalnya, deuterium plus tritium Anda mendapatkan kembali, Anda mendapatkan partikel alpha sehingga helium plus neutron dan alasan"
+  },
+  {
+    "id": 183,
+    "start": 1328.16,
+    "duration": 8.64,
+    "english": "Example deuterium plus tritium you get back you get out an alpha particle so helium plus a neutron and the reason",
+    "indonesian": "Reaksi ini dalam reaksi fusi ini khususnya adalah yang paling sering kita pertimbangkan"
+  },
+  {
+    "id": 184,
+    "start": 1336.8,
+    "duration": 8.15,
+    "english": "This reaction in this fusion reaction in particular is the one that we most often consider",
+    "indonesian": "Hal ini terkait dengan penampang lintang dan bentuk penampang lintang adalah fungsi dari energi dan Anda tahu jika Anda berpikir bahwa sulit untuk memanaskan sesuatu ke suhu yang sangat tinggi, apa yang Anda cari adalah reaksi yang akan memaksimalkan penampang lintang pada suhu terendah mungkin"
+  },
+  {
+    "id": 185,
+    "start": 1344.96,
+    "duration": 2.8,
+    "english": "It has to do with cross-section and the shape of the cross-section is a function",
+    "indonesian": "Jadi, Anda bisa melakukannya dengan helium-3 atau Anda bisa melakukannya dengan deuterium, tapi reaksi yang memiliki penampang lintang tertinggi pada suhu terendah adalah deuterium-tritium, dan itu sebabnya kita melakukan hal itu, dan seluruh ide ini sangat sederhana, Anda tahu, reaksi ini menghasilkan partikel alpha dengan energi 3,5 MeV, menghasilkan neutron dengan energi 14 MeV"
+  },
+  {
+    "id": 186,
+    "start": 1347.76,
+    "duration": 4.8,
+    "english": "Of energy and you know if you think that it's difficult to heat something to",
+    "indonesian": "Neutron, tentu saja, tidak merespons medan listrik atau medan magnet, sehingga keluar dan Anda menggunakannya, secara teoretis, untuk mengaktifkan beberapa jenis siklus panas, dan helium tetap terkungkung, dan Anda berharap menggunakan energi dari helium untuk menjaga plasma Anda tetap panas, sehingga reaksi yang mandiri, ini tidak mudah dilakukan, jadi"
+  },
+  {
+    "id": 187,
+    "start": 1352.56,
+    "duration": 7.68,
+    "english": "Very high temperatures what you seek is the reaction that's going to maximize cross-section at the smallest possible temperature",
+    "indonesian": "Tanyakan pada diri Anda sendiri, bagaimana saya mengungkung gas elektron dan ion ketika Anda mencoba meletakkannya dalam wadah tertentu, katakanlah itu adalah silinder tertentu, Anda tahu, bergerak secara acak, pergi ke sana dan akhirnya mengenai dinding perangkat Anda"
+  },
+  {
+    "id": 188,
+    "start": 1360.24,
+    "duration": 3.52,
+    "english": "Right so you could be doing it with helium-3 or you could be doing it with",
+    "indonesian": "Dan merekombinasi di sana, dan Anda kehabisan plasma, jadi salah satu cara untuk melakukannya adalah dengan mengatakan, 'Baiklah, izinkan saya memiliki medan magnet yang menjalar melalui silinder ini, dan saya tahu bahwa jika saya melakukannya, partikel dapat bergerak"
+  },
+  {
+    "id": 189,
+    "start": 1363.76,
+    "duration": 7.2,
+    "english": "Deuterium but the reaction that has the most the most um the highest cross-section at the",
+    "indonesian": "Tapi bagaimana Anda mengungkungnya? Jadi, Anda memiliki medan magnet, dan medan magnet ini menghasilkan gaya pada partikel bermuatan, sehingga partikel bermuatan ini bergerak sepanjang garis-garis medan magnet (magnetic field lines), bukan secara acak, sehingga Anda dapat mengungkungnya"
+  },
+  {
+    "id": 190,
+    "start": 1370.96,
+    "duration": 6.48,
+    "english": "Lowest temperature happens to be deuterium tritium and so that's why we sort of do it and the whole idea is",
+    "indonesian": "Jadi, ini adalah ide dasar dari fusi kurungan magnetis (magnetic confinement fusion), dan ada beberapa cara untuk melakukannya, salah satunya adalah dengan menggunakan tokamak atau stellarator, yang merupakan perangkat yang dirancang untuk mengungkung plasma dalam medan magnet"
+  },
+  {
+    "id": 191,
+    "start": 1377.44,
+    "duration": 9.92,
+    "english": "Very simple you know this reaction produces an alpha particle with 3.5 mav energy it produces a neutron with 14 mev energy",
+    "indonesian": "Tapi, mengapa kita menggunakan medan magnet? Kita menggunakan medan magnet karena partikel bermuatan, seperti elektron dan ion, bergerak sepanjang garis-garis medan magnet, sehingga kita dapat mengungkungnya dengan lebih efektif"
+  },
+  {
+    "id": 192,
+    "start": 1387.36,
+    "duration": 7.84,
+    "english": "The neutron of course is not doesn't respond to electric fields or magnetic fields so it comes out and you use it",
+    "indonesian": "Jadi, ini adalah dasar dari fisika plasma (plasma physics) dan fusi nuklir, dan kita akan membahas lebih lanjut tentang topik ini dalam kuliah berikutnya"
+  },
+  {
+    "id": 193,
+    "start": 1395.2,
+    "duration": 8.56,
+    "english": "Presumably to activate some sort of heat cycle and the helium stays confined and you hope to use the energy from the",
+    "indonesian": "Namun, perlu diingat bahwa mengungkung plasma bukanlah tugas yang mudah, karena partikel bermuatan dapat bergerak secara acak dan mengenai dinding perangkat, sehingga kita perlu menggunakan teknik yang canggih untuk mengungkungnya"
+  },
+  {
+    "id": 194,
+    "start": 1403.76,
+    "duration": 9.76,
+    "english": "Helium to keep your plasma hot so a self-sustaining reaction this is not easy to do so",
+    "indonesian": "Salah satu teknik yang digunakan adalah dengan menggunakan medan magnet yang kuat, sehingga partikel bermuatan dapat bergerak sepanjang garis-garis medan magnet dan tidak mengenai dinding perangkat"
+  },
+  {
+    "id": 195,
+    "start": 1413.52,
+    "duration": 6.4,
+    "english": "Ask yourself how do i confine a gas of electrons and ions when you try to",
+    "indonesian": "Tapi, bagaimana kita dapat menghasilkan medan magnet yang kuat? Kita dapat menggunakan kumparan yang dililitkan pada silinder, sehingga medan magnet dapat dihasilkan dan partikel bermuatan dapat bergerak sepanjang garis-garis medan magnet"
+  },
+  {
+    "id": 196,
+    "start": 1419.92,
+    "duration": 11.84,
+    "english": "Put it in some container let's say it's some sort of cylinder you know",
+    "indonesian": "Jadi, ini adalah dasar dari teknik yang digunakan dalam fusi kurungan magnetis, dan kita akan membahas lebih lanjut tentang topik ini dalam kuliah berikutnya"
+  },
+  {
+    "id": 197,
+    "start": 1431.76,
+    "duration": 4.24,
+    "english": "In random direct right so go there and eventually hit the walls of your device",
+    "indonesian": "Namun, perlu diingat bahwa fusi nuklir masih merupakan teknologi yang belum matang, dan banyak penelitian yang masih perlu dilakukan untuk mengembangkan teknologi ini"
+  },
+  {
+    "id": 198,
+    "start": 1436.0,
+    "duration": 3.6,
+    "english": "And recombine there and you're out of plasma so one way to do it is just say",
+    "indonesian": "Tapi, dengan kemajuan teknologi dan penelitian, kita dapat berharap bahwa fusi nuklir akan menjadi sumber energi yang bersih dan efisien di masa depan"
+  },
+  {
+    "id": 199,
+    "start": 1439.6,
+    "duration": 5.76,
+    "english": "Well let me have a magnetic field threading this cylinder and i know that if i do that the particles can move",
+    "indonesian": "Jadi, ini adalah akhir dari kuliah kita tentang fusi nuklir, dan kita akan membahas lebih lanjut tentang topik ini dalam kuliah berikutnya"
+  },
+  {
+    "id": 200,
+    "start": 1445.36,
+    "duration": 5.2,
+    "english": "Really along the magnetic field but perpendicular to the magnetic field they have to go on",
+    "indonesian": "Sungguh sepanjang medan magnet tetapi tegak lurus terhadap medan magnet mereka harus melanjutkan"
+  },
+  {
+    "id": 201,
+    "start": 1450.56,
+    "duration": 8.64,
+    "english": "In larger generations and so they're confined at least perpendicular to the magnetic field if i want them also to be confined along",
+    "indonesian": "Dalam generasi yang lebih besar dan sehingga mereka dikurung setidaknya tegak lurus terhadap medan magnet jika saya ingin mereka juga dikurung sepanjang"
+  },
+  {
+    "id": 202,
+    "start": 1459.2,
+    "duration": 4.8,
+    "english": "The magnetic field all i have to do is turn the cylinder into a donut right",
+    "indonesian": "Medan magnet semua yang saya lakukan adalah mengubah silinder menjadi donat, kan?"
+  },
+  {
+    "id": 203,
+    "start": 1464.0,
+    "duration": 6.0,
+    "english": "For us and that's the whole idea behind uh sort of the most advanced themes in",
+    "indonesian": "Untuk kita dan itu adalah ide utama di balik, uh, tema-tema paling maju dalam"
+  },
+  {
+    "id": 204,
+    "start": 1470.0,
+    "duration": 8.0,
+    "english": "Magnetic confinement fusion and we call this a tokamak here's the most recent conception of one in a model that's that",
+    "indonesian": "Fusi kurungan magnetis (magnetic confinement fusion) dan kita menyebut ini sebagai tokamak, ini adalah konsepsi terbaru dari salah satu dalam model yang itu"
+  },
+  {
+    "id": 205,
+    "start": 1478.0,
+    "duration": 6.48,
+    "english": "Mighty is proposing here called spark you're seeing a cross section of course this thing is a parietal chamber",
+    "indonesian": "Mighty yang diajukan di sini disebut spark, Anda melihat penampang, tentu saja ini adalah ruang parietal"
+  },
+  {
+    "id": 206,
+    "start": 1484.48,
+    "duration": 6.32,
+    "english": "That's been cut here in the drawing so that you can see the glow of the plasma inside this is",
+    "indonesian": "Yang telah dipotong di sini dalam gambar sehingga Anda dapat melihat cahaya plasma di dalam ini adalah"
+  },
+  {
+    "id": 207,
+    "start": 1490.8,
+    "duration": 4.88,
+    "english": "Just a cartoon of course this is not a real experiment we're building it now hoping to have it",
+    "indonesian": "Hanya kartun, tentu saja ini bukan eksperimen nyata, kita sedang membangunnya sekarang berharap untuk memiliki itu"
+  },
+  {
+    "id": 208,
+    "start": 1495.68,
+    "duration": 8.08,
+    "english": "Working in 2025. okay so the gas is here you heat it up fusion reactions happen here neutrons",
+    "indonesian": "Bekerja pada 2025. oke jadi gas ada di sini, Anda memanaskannya, reaksi fusi terjadi di sini, neutron"
+  },
+  {
+    "id": 209,
+    "start": 1503.76,
+    "duration": 8.24,
+    "english": "Escape and um and you get energy it's a beautiful thing if we can make it work but this is not",
+    "indonesian": "Melarikan diri dan, uh, dan Anda mendapatkan energi, itu adalah hal yang indah jika kita bisa membuatnya bekerja, tetapi ini tidak"
+  },
+  {
+    "id": 210,
+    "start": 1512.0,
+    "duration": 10.32,
+    "english": "Easy and one of the reasons it isn't easy is very easy to understand okay so let me go back to this cross",
+    "indonesian": "Mudah dan salah satu alasan itu tidak mudah adalah sangat mudah dipahami, oke, jadi biarkan saya kembali ke penampang ini"
+  },
+  {
+    "id": 211,
+    "start": 1522.32,
+    "duration": 8.79,
+    "english": "Section here and let me call your attention to this number 100 kv",
+    "indonesian": "Dan biarkan saya mengarahkan perhatian Anda pada angka 100 kv"
+  },
+  {
+    "id": 212,
+    "start": 1531.12,
+    "duration": 8.08,
+    "english": "100 kv is around 100 million degrees centigrade so that's",
+    "indonesian": "100 kv sekitar 100 juta derajat Celsius, jadi itu"
+  },
+  {
+    "id": 213,
+    "start": 1539.2,
+    "duration": 5.52,
+    "english": "Hotter than the surface of the sun okay the sun doesn't have to worry about",
+    "indonesian": "Lebih panas dari permukaan matahari, oke, matahari tidak perlu khawatir tentang"
+  },
+  {
+    "id": 214,
+    "start": 1544.72,
+    "duration": 7.92,
+    "english": "This but we do because we want to maximize fusion reactions and so we want to operate at very high",
+    "indonesian": "Ini, tetapi kita melakukannya karena kita ingin memaksimalkan reaksi fusi dan sehingga kita ingin beroperasi pada suhu yang sangat tinggi"
+  },
+  {
+    "id": 215,
+    "start": 1552.64,
+    "duration": 6.4,
+    "english": "Temperatures and so that means that on this drawing there's going to be a plasma here",
+    "indonesian": "Dan sehingga itu berarti bahwa pada gambar ini akan ada plasma di sini"
+  },
+  {
+    "id": 216,
+    "start": 1559.04,
+    "duration": 10.32,
+    "english": "Which at its center is sort of at you know maybe 20 kav okay so 100 million degrees celsius but",
+    "indonesian": "Yang di pusatnya adalah sekitar, uh, mungkin 20 kav, oke, jadi 100 juta derajat Celsius, tetapi"
+  },
+  {
+    "id": 217,
+    "start": 1569.36,
+    "duration": 6.96,
+    "english": "Over here well you know there's going to be a material surface here right and materials are going to be at",
+    "indonesian": "Di sini, Anda tahu, akan ada permukaan material di sini, kan, dan material akan berada pada"
+  },
+  {
+    "id": 218,
+    "start": 1576.32,
+    "duration": 7.12,
+    "english": "Room temperature so the temperature gradient from here to here is probably the largest temperature",
+    "indonesian": "Suhu kamar, jadi gradien suhu dari sini ke sini kemungkinan adalah gradien suhu terbesar dalam seluruh sistem surya, oke, itu bergerak dari 100 juta derajat Celsius ke dasarnya"
+  },
+  {
+    "id": 219,
+    "start": 1583.44,
+    "duration": 7.52,
+    "english": "Gradient in the entire solar system okay it goes from 100 million degrees celsius to basically you know",
+    "indonesian": "Suhu kamar, jadi, Anda tahu, itu adalah perbedaan yang sangat besar"
+  },
+  {
+    "id": 220,
+    "start": 1590.96,
+    "duration": 7.04,
+    "english": "30 celsius okay and this distance this is a person the difference is about one meter",
+    "indonesian": "30 derajat Celsius sudah cukup dan jarak ini adalah seorang orang, perbedaannya sekitar satu meter"
+  },
+  {
+    "id": 221,
+    "start": 1598.0,
+    "duration": 7.28,
+    "english": "If that now as critics students you probably know that there is one thing that nature does not",
+    "indonesian": "Jika sekarang sebagai kritik mahasiswa, Anda mungkin tahu bahwa ada satu hal yang alam tidak suka"
+  },
+  {
+    "id": 222,
+    "start": 1605.28,
+    "duration": 7.76,
+    "english": "Like and that's gradients nature doesn't like density gradients uh rayleigh taylor instability nature doesn't like",
+    "indonesian": "Dan itu adalah gradien, alam tidak suka gradien densitas, ketidakstabilan Rayleigh-Taylor, alam tidak suka"
+  },
+  {
+    "id": 223,
+    "start": 1613.04,
+    "duration": 6.56,
+    "english": "Velocity gradients called in helmholtz instability nature doesn't like temperature gradients okay and so when you set up a",
+    "indonesian": "Gradien kecepatan yang disebut ketidakstabilan Helmholtz, alam tidak suka gradien suhu, oke, dan ketika Anda mengatur gradien suhu yang sebesar ini, hal-hal mulai salah, kan, dan salah satu hal itu adalah"
+  },
+  {
+    "id": 224,
+    "start": 1619.6,
+    "duration": 4.4,
+    "english": "Temperature gradient that's as large as this things go wrong right and one of the",
+    "indonesian": "Plasma memutuskan bahwa tidak ingin memiliki gradien suhu itu"
+  },
+  {
+    "id": 225,
+    "start": 1624.0,
+    "duration": 4.56,
+    "english": "Things is that the plasma decides that it doesn't want to have that temperature gradient",
+    "indonesian": "Dan mengatur berbagai ketidakstabilan yang menyebabkan turbulensi, jadi apa yang Anda lihat di sini adalah"
+  },
+  {
+    "id": 226,
+    "start": 1628.56,
+    "duration": 7.28,
+    "english": "And sets up all sorts of instabilities that lead to turbulence and so what you're looking at here is a",
+    "indonesian": "Simulasi yang dilakukan oleh rekan saya, Nathan Howard, mungkin sekitar enam tahun yang lalu, tentang bagaimana turbulensi itu mungkin terlihat, seperti yang ditunjukkan oleh kontur potensial elektrostatik dan, uh, ini adalah turbulensi multi-skill"
+  },
+  {
+    "id": 227,
+    "start": 1635.84,
+    "duration": 6.16,
+    "english": "Simulation done by my colleague nathan howard maybe six years ago now of what that",
+    "indonesian": "Karena memiliki komponen yang disebabkan oleh ion dan komponen yang disebabkan oleh elektron"
+  },
+  {
+    "id": 228,
+    "start": 1642.0,
+    "duration": 10.8,
+    "english": "Turbulence might look like as shown by contours of electrostatic potential and um this is multi-skilled turbulence",
+    "indonesian": "Dan Anda tahu, rasio massa elektron ke besi sekitar 2.000 dan akar kuadrat dari itu sekitar 40"
+  },
+  {
+    "id": 229,
+    "start": 1652.8,
+    "duration": 8.16,
+    "english": "Because it has components that are due to the ions and components that are due to the electrons",
+    "indonesian": "Jadi, uh, jari-jari Larmor dari sebuah ion secara dasar sebesar ini, jari-jari Larmor dari sebuah elektron sebesar ini, dan kedua turbulensi ini terjadi pada skala yang berbeda, berbicara satu sama lain dan saling menginformasikan"
+  },
+  {
+    "id": 230,
+    "start": 1660.96,
+    "duration": 10.64,
+    "english": "And you know the electron to iron mass ratio is about 2 000 and square root of that is around 40",
+    "indonesian": "Dan Anda bisa melihatnya di sini, Anda lihat, jadi bintik-bintik besar yang Anda lihat adalah terminal pada skala ion"
+  },
+  {
+    "id": 231,
+    "start": 1671.6,
+    "duration": 7.84,
+    "english": "Right so um the llama radius of an ion is basically this big the alarm rates of",
+    "indonesian": "Tapi ada striasi halus di atas setiap satu dari bintik-bintik ini"
+  },
+  {
+    "id": 232,
+    "start": 1679.44,
+    "duration": 7.84,
+    "english": "An electron is this big and these two turbulences happening at different scales talk to each other and inform each other",
+    "indonesian": "Dan itu adalah skala elektron termostatik, dan fakta bahwa kedua istilah ini berbicara satu sama lain berarti bahwa Anda"
+  },
+  {
+    "id": 233,
+    "start": 1687.28,
+    "duration": 4.64,
+    "english": "And you can see it here you see so these big blobs that you see are terminals on",
+    "indonesian": "Jika Anda ingin mendapatkan ini dengan benar, Anda harus mensimulasikan semua skala ini secara bersamaan"
+  },
+  {
+    "id": 234,
+    "start": 1691.92,
+    "duration": 4.64,
+    "english": "The ion scales but there's fine striations on top of each one of these blobs",
+    "indonesian": "Jadi untuk memberikan contoh bagi mereka yang tertarik dengan detail komputasi"
+  },
+  {
+    "id": 235,
+    "start": 1696.56,
+    "duration": 5.2,
+    "english": "And that's thermostatic electron scales and the fact that these two terms talk to each other means that you",
+    "indonesian": "Simulasi ini, simulasi ini saja, biayanya sekitar 18 juta jam CPU"
+  },
+  {
+    "id": 236,
+    "start": 1701.76,
+    "duration": 6.72,
+    "english": "If you want to get this right you have to simulate all of these scales simultaneously",
+    "indonesian": "Jadi itu berarti bahwa jika Anda memiliki 18 juta CPU, Anda akan menjalankannya semua secara paralel selama"
+  },
+  {
+    "id": 237,
+    "start": 1708.48,
+    "duration": 2.88,
+    "english": "So to give you an example for those of you who are interested in computational",
+    "indonesian": "Jadi untuk memberikan contoh bagi mereka yang tertarik dengan detail komputasi"
+  },
+  {
+    "id": 238,
+    "start": 1711.36,
+    "duration": 8.16,
+    "english": "Details this simulation this one simulation the cost of it was 18 million cpu hours",
+    "indonesian": "Simulasi ini, simulasi ini saja, biayanya sekitar 18 juta jam CPU"
+  },
+  {
+    "id": 239,
+    "start": 1719.52,
+    "duration": 6.32,
+    "english": "So that means that if you have 18 million cpus you'd run them all in parallel for",
+    "indonesian": "Jadi itu berarti bahwa jika Anda memiliki 18 juta CPU, Anda akan menjalankannya semua secara paralel selama"
+  },
+  {
+    "id": 240,
+    "start": 1725.84,
+    "duration": 5.68,
+    "english": "One hour to get this okay that's not how it's done this is run on tens of",
+    "indonesian": "Satu jam untuk memahami ini, oke, itu tidak seperti itu dilakukan, ini dijalankan pada puluhan ribu"
+  },
+  {
+    "id": 241,
+    "start": 1731.52,
+    "duration": 10.0,
+    "english": "Thousands of processors simultaneously so parallel computing right state-of-the-art then and leads to this incredibly complex scenario that we",
+    "indonesian": "Pengolah serentak, sehingga komputasi paralel, keadaan mutakhir saat itu, dan menyebabkan skenario yang sangat kompleks yang kami"
+  },
+  {
+    "id": 242,
+    "start": 1741.52,
+    "duration": 9.04,
+    "english": "Then mine for data and try to make better sense of now it's not just",
+    "indonesian": "Kemudian tambang data dan mencoba membuat lebih baik memahami sekarang itu tidak hanya"
+  },
+  {
+    "id": 243,
+    "start": 1750.56,
+    "duration": 9.6,
+    "english": "Turbulent tokamak plasmas that are turbulent space and astrophysical plasmas are almost invariably in the state of terms themselves even if",
+    "indonesian": "Plasma tokamak turbulen yang turbulen, ruang dan plasma astrofisika hampir selalu dalam keadaan turbulensi itu sendiri, bahkan jika"
+  },
+  {
+    "id": 244,
+    "start": 1760.16,
+    "duration": 6.96,
+    "english": "The reason for that terms tends to be different from just temperature gradients and so this beautiful illustration that",
+    "indonesian": "Alasan untuk itu turbulensi cenderung berbeda dari hanya gradien suhu dan jadi ilustrasi indah ini"
+  },
+  {
+    "id": 245,
+    "start": 1767.12,
+    "duration": 8.24,
+    "english": "You can see in my virtual background is a simulation of turbulence done by my former student uh jana drain in",
+    "indonesian": "Yang dapat Anda lihat di latar belakang virtual saya adalah simulasi turbulensi yang dilakukan oleh mantan mahasiswa saya, uh, jana drain di"
+  },
+  {
+    "id": 246,
+    "start": 1775.36,
+    "duration": 8.56,
+    "english": "Chingolo of terms in an accretion disk simulated using sort of an equivalent of the boltzmann description",
+    "indonesian": "Chingolo dari turbulensi dalam cakram akrasi yang disimulasikan menggunakan semacam setara dengan deskripsi boltzmann"
+  },
+  {
+    "id": 247,
+    "start": 1783.92,
+    "duration": 7.04,
+    "english": "So just to illustrate that uh complex terminals like this abounds there's in you find it in",
+    "indonesian": "Jadi hanya untuk mengilustrasikan bahwa, uh, terminal kompleks seperti ini berlimpah, ada di"
+  },
+  {
+    "id": 248,
+    "start": 1790.96,
+    "duration": 6.4,
+    "english": "Fusion plasmas you find it in astrophysical plasmas and it's this turbulence that ends up",
+    "indonesian": "Plasma fusi Anda menemukannya di plasma astrofisika dan ini turbulensi yang pada akhirnya"
+  },
+  {
+    "id": 249,
+    "start": 1797.36,
+    "duration": 5.6,
+    "english": "Setting the proper macroscopic properties of these media right so if i want to know how long it",
+    "indonesian": "Menetapkan sifat makroskopis yang tepat dari media ini, oke, jadi jika saya ingin tahu berapa lama"
+  },
+  {
+    "id": 250,
+    "start": 1802.96,
+    "duration": 8.32,
+    "english": "Takes me to um dissipate the diffuse the temperature in this plasma right",
+    "indonesian": "Waktu yang dibutuhkan untuk, uh, menghilangkan difusi suhu dalam plasma ini, oke"
+  },
+  {
+    "id": 251,
+    "start": 1811.28,
+    "duration": 4.56,
+    "english": "That diffusion is anomalous it is set by the turbines it's not set by collisions",
+    "indonesian": "Itu difusi adalah anomali, itu ditetapkan oleh turbulensi, bukan oleh tumbukan"
+  },
+  {
+    "id": 252,
+    "start": 1815.84,
+    "duration": 6.24,
+    "english": "Of any means okay so that would be very small the fact that this is turbulent means",
+    "indonesian": "Dari apa pun, oke, jadi itu akan sangat kecil, fakta bahwa ini turbulen berarti"
+  },
+  {
+    "id": 253,
+    "start": 1822.08,
+    "duration": 9.52,
+    "english": "That um your plasma is going to cool off much quicker than otherwise okay incidentally you know when you drop",
+    "indonesian": "Bahwa, uh, plasma Anda akan mendingin lebih cepat daripada sebaliknya, oke, secara kebetulan Anda tahu ketika Anda menjatuhkan"
+  },
+  {
+    "id": 254,
+    "start": 1831.6,
+    "duration": 6.4,
+    "english": "A when you put a drop of milk in your coffee you stir it so that you mix it faster",
+    "indonesian": "Saat Anda meletakkan tetes susu di kopi Anda, Anda mengaduknya sehingga Anda mencampurnya lebih cepat"
+  },
+  {
+    "id": 255,
+    "start": 1838.0,
+    "duration": 5.04,
+    "english": "Right you're creating turbulence because that leads to faster mixing similar thing here right if you didn't",
+    "indonesian": "Oke, Anda menciptakan turbulensi karena itu menyebabkan pencampuran yang lebih cepat, hal yang sama di sini, oke, jika Anda tidak"
+  },
+  {
+    "id": 256,
+    "start": 1843.04,
+    "duration": 5.6,
+    "english": "Stir you would take a long time for that one drop of milk to turn your black coffee into gray",
+    "indonesian": "Mengaduk, Anda akan membutuhkan waktu lama untuk satu tetes susu itu untuk mengubah kopi hitam menjadi abu-abu"
+  },
+  {
+    "id": 257,
+    "start": 1848.64,
+    "duration": 6.32,
+    "english": "Coffee right this so if you stir it if you give it turbulence it's so much faster so same",
+    "indonesian": "Kopi, oke, jadi jika Anda mengaduknya, jika Anda memberinya turbulensi, itu jauh lebih cepat, sama"
+  },
+  {
+    "id": 258,
+    "start": 1854.96,
+    "duration": 9.04,
+    "english": "Thing in a fusion device sheldon of course understands turbulent transport perfectly",
+    "indonesian": "Halnya dalam perangkat fusi, sheldon tentu saja memahami transportasi turbulen dengan sempurna"
+  },
+  {
+    "id": 259,
+    "start": 1864.0,
+    "duration": 7.2,
+    "english": "Um so i put this up as uh as a bit of a joke as for the",
+    "indonesian": "Uh, jadi saya menempatkan ini sebagai, uh, sedikit bercanda, untuk"
+  },
+  {
+    "id": 260,
+    "start": 1871.2,
+    "duration": 7.68,
+    "english": "For kick right but you know it's actually quite interesting that they actually got a fusion expert",
+    "indonesian": "Untuk memulai dengan benar, tapi Anda tahu itu sebenarnya cukup menarik bahwa mereka benar-benar mendapatkan seorang ahli fusi"
+  },
+  {
+    "id": 261,
+    "start": 1878.88,
+    "duration": 5.12,
+    "english": "To write what's on the board here and so it's interesting to go through this so",
+    "indonesian": "Untuk menulis apa yang ada di papan tulis di sini dan jadi itu menarik untuk melalui ini sehingga"
+  },
+  {
+    "id": 262,
+    "start": 1884.0,
+    "duration": 6.72,
+    "english": "What sheldon is estimating here is the iron diffusion coefficient basically how fast you lose temperature",
+    "indonesian": "Apa yang Sheldon perkirakan di sini adalah koefisien difusi besi secara dasar, bagaimana cepatnya Anda kehilangan suhu"
+  },
+  {
+    "id": 263,
+    "start": 1890.72,
+    "duration": 7.04,
+    "english": "Because of this struggles and he's still talking about the temperature gradient you see one over t the t v r that's the",
+    "indonesian": "Karena perjuangan ini dan dia masih berbicara tentang gradien suhu, Anda lihat satu atas t, t v r itu adalah"
+  },
+  {
+    "id": 264,
+    "start": 1897.76,
+    "duration": 6.16,
+    "english": "Normalized temperature gradient in the token and down here it's explaining something that actually uh",
+    "indonesian": "Gradien suhu normal pada token dan di sini itu menjelaskan sesuatu yang sebenarnya uh"
+  },
+  {
+    "id": 265,
+    "start": 1903.92,
+    "duration": 6.88,
+    "english": "Is correct he's saying well i have these turbulent eddies but if somehow i can break them up maybe",
+    "indonesian": "Benar, dia mengatakan, baik saya memiliki eddy turbulen ini, tapi jika saya bisa memecahnya, mungkin"
+  },
+  {
+    "id": 266,
+    "start": 1910.8,
+    "duration": 5.36,
+    "english": "Because there's a shear flow they become smaller and if they're smaller then that means that",
+    "indonesian": "Karena ada aliran geser, mereka menjadi lebih kecil dan jika mereka lebih kecil, maka itu berarti bahwa"
+  },
+  {
+    "id": 267,
+    "start": 1916.16,
+    "duration": 7.2,
+    "english": "My turbulence diffusion becomes smaller so that's what sheldon is explaining here uh so i thought i thought you might",
+    "indonesian": "Difusi turbulensi saya menjadi lebih kecil, jadi itu yang Sheldon jelaskan di sini, uh, jadi saya pikir saya mungkin"
+  },
+  {
+    "id": 268,
+    "start": 1923.36,
+    "duration": 8.96,
+    "english": "Find that amusing now terbus isn't the only instability that plasmas have to fusion plasmas have to contend with",
+    "indonesian": "Menemukan itu menghibur, sekarang terbus bukan satu-satunya ketidakstabilan yang plasma miliki untuk fusi plasma harus menghadapi"
+  },
+  {
+    "id": 269,
+    "start": 1932.32,
+    "duration": 8.96,
+    "english": "There are you know so as it happens service is sort of the sort of benign because okay so",
+    "indonesian": "Ada, Anda tahu, jadi sebenarnya layanan adalah semacam ketidakstabilan yang relatif jinak karena, oke, jadi"
+  },
+  {
+    "id": 270,
+    "start": 1941.28,
+    "duration": 7.04,
+    "english": "You lose temperature and particles and energy faster than you expect but it doesn't lead to any major",
+    "indonesian": "Anda kehilangan suhu dan partikel dan energi lebih cepat dari yang Anda harapkan, tapi itu tidak menyebabkan gangguan besar"
+  },
+  {
+    "id": 271,
+    "start": 1948.32,
+    "duration": 7.44,
+    "english": "Disruption of your fusion device but you can also get sort of the volcanic equivalent of solar flares",
+    "indonesian": "Pada perangkat fusi Anda, tapi Anda juga bisa mendapatkan semacam equivalen vulkanik dari flare matahari"
+  },
+  {
+    "id": 272,
+    "start": 1955.76,
+    "duration": 8.08,
+    "english": "And these are like macroscopic disruptions so here's a filament that's about to",
+    "indonesian": "Dan ini seperti gangguan makroskopis, jadi di sini ada filamen yang hampir"
+  },
+  {
+    "id": 273,
+    "start": 1963.84,
+    "duration": 3.84,
+    "english": "Be expelled from the plasma very much like the solar flare that you saw at the",
+    "indonesian": "Dikeluarkan dari plasma, sangat mirip dengan flare matahari yang Anda lihat di"
+  },
+  {
+    "id": 274,
+    "start": 1967.68,
+    "duration": 7.76,
+    "english": "Beginning and that launches a lot of particles very fast particles that can then hit the walls of the device and do",
+    "indonesian": "Awal dan itu meluncurkan banyak partikel, partikel yang sangat cepat yang dapat mengenai dinding perangkat dan melakukan"
+  },
+  {
+    "id": 275,
+    "start": 1975.44,
+    "duration": 7.84,
+    "english": "Things like this so this blob here that's you know those tiles have been melted by",
+    "indonesian": "Hal-hal seperti ini, jadi blob ini, Anda tahu, ubin-ubin itu telah meleleh karena"
+  },
+  {
+    "id": 276,
+    "start": 1983.28,
+    "duration": 8.4,
+    "english": "Extremely fast electrons that were produced by the plasma so this you cannot have right because",
+    "indonesian": "Elektron yang sangat cepat yang dihasilkan oleh plasma, jadi ini tidak bisa Anda miliki, karena"
+  },
+  {
+    "id": 277,
+    "start": 1991.68,
+    "duration": 4.96,
+    "english": "Eventually you know do more of these you will actually pierce the hole through the wall",
+    "indonesian": "Akhirnya, Anda tahu, melakukan lebih banyak dari ini, Anda sebenarnya akan membuat lubang di dinding"
+  },
+  {
+    "id": 278,
+    "start": 1996.64,
+    "duration": 5.04,
+    "english": "Right and that's basically the end of your experiment and so you know there's this fascinating",
+    "indonesian": "Dan itu pada dasarnya adalah akhir dari eksperimen Anda, jadi Anda tahu ada kompleksitas yang menarik"
+  },
+  {
+    "id": 279,
+    "start": 2001.68,
+    "duration": 10.08,
+    "english": "Complexity and myriad modes of ways that things can go wrong right all these instabilities that we have to",
+    "indonesian": "Dan berbagai mode cara yang hal-hal bisa salah, semua ketidakstabilan ini yang kita harus"
+  },
+  {
+    "id": 280,
+    "start": 2011.76,
+    "duration": 5.76,
+    "english": "Somehow master uh both that sort of if we can at the theoretical level but at least with",
+    "indonesian": "Entah bagaimana menguasai uh keduanya, yaitu jika kita bisa pada tingkat teoretis, tetapi setidaknya dengan"
+  },
+  {
+    "id": 281,
+    "start": 2017.52,
+    "duration": 7.2,
+    "english": "Simulations that set an operational space for fusion devices right we know we can operate in some",
+    "indonesian": "Simulasi yang menetapkan ruang operasional untuk perangkat fusi, kita tahu kita bisa beroperasi di beberapa"
+  },
+  {
+    "id": 282,
+    "start": 2024.72,
+    "duration": 7.76,
+    "english": "Parts of that operational space but not everywhere because many of these many values of parameters lead to",
+    "indonesian": "Bagian dari ruang operasional itu, tetapi tidak di mana-mana karena banyak dari nilai parameter ini menyebabkan"
+  },
+  {
+    "id": 283,
+    "start": 2032.48,
+    "duration": 10.16,
+    "english": "Instabilities that will then cause things like that and that's unacceptable cool so there isn't",
+    "indonesian": "Instabilitas yang kemudian menyebabkan hal-hal seperti itu dan itu tidak dapat diterima, jadi tidak hanya"
+  },
+  {
+    "id": 284,
+    "start": 2042.64,
+    "duration": 8.64,
+    "english": "Only the magnetic type of fusion magnetic confinement another variety that i won't say",
+    "indonesian": "Tipe fusi magnetis, yaitu kurungan magnetis (magnetic confinement), ada varietas lain yang tidak akan saya bahas"
+  },
+  {
+    "id": 285,
+    "start": 2051.28,
+    "duration": 8.0,
+    "english": "Very much about is inertial confinement fusion it's a completely different concept the idea here is that you have a pellet",
+    "indonesian": "Banyak tentang fusi kurungan inersia (inertial confinement fusion), ini adalah konsep yang sama sekali berbeda, ide di sini adalah bahwa Anda memiliki sebuah pelet"
+  },
+  {
+    "id": 286,
+    "start": 2059.28,
+    "duration": 6.64,
+    "english": "Maybe sort of a pellet is something that is sort of marble sized and it contains euterium",
+    "indonesian": "Mungkin pelet itu adalah sesuatu yang berukuran seperti bola marmer dan mengandung material deuterium"
+  },
+  {
+    "id": 287,
+    "start": 2065.92,
+    "duration": 8.08,
+    "english": "Material and you put it inside of some chamber and then you use extremely powerful lasers to uh",
+    "indonesian": "Dan Anda meletakkannya di dalam sebuah ruangan, kemudian Anda menggunakan laser yang sangat kuat untuk uh"
+  },
+  {
+    "id": 288,
+    "start": 2074.0,
+    "duration": 6.8,
+    "english": "If it's indirect drive as they call it these powerful lasers hit the walls of some confinement",
+    "indonesian": "Jika itu adalah penggerak tidak langsung, laser kuat ini mengenai dinding dari beberapa ruang kurungan"
+  },
+  {
+    "id": 289,
+    "start": 2080.8,
+    "duration": 8.64,
+    "english": "Chamber or the whole round that creates x-rays and then the pressure of those x-rays is supposed to make the target",
+    "indonesian": "Atau seluruh bagian yang melingkari, yang menciptakan sinar X, dan kemudian tekanan dari sinar X tersebut seharusnya membuat target"
+  },
+  {
+    "id": 290,
+    "start": 2089.44,
+    "duration": 8.72,
+    "english": "Compress and generate enough pressure that you can fuse the contents okay now does this work",
+    "indonesian": "Mengompresi dan menghasilkan tekanan yang cukup untuk menggabungkan isi, oke, apakah ini berhasil?"
+  },
+  {
+    "id": 291,
+    "start": 2098.16,
+    "duration": 10.0,
+    "english": "Um not yet and it's easy to understand what might go wrong here um so here's a simulation",
+    "indonesian": "Uh, tidak yet, dan mudah untuk memahami apa yang mungkin salah di sini, uh, jadi ini adalah simulasi"
+  },
+  {
+    "id": 292,
+    "start": 2108.16,
+    "duration": 6.4,
+    "english": "Uh and you know okay so think you have a balloon and now you have fingers",
+    "indonesian": "Uh, dan Anda tahu, oke, bayangkan Anda memiliki sebuah balon dan sekarang Anda memiliki jari-jari"
+  },
+  {
+    "id": 293,
+    "start": 2114.56,
+    "duration": 6.08,
+    "english": "Trying to compress that balloon right and you know that if you compress here the balloon will expand elsewhere",
+    "indonesian": "Mencoba mengompresi balon itu, kan, dan Anda tahu bahwa jika Anda mengompresi di sini, balon akan mengembang di tempat lain"
+  },
+  {
+    "id": 294,
+    "start": 2120.64,
+    "duration": 5.2,
+    "english": "Right so what you try to do is to have many fingers compressing that balloon as uniformly as",
+    "indonesian": "Kanan, jadi apa yang Anda coba lakukan adalah memiliki banyak jari-jari yang mengompresi balon itu secara seragam"
+  },
+  {
+    "id": 295,
+    "start": 2125.84,
+    "duration": 6.48,
+    "english": "Possible okay and that's hard right to achieve that degree of symmetry so that you result in",
+    "indonesian": "Mungkin, oke, dan itu sulit, kan, untuk mencapai derajat simetri sehingga Anda menghasilkan"
+  },
+  {
+    "id": 296,
+    "start": 2132.32,
+    "duration": 7.36,
+    "english": "Uniform compression rather than you know compression here expansion there that's a very difficult thing to do so what you're",
+    "indonesian": "Kompresi seragam, bukan kompresi di sini dan ekspansi di sana, itu adalah hal yang sangat sulit untuk dilakukan, jadi apa yang"
+  },
+  {
+    "id": 297,
+    "start": 2139.68,
+    "duration": 7.28,
+    "english": "Seeing here is basically instabilities that are driven inside of this capsule by virtue of the fact that the",
+    "indonesian": "Anda lihat di sini adalah dasarnya instabilitas yang dipicu di dalam kapsul ini oleh kenyataan bahwa"
+  },
+  {
+    "id": 298,
+    "start": 2146.96,
+    "duration": 6.32,
+    "english": "Irradiation by these lasers isn't actually uniform so this is very much research in progress",
+    "indonesian": "Irradiasi oleh laser-laser ini sebenarnya tidak seragam, ini adalah penelitian yang sedang berlangsung"
+  },
+  {
+    "id": 299,
+    "start": 2153.28,
+    "duration": 7.2,
+    "english": "As is as is magnetic confinement fusion and uh it leads to all sorts of",
+    "indonesian": "Sama seperti kurungan magnetis (magnetic confinement fusion) dan uh, ini menyebabkan semua jenis"
+  },
+  {
+    "id": 300,
+    "start": 2160.48,
+    "duration": 7.44,
+    "english": "Interesting physics that go beyond just looking at the actual fusion itself and here's one",
+    "indonesian": "Fisika menarik yang melampaui hanya melihat fusi itu sendiri dan berikut adalah salah satunya"
+  },
+  {
+    "id": 301,
+    "start": 2167.92,
+    "duration": 8.64,
+    "english": "Of the interesting um aspects of these laser plasma interactions or laser target interactions",
+    "indonesian": "Salah satu aspek menarik dari interaksi plasma laser atau interaksi target laser"
+  },
+  {
+    "id": 302,
+    "start": 2176.56,
+    "duration": 8.16,
+    "english": "So many times what happens is when you shine a laser at a solid target",
+    "indonesian": "Jadi, banyak kali apa yang terjadi ketika Anda menyinari laser pada target padat"
+  },
+  {
+    "id": 303,
+    "start": 2184.72,
+    "duration": 5.36,
+    "english": "So in this case the solid target would be sort of in the at the bottom of this",
+    "indonesian": "Jadi, dalam hal ini target padat akan berada di bagian bawah ini"
+  },
+  {
+    "id": 304,
+    "start": 2190.08,
+    "duration": 6.16,
+    "english": "Blob here of this green blob so you shine the laser you ionize the target and you have an expanding cloud",
+    "indonesian": "Gumpalan ini dari gumpalan hijau, jadi Anda menyinari laser, Anda mengionisasi target dan Anda memiliki awan yang mengembang"
+  },
+  {
+    "id": 305,
+    "start": 2196.24,
+    "duration": 8.08,
+    "english": "Of material coming towards the laser and then you have a temperature gradient because",
+    "indonesian": "Dari material yang datang ke laser dan kemudian Anda memiliki gradien suhu karena"
+  },
+  {
+    "id": 306,
+    "start": 2204.32,
+    "duration": 5.92,
+    "english": "If you're closer to the laser you are hotter right and if you're further away you're colder",
+    "indonesian": "Jika Anda lebih dekat dengan laser, Anda lebih panas, kan, dan jika Anda lebih jauh, Anda lebih dingin"
+  },
+  {
+    "id": 307,
+    "start": 2210.24,
+    "duration": 4.96,
+    "english": "But you also have a density gradient because if you're closer to the surface you are more dense if you're further",
+    "indonesian": "Tapi Anda juga memiliki gradien kepadatan karena jika Anda lebih dekat dengan permukaan, Anda lebih padat, jika Anda lebih jauh, Anda kurang padat"
+  },
+  {
+    "id": 308,
+    "start": 2215.2,
+    "duration": 7.2,
+    "english": "Away or less dense and as it happens there's a battery mechanism that is generated by virtue of the",
+    "indonesian": "Dan yang terjadi adalah ada mekanisme baterai yang dihasilkan oleh kenyataan bahwa gradien suhu dan kepadatan tidak sejajar, mereka bersertifikat, mereka dapat saling tegak lurus"
+  },
+  {
+    "id": 309,
+    "start": 2222.4,
+    "duration": 6.96,
+    "english": "Fact that the temperature and the density gradients are not aligned they're certified they can be perpendicular to each other",
+    "indonesian": "Itu adalah baterai yang menghasilkan medan magnet dan apa yang Anda lihat di sini adalah"
+  },
+  {
+    "id": 310,
+    "start": 2229.36,
+    "duration": 4.32,
+    "english": "That's a battery that generates a magnetic field and what you're seeing here is a",
+    "indonesian": "Simulasi oleh Kevin Sheffler, yang merupakan postdoc yang bekerja dengan saya beberapa tahun yang lalu"
+  },
+  {
+    "id": 311,
+    "start": 2233.68,
+    "duration": 7.44,
+    "english": "Simulation by um kevin sheffler who's a postdoc working with me um some years ago",
+    "indonesian": "Menunjukkan bagaimana ketika Anda mengatur gumpalan hijau itu, sebuah gumpalan kepadatan"
+  },
+  {
+    "id": 312,
+    "start": 2241.12,
+    "duration": 5.92,
+    "english": "Showing how when you set up that green blob as it were right a blob of density",
+    "indonesian": "Dengan gradien suhu yang tegak lurus dengan gradien kepadatan, Anda menghasilkan medan magnet seperti"
+  },
+  {
+    "id": 313,
+    "start": 2247.04,
+    "duration": 5.52,
+    "english": "With a temperature gradient that's perpendicular to the density gradient you generate these magnetic fields like",
+    "indonesian": "Ini, oke, jadi itu disebut efek baterai Biermann dan orang-orang melakukan ini, uh, secara rutin"
+  },
+  {
+    "id": 314,
+    "start": 2252.56,
+    "duration": 8.64,
+    "english": "This okay so that's called the biermann battery effect and people do this uh routinely",
+    "indonesian": "Dalam eksperimen plasma laser, tapi juga dipikir bahwa mekanisme yang sama, baterai Biermann"
+  },
+  {
+    "id": 315,
+    "start": 2261.2,
+    "duration": 7.52,
+    "english": "In laser plasma experiments but it is also thought that this same mechanism the biermann battery",
+    "indonesian": "Bertanggung jawab untuk menghasilkan medan magnet di seluruh alam semesta, mungkin karena Anda memiliki ledakan supernova"
+  },
+  {
+    "id": 316,
+    "start": 2268.72,
+    "duration": 7.2,
+    "english": "Is responsible for generating speed magnetic fields throughout the universe maybe because you have a supernova",
+    "indonesian": "Yang mengarah ke gelombang kejut dan di gelombang kejut Anda dapat memiliki gradien kepadatan dan suhu"
+  },
+  {
+    "id": 317,
+    "start": 2275.92,
+    "duration": 5.44,
+    "english": "Explosion that drives a shock front and at the shock front you can have density and temperature gradients",
+    "indonesian": "Yang tidak sejajar dan menghasilkan medan magnet, jadi ini adalah semacam lompatan, ini adalah"
+  },
+  {
+    "id": 318,
+    "start": 2281.36,
+    "duration": 5.68,
+    "english": "That are misaligned and generate magnetic fields so this is sort of the jump this the",
+    "indonesian": "Lompatan slide di mana saya beralih dari berbicara tentang fusi ke berbicara tentang medan magnet di alam semesta"
+  },
+  {
+    "id": 319,
+    "start": 2287.04,
+    "duration": 9.79,
+    "english": "Jumping slide where i go from talking about fusion to talking about magnetic fields in the universe",
+    "indonesian": "Jadi ini adalah transisi ke topik lain"
+  },
+  {
+    "id": 320,
+    "start": 2296.84,
+    "duration": 6.44,
+    "english": "So use magnetic fields on earth here to confine plasmas but elsewhere in the universe magnetic",
+    "indonesian": "Jadi, kita menggunakan medan magnet di bumi untuk mengurung plasma, tetapi di tempat lain di alam semesta, medan magnet"
+  },
+  {
+    "id": 321,
+    "start": 2303.28,
+    "duration": 8.16,
+    "english": "Fields are just there and the only thing that seems to be as ubiquitous as plasmas in the universe are",
+    "indonesian": "hanya ada di sana dan satu-satunya hal yang tampaknya sama luasnya dengan plasma di alam semesta adalah"
+  },
+  {
+    "id": 322,
+    "start": 2311.44,
+    "duration": 8.0,
+    "english": "Magnetized plasmas right so magnetic fields are found literally everywhere and at all scales so of course earth has",
+    "indonesian": "Plasma yang dimagnetisasi, jadi medan magnet ditemukan secara harfiah di mana-mana dan pada semua skala, sehingga bumi tentu memiliki"
+  },
+  {
+    "id": 323,
+    "start": 2319.44,
+    "duration": 4.8,
+    "english": "A magnetic field this is a famous simulation of what that magnetic field might look",
+    "indonesian": "Sebuah medan magnet, ini adalah simulasi terkenal tentang bagaimana medan magnet itu mungkin terlihat"
+  },
+  {
+    "id": 324,
+    "start": 2324.24,
+    "duration": 9.44,
+    "english": "Like by gladsmeyer 20 years ago that magnetic field of the earth interacts with magnetic field coming at",
+    "indonesian": "Oleh Gladsmeyer 20 tahun yang lalu, bahwa medan magnet bumi berinteraksi dengan medan magnet yang datang dari matahari dan menghasilkan struktur magnetosfer yang sangat kompleks yang pada dasarnya melindungi kita dari elektron yang sangat cepat"
+  },
+  {
+    "id": 325,
+    "start": 2333.68,
+    "duration": 11.36,
+    "english": "Us from the sun and generates a very complex magnetospheric uh structure that essentially protects us from very fast",
+    "indonesian": "Elektron yang sangat berenergi yang datang dari matahari, kan, dan menghasilkan apa yang disebut magnetosfer, sangat kompleks, sangat kompleks lingkungan, matahari tentu memiliki medan magnetnya sendiri dan kemudian Anda mulai pergi ke skala yang lebih besar"
+  },
+  {
+    "id": 326,
+    "start": 2345.04,
+    "duration": 4.56,
+    "english": "Electrons very energetic electrons coming at us from the sun right and generates what's called the",
+    "indonesian": "Jadi, di sini adalah galaksi, ini adalah M51 dan ini seharusnya menelusuri struktur medan magnet di lengan spiral galaksi itu, dan kemudian Anda bertanya, apa tentang klaster galaksi?"
+  },
+  {
+    "id": 327,
+    "start": 2349.6,
+    "duration": 9.04,
+    "english": "Magnetosphere very complex very complex environment the sun of course has its own its own magnetic fields and then you",
+    "indonesian": "Apakah ada medan magnet pada skala klaster galaksi dan jawabannya adalah ya, ada, Anda tahu, Anda mengambil klaster galaksi dan mencoba mengukur medan magnet di sekitar mereka dan Anda menemukan bahwa medan magnet ini ada dan terorganisir pada skala klaster itu sendiri"
+  },
+  {
+    "id": 328,
+    "start": 2358.64,
+    "duration": 6.8,
+    "english": "Start going to larger and larger scale so here's the galaxy this is m51 and this is supposed to be tracing the",
+    "indonesian": "Jadi, ini menarik, jika ini menunjukkan, Anda tahu, semacam universalitas medan magnet di alam semesta, memicu banyak pertanyaan, salah satunya adalah"
+  },
+  {
+    "id": 329,
+    "start": 2365.44,
+    "duration": 8.72,
+    "english": "Structure of the magnetic field in the spiral arms of that galaxy and then you say well what about galaxy",
+    "indonesian": "Dari mana mereka berasal, karena Anda tahu, saya tidak ahli dalam teori kekuatan atau apa pun seperti itu, seperti kebijaksanaan konvensional saat ini adalah bahwa medan magnet itu sendiri tidak benar-benar diciptakan pada ledakan besar"
+  },
+  {
+    "id": 330,
+    "start": 2374.16,
+    "duration": 6.48,
+    "english": "Clusters are there magnetic fields at the scale of galaxy clusters and the answer is yes there is uh you",
+    "indonesian": "Jadi, harus ada beberapa jenis mekanisme berbasis plasma dengan mana Anda akan menciptakan medan magnet ini secara efektif dari tidak ada"
+  },
+  {
+    "id": 331,
+    "start": 2380.64,
+    "duration": 6.4,
+    "english": "Know you take galaxy clusters and you try to measure magnetic fields around them and you find that this magnetic field",
+    "indonesian": "Dan baterai piramida yang saya bicarakan tadi adalah salah satu kemungkinan, Anda menghasilkan beberapa jenis medan magnet yang curam dan kemudian Anda bertanya apa yang terjadi pada mereka ketika plasma bergerak dan berkembang, medan magnet ini"
+  },
+  {
+    "id": 332,
+    "start": 2387.04,
+    "duration": 8.96,
+    "english": "Exists and is organized at the scale of the clusters themselves so this is fascinating um if it reveals",
+    "indonesian": "Dan kemudian Anda lihat bagaimana mereka berinteraksi dengan plasma dan lingkungan sekitarnya"
+  },
+  {
+    "id": 333,
+    "start": 2396.0,
+    "duration": 7.04,
+    "english": "You know sort of this ubiquity of the magnetic field in the universe prompts many questions one of them is",
+    "indonesian": "Jadi, ini adalah topik yang sangat menarik dan kompleks, dan masih banyak yang belum dipahami tentang medan magnet dan peranannya di alam semesta"
+  },
+  {
+    "id": 334,
+    "start": 2403.04,
+    "duration": 4.4,
+    "english": "Where do they come from because you know so i'm not an expert in strength theory",
+    "indonesian": "Tapi, yang jelas, medan magnet memainkan peran penting dalam banyak fenomena alam, dari skala kecil hingga skala besar"
+  },
+  {
+    "id": 335,
+    "start": 2407.44,
+    "duration": 7.04,
+    "english": "Or anything like that like the conventional wisdom these days is that magnetic fields themselves weren't",
+    "indonesian": "Dan memahami medan magnet dan perilakunya adalah kunci untuk memahami banyak fenomena alam yang kompleks"
+  },
+  {
+    "id": 336,
+    "start": 2414.48,
+    "duration": 4.0,
+    "english": "Really created at the big bang right so there has to be some sort of",
+    "indonesian": "Jadi, kita akan terus membahas topik ini dan mencoba memahami lebih lanjut tentang medan magnet dan peranannya di alam semesta"
+  },
+  {
+    "id": 337,
+    "start": 2418.48,
+    "duration": 7.04,
+    "english": "Plasma based mechanism by which you are going to create these magnetic fields essentially from nothing",
+    "indonesian": "Dan bagaimana kita dapat menggunakan pengetahuan ini untuk memahami fenomena alam yang lebih kompleks dan menarik"
+  },
+  {
+    "id": 338,
+    "start": 2425.52,
+    "duration": 6.88,
+    "english": "And the pyramid battery that i just talked about is one possibility you generate some sort of steep magnetic fields and",
+    "indonesian": "Dan akhirnya, kita akan membahas tentang bagaimana medan magnet dapat digunakan dalam berbagai aplikasi, dari teknologi hingga energi"
+  },
+  {
+    "id": 339,
+    "start": 2432.4,
+    "duration": 9.67,
+    "english": "Then you ask what happens to them as the plasma sort of moves and evolves these magnetic fields",
+    "indonesian": "Jadi, mari kita lanjutkan membahas tentang medan magnet dan peranannya di alam semesta, dan bagaimana kita dapat menggunakan pengetahuan ini untuk memahami fenomena alam yang lebih kompleks dan menarik"
+  },
+  {
+    "id": 340,
+    "start": 2442.08,
+    "duration": 10.08,
+    "english": "So let's talk a little bit about that so all of these environments the earth's core the sun",
+    "indonesian": "Jadi mari kita berbicara sedikit tentang hal itu, sehingga semua lingkungan ini, inti bumi, matahari"
+  },
+  {
+    "id": 341,
+    "start": 2452.16,
+    "duration": 6.88,
+    "english": "System the interstellar medium galaxies galactic clusters they're all plasmas you can think of all of these all of",
+    "indonesian": "Sistem, medium antar bintang, galaksi, klaster galaksi, semuanya adalah plasma, Anda dapat memikirkan semua ini sebagai plasma"
+  },
+  {
+    "id": 342,
+    "start": 2459.04,
+    "duration": 5.04,
+    "english": "These environments as plasmas and so if you can think of them as plasmas you might want to",
+    "indonesian": "Dan semua lingkungan ini sebagai plasma, dan jika Anda dapat memikirkannya sebagai plasma, Anda mungkin ingin"
+  },
+  {
+    "id": 343,
+    "start": 2464.08,
+    "duration": 6.64,
+    "english": "Write down an equation for how a plasma evolves a magnetic field and so i showed you i flashed this",
+    "indonesian": "Menulis persamaan untuk bagaimana plasma berkembang, medan magnet, dan saya menunjukkan persamaan ini sebelumnya, ini adalah hukum Ohm untuk plasma, Anda mungkin mengenalinya tanpa"
+  },
+  {
+    "id": 344,
+    "start": 2470.72,
+    "duration": 6.48,
+    "english": "Equation earlier i this is ohm's law for a plasma you might recognize it without",
+    "indonesian": "Istilah ini, hanya mengatakan medan listrik sama dengan resistivitas kali arus, Anda tahu ketika Anda di taman kanak-kanak"
+  },
+  {
+    "id": 345,
+    "start": 2477.2,
+    "duration": 6.8,
+    "english": "This term it just says electric field equals resistivity times current you know when you were in kindergarten",
+    "indonesian": "Anda melihat tegangan sama dengan resistansi kali arus, kan? Jadi ini adalah versi diferensial"
+  },
+  {
+    "id": 346,
+    "start": 2484.0,
+    "duration": 4.96,
+    "english": "You saw voltage equals resistance times current right so this is sort of the differential",
+    "indonesian": "Dari itu, medan listrik sama dengan resistivitas kali arus, tetapi tentu saja plasma bergerak"
+  },
+  {
+    "id": 347,
+    "start": 2488.96,
+    "duration": 5.84,
+    "english": "Version of that electric field equals resistivity times current but of course the plasma is moving",
+    "indonesian": "Jadi apa yang harus Anda lakukan adalah menulis medan listrik"
+  },
+  {
+    "id": 348,
+    "start": 2494.8,
+    "duration": 3.12,
+    "english": "So what you have to do is you have to write down the electric field",
+    "indonesian": "Dalam kerangka yang bergerak dengan plasma, yaitu medan listrik dalam kerangka laboratorium plus u kali b Anda"
+  },
+  {
+    "id": 349,
+    "start": 2497.92,
+    "duration": 6.88,
+    "english": "In the frame moving with the plasma which is electric field in the laboratory frame plus u cross b you",
+    "indonesian": "Gabungkan persamaan ini, gabungkan persamaan ini dengan hukum Faraday, jadi Anda mengambil curl dari ini"
+  },
+  {
+    "id": 350,
+    "start": 2504.8,
+    "duration": 7.12,
+    "english": "Combine this equation combine this equation with faraday's law so you take the curl of this",
+    "indonesian": "Dan curl dari v adalah minus dp/dt, jadi Anda mendapatkan persamaan induksi, jadi persamaan ini memberitahu saya bagaimana medan magnet akan berkembang dalam plasma yang dipengaruhi oleh aliran, kecepatan plasma u plus"
+  },
+  {
+    "id": 351,
+    "start": 2511.92,
+    "duration": 6.4,
+    "english": "And curl of v is minus dp dt so you get the induction equation so this equation tells me how the",
+    "indonesian": "Difusi resistif, oke, tanpa istilah ini, ini tidak lain adalah persamaan difusi seperti persamaan panas"
+  },
+  {
+    "id": 352,
+    "start": 2518.32,
+    "duration": 8.08,
+    "english": "Magnetic field will evolve in a plasma subject to flows plasma velocity u plus",
+    "indonesian": "Tetapi istilah ini cukup menarik dan memberikan perilaku non-trivial dari plasmoid"
+  },
+  {
+    "id": 353,
+    "start": 2526.4,
+    "duration": 8.24,
+    "english": "Resistive diffusion okay so without this term this is nothing but the diffusion equation like the heat equation",
+    "indonesian": "Dari medan magnet dalam plasma dan khususnya dapat menyebabkan amplifikasi medan magnet itu, yang disebut masalah dinamo"
+  },
+  {
+    "id": 354,
+    "start": 2534.64,
+    "duration": 6.8,
+    "english": "But this term is quite interesting and it gives rise to non-trivial behavior of the plasmid",
+    "indonesian": "Satu keanehan tentang persamaan ini adalah bahwa itu linier dalam medan magnet"
+  },
+  {
+    "id": 355,
+    "start": 2541.44,
+    "duration": 6.08,
+    "english": "Of the magnetic field in a plasma and in particular can lead to amplification of that",
+    "indonesian": "Dalam b, jadi jika medan magnet Anda awalnya nol, semua yang akan Anda dapatkan dari persamaan ini adalah nol"
+  },
+  {
+    "id": 356,
+    "start": 2547.52,
+    "duration": 8.48,
+    "english": "Magnetic field that's called the dynamo problem one curiosity about this equation is that it's linear in magnetic field",
+    "indonesian": "Jadi Anda perlu menyediakan beberapa benih untuk aliran ini untuk beroperasi dan mari kita lihat ini mungkin berasal dari"
+  },
+  {
+    "id": 357,
+    "start": 2556.0,
+    "duration": 8.56,
+    "english": "In b so if your magnetic field is initially zero all you're ever going to get out of this equation is zero",
+    "indonesian": "Baterai Biermann, tetapi ada proses plasma lain yang mungkin juga memberikan benih seperti itu"
+  },
+  {
+    "id": 358,
+    "start": 2564.56,
+    "duration": 9.36,
+    "english": "So you need to provide some seed for these flows to operate on and let's see this may be coming from",
+    "indonesian": "Tapi ini mungkin berasal dari baterai Biermann, tetapi ada proses plasma lain yang mungkin juga memberikan benih seperti itu"
+  },
+  {
+    "id": 359,
+    "start": 2573.92,
+    "duration": 9.35,
+    "english": "The biermann battery but there are other plasma based processes that might also give a seed like that",
+    "indonesian": "Tapi ini mungkin berasal dari baterai Biermann, tetapi ada proses plasma lain yang mungkin juga memberikan benih seperti itu"
+  },
+  {
+    "id": 360,
+    "start": 2583.28,
+    "duration": 9.68,
+    "english": "Okay let me um let me ask the organizers how long how long should i speak for do i have",
+    "indonesian": "Baik, izinkan saya, uh, izinkan saya bertanya kepada penyelenggara, berapa lama, berapa lama saya harus berbicara, apakah saya memiliki"
+  },
+  {
+    "id": 361,
+    "start": 2592.96,
+    "duration": 7.84,
+    "english": "Another five minutes perhaps um yeah five minutes is all right okay thank you yes so i'll be quick from",
+    "indonesian": "Lima menit lagi, mungkin, uh, ya, lima menit sudah cukup, baik, terima kasih, ya, jadi saya akan cepat dari"
+  },
+  {
+    "id": 362,
+    "start": 2600.8,
+    "duration": 7.52,
+    "english": "Here um i don't need to speak forever uh let me just present you with a very",
+    "indonesian": "Sini, uh, saya tidak perlu berbicara selamanya, uh, izinkan saya hanya mempresentasikan kepada Anda sebuah perkiraan yang sangat"
+  },
+  {
+    "id": 363,
+    "start": 2608.32,
+    "duration": 8.0,
+    "english": "Simple s estimate let's have a magnetic field present when earth formed now you think that the",
+    "indonesian": "Sederhana, mari kita miliki medan magnet (magnetic field) yang hadir ketika bumi terbentuk, sekarang Anda pikir bahwa inti luar bumi adalah cairan MHD (magnetohidrodinamika), itu adalah plasma, oke, dan kita"
+  },
+  {
+    "id": 364,
+    "start": 2616.32,
+    "duration": 3.68,
+    "english": "Outer core of the earth is an is an mhd fluid it's a plasma okay and we",
+    "indonesian": "Tahu apa sifat-sifatnya, jadi Anda tahu bahwa berdasarkan sifat-sifat cairan itu, jika Anda memiliki medan magnet (magnetic field) yang hadir ketika bumi terbentuk, itu akan membutuhkan sekitar sepuluh hingga lima tahun"
+  },
+  {
+    "id": 365,
+    "start": 2620.0,
+    "duration": 5.12,
+    "english": "Know what its properties are so you know that based on the properties of that fluid",
+    "indonesian": "Untuk medan itu untuk berdifusi secara ohmik, tapi kita tahu dari paleomagnetisme, yang pada dasarnya mengukur medan magnet (magnetic field) di bumi, bahwa bumi telah memiliki medan magnet yang hampir konstan selama, seberapa lama"
+  },
+  {
+    "id": 366,
+    "start": 2625.12,
+    "duration": 5.52,
+    "english": "If you have a magnetic field present when earth was formed it would take about ten to five years",
+    "indonesian": "Itu ada, sekitar sepuluh pangkat sembilan tahun, jadi Anda menyimpulkan dari ini bahwa satu-satunya kemungkinan adalah jika bumi secara aktif menghasilkan medan magnetnya sendiri, kan, jadi gerakan inti bumi"
+  },
+  {
+    "id": 367,
+    "start": 2630.64,
+    "duration": 8.48,
+    "english": "For that field to ohmically diffuse but we know from paleomagnetism so essentially measures of the magnetic",
+    "indonesian": "Adalah sedemikian rupa sehingga melalui istilah induksi, mereka terus-menerus menghasilkan medan magnet (magnetic field) bumi, sehingga istilah ini tidak bisa hanya menghilangkannya, oke, dan itu adalah semacam demonstrasi kebutuhan akan dinamo di bumi, tapi itu sama untuk matahari"
+  },
+  {
+    "id": 368,
+    "start": 2639.12,
+    "duration": 7.36,
+    "english": "Field on earth that the earth has had basically a constant magnetic field for essentially how long however long",
+    "indonesian": "Dan, uh, sama untuk banyak planet dan bintang yang dimagnetisasi lainnya"
+  },
+  {
+    "id": 369,
+    "start": 2646.48,
+    "duration": 6.4,
+    "english": "It's existed around ten to the nine years so you conclude from this that the only",
+    "indonesian": "Baru-baru ini kita mencoba melampaui gambaran ini, deskripsi dinamo, dan sebenarnya melihat dinamo dalam plasma tanpa tumbukan (collisionless plasmas), dan itu sangat rumit, itu sangat sulit secara komputasi dan juga sangat sulit secara analitis, uh"
+  },
+  {
+    "id": 370,
+    "start": 2652.88,
+    "duration": 8.72,
+    "english": "Possibility is if the earth actively generates its own magnetic field right so the motions of the core",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari, uh, dinamo prinsip-prinsip dasar yang lengkap, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 371,
+    "start": 2661.6,
+    "duration": 9.76,
+    "english": "Of the earth are such that via the induction term they continuously generate the magnetic",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari, uh, dinamo prinsip-prinsip dasar yang lengkap, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 372,
+    "start": 2671.36,
+    "duration": 7.44,
+    "english": "Field of the earth so that this term cannot just dissipate it away okay and that's sort of a",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari, uh, dinamo prinsip-prinsip dasar yang lengkap, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 373,
+    "start": 2678.8,
+    "duration": 6.64,
+    "english": "Demonstration of the need for a dynamo on earth but it's similar for the sun",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari, uh, dinamo prinsip-prinsip dasar yang lengkap, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 374,
+    "start": 2685.44,
+    "duration": 8.47,
+    "english": "And uh similar for many other magnetized planets and stars",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari, uh, dinamo prinsip-prinsip dasar yang lengkap, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 375,
+    "start": 2693.92,
+    "duration": 6.32,
+    "english": "More recently we're trying to go beyond this image the description of dynamo and actually look at dynamo in",
+    "indonesian": "Baru-baru ini kita mencoba melampaui gambaran ini, deskripsi dinamo, dan sebenarnya melihat dinamo dalam plasma tanpa tumbukan (collisionless plasmas), dan itu sangat rumit, itu sangat sulit secara komputasi dan juga sangat sulit secara analitis, uh"
+  },
+  {
+    "id": 376,
+    "start": 2700.24,
+    "duration": 8.56,
+    "english": "Collisionless plasmas and that's very complicated it's computationally very difficult and analytically also very difficult um",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari dinamo prinsip-prinsip dasar, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 377,
+    "start": 2708.8,
+    "duration": 9.52,
+    "english": "My student muni zoo is working on this is the first simulation of um completely avinash",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari dinamo prinsip-prinsip dasar, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 378,
+    "start": 2718.32,
+    "duration": 6.0,
+    "english": "First principles dynamo you can see that you sort of start with nothing and very",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari dinamo prinsip-prinsip dasar, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 379,
+    "start": 2724.32,
+    "duration": 7.76,
+    "english": "Small scale fluctuations arise and then there's some sort of complicated dynamics they start merging and creating larger scale",
+    "indonesian": "Mahasiswa saya, Muni Zoo, bekerja pada ini, ini adalah simulasi pertama dari dinamo prinsip-prinsip dasar, Anda bisa melihat bahwa Anda mulai dari tidak ada apa-apa dan fluktuasi skala kecil muncul, lalu ada beberapa dinamika yang rumit, mereka mulai bergabung dan menciptakan skala yang lebih besar"
+  },
+  {
+    "id": 380,
+    "start": 2732.08,
+    "duration": 6.96,
+    "english": "Magnetic fields and so on and so forth so just to point out that this is very",
+    "indonesian": "Medan magnet dan seterusnya, jadi hanya untuk menunjukkan bahwa ini sangat"
+  },
+  {
+    "id": 381,
+    "start": 2739.04,
+    "duration": 8.96,
+    "english": "Much ongoing research the dynamo problem is far from solved especially if you're looking at it in a",
+    "indonesian": "Banyak penelitian yang sedang berlangsung, masalah dinamo masih jauh dari terselesaikan, terutama jika Anda melihatnya dalam konteks plasma tanpa tumbukan (collisionless plasma)"
+  },
+  {
+    "id": 382,
+    "start": 2748.0,
+    "duration": 8.0,
+    "english": "Collisionless plasma let me skip this magnetic physics has recently met quantum computing you know so",
+    "indonesian": "Biarkan saya melewati ini, fisika magnet (magnetic physics) baru-baru ini bertemu dengan komputasi kuantum (quantum computing), Anda tahu"
+  },
+  {
+    "id": 383,
+    "start": 2756.0,
+    "duration": 9.44,
+    "english": "There's this idea that quantum computing can offer exponential advances in uh speed ups in computing",
+    "indonesian": "Ada ide bahwa komputasi kuantum dapat menawarkan kemajuan eksponensial dalam kecepatan komputasi"
+  },
+  {
+    "id": 384,
+    "start": 2765.44,
+    "duration": 8.8,
+    "english": "Computing power plasma physics requires vast computational resources but it's fundamentally non-linear so it's not at all obvious that you can use",
+    "indonesian": "Fisika plasma (plasma physics) memerlukan sumber daya komputasi yang sangat besar, tetapi secara fundamental non-linier, sehingga tidak jelas bahwa Anda dapat menggunakan komputasi kuantum untuk memecahkan masalah plasma"
+  },
+  {
+    "id": 385,
+    "start": 2774.24,
+    "duration": 6.56,
+    "english": "Quantum computing to solve plasma problems this is something that i'm working on and happy to talk about it in more",
+    "indonesian": "Ini adalah sesuatu yang saya kerjakan dan senang membahasnya lebih lanjut jika Anda memiliki pertanyaan"
+  },
+  {
+    "id": 386,
+    "start": 2780.8,
+    "duration": 9.04,
+    "english": "Detail if you have questions i'll skip this these are two portuguese physicists working here in the us applying very",
+    "indonesian": "Saya akan melewati ini, ini adalah dua fisikawan Portugal yang bekerja di sini di AS, menerapkan teknik pembelajaran mesin (machine learning) yang sangat canggih untuk mencoba mengembangkan model yang lebih canggih untuk mensimulasikan plasma dan"
+  },
+  {
+    "id": 387,
+    "start": 2789.84,
+    "duration": 11.6,
+    "english": "Sophisticated machine learning techniques to try to come up with more sophisticated models to simulate plasmas with and",
+    "indonesian": "Memahami plasma, saya juga senang menjawab pertanyaan tentang ini, biarkan saya hanya menampilkan slide ringkasan saya"
+  },
+  {
+    "id": 388,
+    "start": 2801.44,
+    "duration": 7.52,
+    "english": "Understand plasmas i'm also happy to answer questions about this let me just put up my summary slide",
+    "indonesian": "Dan menyatakan bahwa saya berharap dapat meyakinkan Anda bahwa fisika plasma (plasma physics) secara intelektual kaya dan luas"
+  },
+  {
+    "id": 389,
+    "start": 2808.96,
+    "duration": 7.6,
+    "english": "And state that i hope to have convinced you that plasma physics is intellectually rich and broad",
+    "indonesian": "Dalam cakupan, ada banyak kesempatan untuk kontribusi teoretis yang mendalam dan untuk komputasi terdepan"
+  },
+  {
+    "id": 390,
+    "start": 2816.56,
+    "duration": 9.12,
+    "english": "In scope there's many opportunities for deep theoretical contributions and for cutting-edge computing",
+    "indonesian": "Keberhasilan fusi (fusion) sangat bergantung pada pemahaman dinamika plasma non-linier"
+  },
+  {
+    "id": 391,
+    "start": 2825.68,
+    "duration": 8.72,
+    "english": "[Music] the success of fusion is critically dependent on understanding nonlinear plasma dynamics",
+    "indonesian": "[Musik] keberhasilan fusi sangat bergantung pada pemahaman dinamika plasma non-linier"
+  },
+  {
+    "id": 392,
+    "start": 2834.4,
+    "duration": 7.52,
+    "english": "As is the understanding of a wide range of astrophysical environments and you know supercomputing has been one",
+    "indonesian": "Sama seperti pemahaman lingkungan astrofisika yang luas dan Anda tahu, superkomputasi telah menjadi salah satu pilar ilmu plasma"
+  },
+  {
+    "id": 393,
+    "start": 2841.92,
+    "duration": 6.56,
+    "english": "Of the pillars of plasma science you know so there's theory there's experiments there's observations but you know over the last",
+    "indonesian": "Anda tahu, jadi ada teori, ada eksperimen, ada observasi, tetapi Anda tahu, selama 20-30 tahun terakhir, dengan munculnya superkomputasi canggih, kita telah membuat kemajuan besar dan mungkin kita berada di ambang skala baru"
+  },
+  {
+    "id": 394,
+    "start": 2848.48,
+    "duration": 8.08,
+    "english": "20 30 years with the dawn of advanced supercomputing we've really made great progress and maybe we're at the dawn of a new",
+    "indonesian": "Karena komputasi keluar, keterampilan komputasi, komputer sedang dikembangkan, pembelajaran mesin, komputasi kuantum, jadi tetaplah terhubung, saya"
+  },
+  {
+    "id": 395,
+    "start": 2856.56,
+    "duration": 7.36,
+    "english": "Scale because exit skill computings are computers are coming up machine learning quantum computing so stay tuned i",
+    "indonesian": "Mengharapkan bahwa dekade berikutnya akan membawa kemajuan yang cukup signifikan dalam"
+  },
+  {
+    "id": 396,
+    "start": 2863.92,
+    "duration": 4.72,
+    "english": "Expect that the next decade is going to bring you know quite significant advances in",
+    "indonesian": "Area ini, kita akan berhenti di sini dan berterima kasih kepada Anda semua atas perhatian Anda dan saya senang untuk"
+  },
+  {
+    "id": 397,
+    "start": 2868.64,
+    "duration": 5.04,
+    "english": "This area we'll stop here and thank you all for your attention and i'm happy to",
+    "indonesian": "Menghibur pertanyaan, terima kasih, terima kasih atas pembicaraan yang sangat menarik"
+  },
+  {
+    "id": 398,
+    "start": 2873.68,
+    "duration": 10.47,
+    "english": "Entertain questions thank you thank you for very interesting talk",
+    "indonesian": "Kami memiliki beberapa pertanyaan di chat, jadi saya akan memberikan kesempatan kepada peserta"
+  },
+  {
+    "id": 399,
+    "start": 2884.16,
+    "duration": 5.92,
+    "english": "We have quite a few questions in the chat so i'll give the word to the participants right",
+    "indonesian": "Kanan"
+  },
+  {
+    "id": 400,
+    "start": 2890.08,
+    "duration": 9.12,
+    "english": "Away so the first one is from sibolt uh you should uh let's see if this works right now so",
+    "indonesian": "Jadi, pertama adalah dari Sibolt, uh, Anda harus, uh, mari kita lihat apakah ini berfungsi sekarang"
+  },
+  {
+    "id": 401,
+    "start": 2899.2,
+    "duration": 8.0,
+    "english": "You should be able to turn on your camera microphone can you hear me yeah um my question was a bit",
+    "indonesian": "Anda seharusnya dapat mengaktifkan kamera mikrofon Anda, apakah Anda bisa mendengar saya? Ya, um, pertanyaan saya sedikit"
+  },
+  {
+    "id": 402,
+    "start": 2907.2,
+    "duration": 8.64,
+    "english": "Simple and it was on slide six when you present the maxwell equations i was wondering uh why do you not",
+    "indonesian": "Sederhana dan itu ada di slide enam ketika Anda mempresentasikan persamaan Maxwell, saya bertanya-tanya, uh, mengapa Anda tidak"
+  },
+  {
+    "id": 403,
+    "start": 2915.84,
+    "duration": 8.64,
+    "english": "Well why there wasn't uh the cur the placement current uh on the j uh on the fourth floor well spotted",
+    "indonesian": "Baik, mengapa tidak ada, uh, arus pemindahan, uh, pada j, uh, pada lantai empat, baiklah, orang-orang, Anda mendapatkan, Anda mendapatkan, Anda mendapatkan pujian karena memperhatikan, baiklah, saya tidak menulis"
+  },
+  {
+    "id": 404,
+    "start": 2924.48,
+    "duration": 5.76,
+    "english": "People you get you get you get kudos for paying attention well done i didn't write the",
+    "indonesian": "Arus pemindahan karena saya fokus pada batas sub-relativistik dan jadi jika Anda berada pada kecepatan yang jauh lebih kecil dari kecepatan cahaya, istilah itu kecil, oke, jadi Anda tidak"
+  },
+  {
+    "id": 405,
+    "start": 2930.24,
+    "duration": 8.32,
+    "english": "Displacement current because i was focusing on the sub-relativistic limit and so if you are at velocities that are",
+    "indonesian": "Membutuhkannya, tapi jika saya khawatir tentang efek relativistik, saya harus mempertahankannya, jadi itu jawabannya, oke, pertanyaan yang baik, terima kasih"
+  },
+  {
+    "id": 406,
+    "start": 2938.56,
+    "duration": 5.2,
+    "english": "Much smaller than the speed of light that term is small okay so you don't",
+    "indonesian": "Terima kasih, uh, kami memiliki pertanyaan lain, saya pikir Anda sudah menjawab ini, tapi saya akan bertanya"
+  },
+  {
+    "id": 407,
+    "start": 2943.76,
+    "duration": 6.72,
+    "english": "You don't need it but if i was worried about relativistic effects i would have to keep it so that's the",
+    "indonesian": "Anda, um, jadi Andres bertanya tentang jumlah jam CPU, saya tidak yakin jika Anda ingin, saya senang untuk"
+  },
+  {
+    "id": 408,
+    "start": 2950.48,
+    "duration": 8.64,
+    "english": "Answer okay good question thank you thank you for your presentation it was amazing",
+    "indonesian": "Berkolaborasi pada itu, jadi, um, ya, Andreas, Anda seharusnya hanya, uh, jika Anda, uh, ingin"
+  },
+  {
+    "id": 409,
+    "start": 2959.12,
+    "duration": 10.47,
+    "english": "Thank you uh we have another question i think you already answered this one but i'll ask them",
+    "indonesian": "Mengaktifkan kamera Anda, jika tidak, saya akan bertanya"
+  },
+  {
+    "id": 410,
+    "start": 2969.6,
+    "duration": 6.32,
+    "english": "You um so andres asks about the number of cpu hours i'm not sure if you want i'm happy to",
+    "indonesian": "Baik, mereka tidak merespons, jadi, uh, ya, um, Andreas hanya bertanya, um, saya pikir itu salah satu"
+  },
+  {
+    "id": 411,
+    "start": 2975.92,
+    "duration": 11.51,
+    "english": "Collaborate on that so um yeah andreas you should have just if you uh want to",
+    "indonesian": "Simulasi pertama, um, Anda menunjukkan berapa lama waktu simulasi itu dalam hal jam CPU"
+  },
+  {
+    "id": 412,
+    "start": 2987.44,
+    "duration": 9.11,
+    "english": "Turn on your camera if not i'll just ask",
+    "indonesian": "Saya ingat itu sekitar 2 juta jam CPU karena zoom thing ada di atasnya"
+  },
+  {
+    "id": 413,
+    "start": 2996.56,
+    "duration": 7.6,
+    "english": "Well they're not responding so uh yeah um andreas just asks um i think it's one of the",
+    "indonesian": "Jadi, biarkan saya, biarkan saya menjawab pertanyaan itu lebih umum, jadi, simulasi tercanggih di plasma adalah sekitar 1 juta jam CPU"
+  },
+  {
+    "id": 414,
+    "start": 3004.16,
+    "duration": 9.83,
+    "english": "Very first simulations um you showed how much time did that simulation take in terms of cpu hours",
+    "indonesian": "Selalu, oke, sekarang apakah mereka 1 juta atau 20 juta atau bahkan 100"
+  },
+  {
+    "id": 415,
+    "start": 3014.0,
+    "duration": 9.28,
+    "english": "I remember it was why one of the so this one right here um maybe was the first i think the",
+    "indonesian": "Juta sebenarnya tergantung pada jenis persamaan yang Anda pecahkan, jadi, misalnya, jika Anda memecahkan"
+  },
+  {
+    "id": 416,
+    "start": 3023.28,
+    "duration": 7.52,
+    "english": "Simulation is about 2 million cpu hours because the zoom thing is on top of it",
+    "indonesian": "Persamaan, misalnya, persamaan MHD (magnetohidrodinamika) atau persamaan lainnya, itu akan mempengaruhi jumlah jam CPU yang dibutuhkan"
+  },
+  {
+    "id": 417,
+    "start": 3030.8,
+    "duration": 12.32,
+    "english": "So let me let me answer maybe that question more generally so state-of-the-art simulations in plasma are upwards of 1 million cpu",
+    "indonesian": "Tapi secara umum, simulasi plasma membutuhkan sumber daya komputasi yang besar"
+  },
+  {
+    "id": 418,
+    "start": 3043.12,
+    "duration": 6.88,
+    "english": "Hours always okay now whether they are 1 million or 20 million or even 100",
+    "indonesian": "Dan itu tergantung pada kompleksitas sistem yang sedang disimulasikan"
+  },
+  {
+    "id": 419,
+    "start": 3050.0,
+    "duration": 9.04,
+    "english": "Million actually depends on the types of equations that you're solving so for example if you're solving",
+    "indonesian": "Jadi, jawaban atas pertanyaan Andreas adalah bahwa simulasi plasma dapat membutuhkan waktu yang lama dan sumber daya komputasi yang besar"
+  },
+  {
+    "id": 420,
+    "start": 3059.04,
+    "duration": 10.16,
+    "english": "Something that looks like the boltzmann equation there is because the dimensionality is higher you can explore more cpus",
+    "indonesian": "Sesuatu yang terlihat seperti persamaan Boltzmann ada di sana karena dimensionalitasnya lebih tinggi sehingga Anda dapat mengeksplorasi lebih banyak CPU"
+  },
+  {
+    "id": 421,
+    "start": 3069.2,
+    "duration": 4.24,
+    "english": "Right so the higher the dimensionality of the problem or you know the larger the number of",
+    "indonesian": "Benar, sehingga semakin tinggi dimensionalitas masalah atau Anda tahu semakin besar jumlah"
+  },
+  {
+    "id": 422,
+    "start": 3073.44,
+    "duration": 7.28,
+    "english": "Particles you have the more cpus you can use so it's not it's not uncommon these days",
+    "indonesian": "Partikel yang Anda miliki, semakin banyak CPU yang dapat Anda gunakan, jadi ini tidak jarang terjadi saat ini"
+  },
+  {
+    "id": 423,
+    "start": 3080.72,
+    "duration": 7.28,
+    "english": "That kinetic simulations of plasma can take something like 20 million cpu hours for one simulation",
+    "indonesian": "Simulasi kinetik plasma dapat memakan waktu sekitar 20 juta jam CPU untuk satu simulasi"
+  },
+  {
+    "id": 424,
+    "start": 3088.0,
+    "duration": 8.72,
+    "english": "Okay if you're doing mhd like here your opportunities for using more cpus are smaller",
+    "indonesian": "Baik, jika Anda melakukan MHD seperti di sini, peluang Anda untuk menggunakan lebih banyak CPU lebih kecil"
+  },
+  {
+    "id": 425,
+    "start": 3096.72,
+    "duration": 4.8,
+    "english": "Also because the codes don't scale perfectly if you know what i mean so you know if you double the size of the",
+    "indonesian": "Juga karena kode tidak skala dengan sempurna, jika Anda tahu apa yang saya maksud, jadi jika Anda menggandakan ukuran"
+  },
+  {
+    "id": 426,
+    "start": 3101.52,
+    "duration": 5.68,
+    "english": "Problem that doesn't mean you can use twice as many processors so there the simulations tend to use",
+    "indonesian": "Masalah, itu tidak berarti Anda dapat menggunakan dua kali lebih banyak prosesor, jadi simulasi cenderung menggunakan"
+  },
+  {
+    "id": 427,
+    "start": 3107.2,
+    "duration": 8.72,
+    "english": "Fewer computational hours but perhaps the most interesting point right so this is not this is not just about bragging about",
+    "indonesian": "Lebih sedikit jam komputasi, tapi mungkin poin yang paling menarik, kan, ini bukan hanya tentang bermegah tentang"
+  },
+  {
+    "id": 428,
+    "start": 3115.92,
+    "duration": 4.08,
+    "english": "How many cp hours we can use right the more interesting point is that even",
+    "indonesian": "Berapa banyak jam CPU yang dapat kita gunakan, kan, poin yang lebih menarik adalah bahwa bahkan"
+  },
+  {
+    "id": 429,
+    "start": 3120.0,
+    "duration": 8.16,
+    "english": "Though we're doing these incredibly large simulations they are still much smaller than",
+    "indonesian": "Meskipun kita melakukan simulasi yang luar biasa besar, mereka masih jauh lebih kecil daripada"
+  },
+  {
+    "id": 430,
+    "start": 3128.16,
+    "duration": 10.32,
+    "english": "The realistic systems so you know no computer is actually big enough to simulate um",
+    "indonesian": "Sistem yang realistis, jadi tidak ada komputer yang cukup besar untuk mensimulasikan, uh, hal-hal yang terjadi di korona matahari"
+  },
+  {
+    "id": 431,
+    "start": 3138.48,
+    "duration": 4.96,
+    "english": "Things that are happening in the solar corona okay so i'll give you this is best",
+    "indonesian": "Baik, saya akan memberikan ini, yang terbaik adalah dengan menggunakan bilangan Reynolds, bilangan Reynolds adalah dasar"
+  },
+  {
+    "id": 432,
+    "start": 3143.44,
+    "duration": 7.04,
+    "english": "Parameterized by using the reynolds number the reynolds numbers the reynolds number is basically a ratio",
+    "indonesian": "Rasio ukuran dikali kecepatan dibagi dengan viskositas, bilangan Reynolds di korona matahari"
+  },
+  {
+    "id": 433,
+    "start": 3150.48,
+    "duration": 6.56,
+    "english": "Of so it's size times velocity divided by viscosity the reynolds number in the solar corona",
+    "indonesian": "Dapat menjadi sesuatu seperti 10 pangkat 12, oke, angka nyata yang dapat Anda simulasikan adalah seperti seribu atau mungkin 10.000"
+  },
+  {
+    "id": 434,
+    "start": 3157.04,
+    "duration": 3.36,
+    "english": "Can be something like 10 to the 12. okay the real number that you can",
+    "indonesian": "Oke, dan itu sebanding dengan resolusi yang dapat Anda miliki, dasar ukuran komputer Anda, jadi kita berada beberapa tingkat di bawah"
+  },
+  {
+    "id": 435,
+    "start": 3160.4,
+    "duration": 4.96,
+    "english": "Simulate is like a thousand or maybe 10 000 okay and that's proportional to the",
+    "indonesian": "Apa yang kita butuhkan untuk benar-benar menyediakan simulasi yang realistis di mana saja, oke, jadi saya pikir itu menempatkan hal-hal dalam"
+  },
+  {
+    "id": 436,
+    "start": 3165.36,
+    "duration": 6.0,
+    "english": "Resolution you can have basically the size of your computer so we are many orders of magnitude below",
+    "indonesian": "Konteks dan memberitahu Anda mengapa exascale sangat menarik bagi kita, serta pembelajaran mesin dan mungkin komputasi kuantum"
+  },
+  {
+    "id": 437,
+    "start": 3171.36,
+    "duration": 9.36,
+    "english": "What we need to actually provide a realistic simulation of anywhere okay so that i think that sets things in",
+    "indonesian": "Ya, saya pikir itu jawaban yang banyak jam, banyak tingkat di bawah"
+  },
+  {
+    "id": 438,
+    "start": 3180.72,
+    "duration": 6.0,
+    "english": "Context and tells you why exascale is so interesting to us as is machine learning and maybe quantum",
+    "indonesian": "Saya rasa itu menempatkan hal-hal dalam konteks dan memberitahu Anda mengapa exascale sangat menarik bagi kita, serta pembelajaran mesin dan mungkin komputasi kuantum"
+  },
+  {
+    "id": 439,
+    "start": 3186.72,
+    "duration": 7.44,
+    "english": "Computing yeah i think that's answer is being many hours of many orders of magnitude below",
+    "indonesian": "Ya, saya pikir itu jawaban yang banyak jam, banyak tingkat di bawah"
+  },
+  {
+    "id": 440,
+    "start": 3194.16,
+    "duration": 7.28,
+    "english": "Where we need to be is the story of my phd um so we have another",
+    "indonesian": "Di mana kita perlu berada adalah cerita tentang disertasi saya, jadi kita memiliki pertanyaan lain"
+  },
+  {
+    "id": 441,
+    "start": 3201.44,
+    "duration": 6.24,
+    "english": "Question by well two questions actually by iman so i'll you should be i ask that",
+    "indonesian": "Pertanyaan oleh, sebenarnya dua pertanyaan oleh Iman, jadi saya akan bertanya, Anda harus bertanya salah satunya agar kita bisa memberi kesempatan kepada orang lain"
+  },
+  {
+    "id": 442,
+    "start": 3207.68,
+    "duration": 4.0,
+    "english": "You just ask one of them just so we can give opportunity to someone else",
+    "indonesian": "Anda hanya perlu bertanya satu saja, sehingga kita bisa memberi kesempatan kepada orang lain"
+  },
+  {
+    "id": 443,
+    "start": 3211.68,
+    "duration": 8.8,
+    "english": "Um but yeah i think yeah um sir could you explain how exactly does the misalignment of the temperature and",
+    "indonesian": "Uh, tapi ya, saya pikir, ya, Pak, apakah Anda bisa menjelaskan bagaimana ketidakselarasan gradien suhu dan"
+  },
+  {
+    "id": 444,
+    "start": 3220.48,
+    "duration": 8.08,
+    "english": "Pressure density gradients generates a magnetic field yeah good question",
+    "indonesian": "tekanan kepadatan menghasilkan medan magnet, pertanyaan yang bagus"
+  },
+  {
+    "id": 445,
+    "start": 3228.56,
+    "duration": 5.2,
+    "english": "So um i didn't so i just i just stated that right but i didn't",
+    "indonesian": "Jadi, saya tidak, saya hanya menyatakan itu, tapi saya tidak"
+  },
+  {
+    "id": 446,
+    "start": 3233.76,
+    "duration": 8.08,
+    "english": "Explain it to explain that requires so the idea was simple i just",
+    "indonesian": "menjelaskannya, untuk menjelaskannya diperlukan, jadi ide sederhana saya adalah"
+  },
+  {
+    "id": 447,
+    "start": 3241.84,
+    "duration": 6.24,
+    "english": "Said let there be a temperature gradient and a density gradient that are not aligned",
+    "indonesian": "biarkan ada gradien suhu dan gradien kepadatan yang tidak sejajar"
+  },
+  {
+    "id": 448,
+    "start": 3248.08,
+    "duration": 7.36,
+    "english": "And that somehow magically gives you a battery right but i didn't really explain where that comes from",
+    "indonesian": "dan itu secara ajaib memberikan Anda sebuah baterai, tapi saya tidak benar-benar menjelaskan dari mana itu berasal"
+  },
+  {
+    "id": 449,
+    "start": 3255.44,
+    "duration": 9.44,
+    "english": "Uh so i'm not sure that i can do justice to that without writing more equations",
+    "indonesian": "Uh, jadi saya tidak yakin bahwa saya bisa melakukan keadilan tanpa menulis lebih banyak persamaan"
+  },
+  {
+    "id": 450,
+    "start": 3264.88,
+    "duration": 7.76,
+    "english": "But the idea is like this so you see this equation here i said this was ohm's",
+    "indonesian": "Tapi ideanya seperti ini, jadi Anda lihat persamaan ini, saya katakan ini adalah hukum Ohm"
+  },
+  {
+    "id": 451,
+    "start": 3272.64,
+    "duration": 8.16,
+    "english": "Law okay this is actually not complete this is the simplification this ohm's law if it were complete would",
+    "indonesian": "Baik, ini sebenarnya tidak lengkap, ini adalah penyederhanaan, hukum Ohm ini jika lengkap akan"
+  },
+  {
+    "id": 452,
+    "start": 3280.8,
+    "duration": 4.88,
+    "english": "Have another term here on the right hand side which would be the electron pressure",
+    "indonesian": "memiliki suku lain di sisi kanan yang akan menjadi gradien tekanan elektron"
+  },
+  {
+    "id": 453,
+    "start": 3285.68,
+    "duration": 8.32,
+    "english": "Gradient a term like this but for the electrons okay now you remember maybe that i took the curl",
+    "indonesian": "suku seperti ini, tapi untuk elektron, ok, sekarang Anda mungkin ingat bahwa saya mengambil curl"
+  },
+  {
+    "id": 454,
+    "start": 3294.0,
+    "duration": 8.16,
+    "english": "Of this equation to arrive at the induction equation when i take the curl of the",
+    "indonesian": "dari persamaan ini untuk mendapatkan persamaan induksi, ketika saya mengambil curl dari"
+  },
+  {
+    "id": 455,
+    "start": 3302.16,
+    "duration": 7.44,
+    "english": "Pressure gradient sorry this would be the pressure gradient divided by density itself there's going to be a surviving term",
+    "indonesian": "gradien tekanan, maaf, ini akan menjadi gradien tekanan dibagi dengan kepadatan itu sendiri, ada suku yang akan bertahan"
+  },
+  {
+    "id": 456,
+    "start": 3309.6,
+    "duration": 7.2,
+    "english": "That looks like grav n cross graph t and that term is going to be a source for",
+    "indonesian": "yang terlihat seperti grav n cross graph t dan suku itu akan menjadi sumber untuk"
+  },
+  {
+    "id": 457,
+    "start": 3316.8,
+    "duration": 5.52,
+    "english": "Magnetic field now if you're looking for some intuition it just has to do with",
+    "indonesian": "medan magnet, sekarang jika Anda mencari intuisi, itu hanya memiliki hubungan dengan"
+  },
+  {
+    "id": 458,
+    "start": 3322.32,
+    "duration": 5.44,
+    "english": "The fact that having a temperature gradient and the density gradient generates currents in my plasma so",
+    "indonesian": "fakta bahwa memiliki gradien suhu dan gradien kepadatan menghasilkan arus dalam plasma saya, sehingga"
+  },
+  {
+    "id": 459,
+    "start": 3327.76,
+    "duration": 6.0,
+    "english": "Electron flows which then lead to a magnetic field so that's maybe not the most satisfactory",
+    "indonesian": "aliran elektron yang kemudian mengarah ke medan magnet, jadi itu mungkin bukan penjelasan yang paling memuaskan"
+  },
+  {
+    "id": 460,
+    "start": 3333.76,
+    "duration": 6.08,
+    "english": "Answer but that's sort of that's the answer i can give you without writing more equations yes sir thank you",
+    "indonesian": "Jawaban, tapi itu sejenis jawaban yang bisa saya berikan tanpa menulis lebih banyak persamaan, ya pak, terima kasih"
+  },
+  {
+    "id": 461,
+    "start": 3339.84,
+    "duration": 10.47,
+    "english": "Sir i understand thank you great uh thank you uh we have another question by",
+    "indonesian": "Pak, saya mengerti, terima kasih, bagus, uh, terima kasih, uh, kita memiliki pertanyaan lain dari"
+  },
+  {
+    "id": 462,
+    "start": 3350.32,
+    "duration": 9.03,
+    "english": "So let me just find you oh here we go oh sorry uh",
+    "indonesian": "Jadi, izinkan saya mencari, oh, saya menemukannya, oh, maaf, uh"
+  },
+  {
+    "id": 463,
+    "start": 3359.36,
+    "duration": 8.32,
+    "english": "Uh can you hear me yep so my question is in the last slides",
+    "indonesian": "Uh, apakah Anda bisa mendengar saya? Ya, jadi pertanyaan saya adalah di slide terakhir"
+  },
+  {
+    "id": 464,
+    "start": 3367.68,
+    "duration": 10.23,
+    "english": "You mentioned that the earth the earth's magnetic field was constant in the last",
+    "indonesian": "Anda menyebutkan bahwa medan magnet bumi tetap konstan dalam jutaan tahun terakhir"
+  },
+  {
+    "id": 465,
+    "start": 3377.92,
+    "duration": 8.16,
+    "english": "Million years so yeah um is it right that uh the earth has lost 10 percent",
+    "indonesian": "Jadi, ya, um, apakah benar bahwa, uh, bumi telah kehilangan 10 persen dari medan magnetnya dalam 150 tahun terakhir dan mengapa, pertanyaan yang sangat baik, Alex"
+  },
+  {
+    "id": 466,
+    "start": 3386.08,
+    "duration": 7.44,
+    "english": "Of its magnetic field in the last 150 years and how come so excellent question alex",
+    "indonesian": "Terima kasih, jadi ketika saya mengatakan bahwa medan magnet bumi tetap kira-kira konstan, apa yang saya maksud adalah jika Anda melihatnya dalam skala waktu yang lebih lama, besarnya kira-kira konstan, tentu saja itu bervariasi, kan, dan itu terbalik terkadang, kan"
+  },
+  {
+    "id": 467,
+    "start": 3393.52,
+    "duration": 11.28,
+    "english": "Thank you so when i say the earth's magnetic field has remained roughly constant what i mean is if you look over longish",
+    "indonesian": "Dan pembalikan medan magnet bumi, jadi Anda tahu, pembalikan berarti kutub utara menjadi kutub selatan"
+  },
+  {
+    "id": 468,
+    "start": 3404.8,
+    "duration": 9.28,
+    "english": "Time scales it's its magnitude is roughly constant of course it varies right and it reverses sometimes right",
+    "indonesian": "Dan sebaliknya, jadi pembalikan-pembalikan itu terjadi dan ada cerita menarik yang bisa Anda katakan tentang bagaimana pembalikan-pembalikan medan magnet bumi berkorelasi dengan banyak zaman es dan hal-hal seperti itu, oke"
+  },
+  {
+    "id": 469,
+    "start": 3414.08,
+    "duration": 5.84,
+    "english": "And those reversals of the earth's magnetic field so you know reversal meaning the north pole becomes the south pole",
+    "indonesian": "Tapi ide utamanya adalah bahwa jika Anda mengambil rata-rata dari pembalikan-pembalikan periodik ini"
+  },
+  {
+    "id": 470,
+    "start": 3419.92,
+    "duration": 6.56,
+    "english": "And vice versa so those happen and there's even interesting stories you can tell about how those",
+    "indonesian": "Kanan, atau fluktuasi, amplitudo medan tetap kira-kira konstan, oke, dan ideanya adalah bahwa jika tidak ada induksi, jika tidak ada dinamo yang bekerja, Anda dan saya tidak akan berbicara, kan, medan magnet akan berdifusi sangat cepat, kan, dalam waktu 10^5 tahun"
+  },
+  {
+    "id": 471,
+    "start": 3426.48,
+    "duration": 6.16,
+    "english": "Reversals of the earth's magnetic field correlate with many ice ages and things like this okay",
+    "indonesian": "Bumi akan kehilangan medan magnetnya dan medan magnet bumi melindungi kita dari radiasi kosmik, kan, dan jika Anda terbuka pada radiasi itu, kita, uh, tidak akan ada di sini, seperti yang saya katakan"
+  },
+  {
+    "id": 472,
+    "start": 3432.64,
+    "duration": 6.72,
+    "english": "But the sort of the idea is that if you average over these periodic reversals",
+    "indonesian": "Terima kasih banyak, bagus, dan saya rasa kita memiliki satu pertanyaan terakhir"
+  },
+  {
+    "id": 473,
+    "start": 3439.36,
+    "duration": 8.32,
+    "english": "Right or fluctuations the amplitude of the field does remain roughly constant okay and the idea is that if there was",
+    "indonesian": "Jadi, saya akan memberikan kesempatan, halo, hi, uh, jadi pertanyaan saya adalah"
+  },
+  {
+    "id": 474,
+    "start": 3447.68,
+    "duration": 6.72,
+    "english": "No induction if there was no dynamo working you would you and i wouldn't be talking right the",
+    "indonesian": "Jika tidak ada induksi, jika tidak ada dinamo yang bekerja, Anda dan saya tidak akan berbicara, kan, medan magnet akan berdifusi sangat cepat, kan, dalam waktu 10^5 tahun"
+  },
+  {
+    "id": 475,
+    "start": 3454.4,
+    "duration": 4.64,
+    "english": "Magnetic field would have diffused very quickly right in within ten to the five years",
+    "indonesian": "Bumi akan kehilangan medan magnetnya dan medan magnet bumi melindungi kita dari radiasi kosmik, kan, dan jika Anda terbuka pada radiasi itu, kita, uh, tidak akan ada di sini, seperti yang saya katakan"
+  },
+  {
+    "id": 476,
+    "start": 3459.04,
+    "duration": 4.32,
+    "english": "The earth would be left without a magnetic field and the earth's magnetic field protected",
+    "indonesian": "Medan magnet bumi akan berdifusi sangat cepat, kan, dalam waktu 10^5 tahun, bumi akan kehilangan medan magnetnya dan medan magnet bumi melindungi kita dari radiasi kosmik, kan"
+  },
+  {
+    "id": 477,
+    "start": 3463.36,
+    "duration": 7.68,
+    "english": "From cosmic radiation right and if you were open to that radiation we well you wouldn't be here like i said",
+    "indonesian": "Dan jika Anda terbuka pada radiasi itu, kita, uh, tidak akan ada di sini, seperti yang saya katakan, ya, terima kasih banyak"
+  },
+  {
+    "id": 478,
+    "start": 3471.04,
+    "duration": 7.92,
+    "english": "Nor would i yeah thank you very much great and i think we have one last",
+    "indonesian": "Terima kasih banyak, bagus, dan saya rasa kita memiliki satu pertanyaan terakhir"
+  },
+  {
+    "id": 479,
+    "start": 3478.96,
+    "duration": 11.92,
+    "english": "Question so i'll just give them hello hi uh so my question was",
+    "indonesian": "Jadi, saya akan memberikan kesempatan, halo, hi, uh, jadi pertanyaan saya adalah"
+  },
+  {
+    "id": 480,
+    "start": 3490.88,
+    "duration": 8.32,
+    "english": "Uh where exactly are we using quantum computing uh in plasma physics problem as",
+    "indonesian": "Uh, di mana tepatnya kita menggunakan komputasi kuantum, uh, dalam masalah fisika plasma?"
+  },
+  {
+    "id": 481,
+    "start": 3499.2,
+    "duration": 7.84,
+    "english": "Quantum computing is pretty new right great question how can we use it in plasma physics",
+    "indonesian": "Komputasi kuantum cukup baru, kan? Pertanyaan yang bagus, bagaimana kita bisa menggunakannya dalam fisika plasma?"
+  },
+  {
+    "id": 482,
+    "start": 3507.04,
+    "duration": 9.2,
+    "english": "We can't okay so the answer the short answer we cannot okay the longer answer is that",
+    "indonesian": "Kita tidak bisa, oke, jadi jawabannya singkat, kita tidak bisa, oke, jawaban yang lebih panjang adalah bahwa"
+  },
+  {
+    "id": 483,
+    "start": 3516.24,
+    "duration": 7.44,
+    "english": "You know people are thinking like this people are thinking it may take 20 years for there to be",
+    "indonesian": "Kamu tahu, orang-orang berpikir seperti ini, orang-orang berpikir mungkin butuh 20 tahun untuk ada"
+  },
+  {
+    "id": 484,
+    "start": 3523.68,
+    "duration": 9.2,
+    "english": "A quantum computer that one can use right like one that actually is useful for something for solving a real problem",
+    "indonesian": "Sebuah komputer kuantum yang bisa digunakan, seperti, satu yang benar-benar berguna untuk sesuatu, untuk memecahkan masalah nyata"
+  },
+  {
+    "id": 485,
+    "start": 3532.88,
+    "duration": 7.84,
+    "english": "Right and it's a mistake to wait 20 years and then start thinking how to use it",
+    "indonesian": "Benar, dan itu adalah kesalahan untuk menunggu 20 tahun dan kemudian mulai berpikir bagaimana menggunakannya"
+  },
+  {
+    "id": 486,
+    "start": 3540.72,
+    "duration": 6.08,
+    "english": "Because it's not going to be about taking the code that i have and just porting it",
+    "indonesian": "Karena itu tidak akan tentang mengambil kode yang saya miliki dan hanya memindahkannya"
+  },
+  {
+    "id": 487,
+    "start": 3546.8,
+    "duration": 3.36,
+    "english": "To the quantum computer right that's not how it's going to work because it's a",
+    "indonesian": "Ke komputer kuantum, kan? Itu tidak akan seperti itu, karena itu adalah arsitektur yang secara fundamental berbeda"
+  },
+  {
+    "id": 488,
+    "start": 3550.16,
+    "duration": 6.64,
+    "english": "Fundamentally different architecture so what people are thinking is yes it will take 20 years to get the computer",
+    "indonesian": "Jadi, apa yang orang pikirkan adalah, ya, itu akan membutuhkan 20 tahun untuk mendapatkan komputer"
+  },
+  {
+    "id": 489,
+    "start": 3556.8,
+    "duration": 7.12,
+    "english": "But it probably will take 20 years for us to understand how we can map our problems into something that can",
+    "indonesian": "Tapi itu mungkin akan membutuhkan 20 tahun bagi kita untuk memahami bagaimana kita bisa memetakan masalah kita menjadi sesuatu yang bisa"
+  },
+  {
+    "id": 490,
+    "start": 3563.92,
+    "duration": 5.36,
+    "english": "Be solved on a quantum computer right so the idea is to have the two lines of thought",
+    "indonesian": "Dipecahkan pada komputer kuantum, kan? Jadi, ideanya adalah memiliki dua garis pemikiran"
+  },
+  {
+    "id": 491,
+    "start": 3569.28,
+    "duration": 4.48,
+    "english": "Develop in parallel so that by the time that there is actually a useful quantum",
+    "indonesian": "Berkembang secara paralel, sehingga pada saat itu ada komputer kuantum yang benar-benar berguna"
+  },
+  {
+    "id": 492,
+    "start": 3573.76,
+    "duration": 7.68,
+    "english": "Computer we are ready to use it okay and it's actually a very challenging problem because like i said",
+    "indonesian": "Kita sudah siap untuk menggunakannya, oke, dan itu sebenarnya adalah masalah yang sangat menantang, karena seperti yang saya katakan"
+  },
+  {
+    "id": 493,
+    "start": 3581.44,
+    "duration": 7.04,
+    "english": "All our problems are non-linear it's not at all obvious how you use how you devise a quantum algorithm",
+    "indonesian": "Semua masalah kita adalah non-linier, itu tidak sama sekali jelas bagaimana Anda menggunakan, bagaimana Anda merancang algoritma kuantum"
+  },
+  {
+    "id": 494,
+    "start": 3588.48,
+    "duration": 6.96,
+    "english": "That will allow you to solve uh nonlinear problems so for example an example of something i'm playing",
+    "indonesian": "Yang akan memungkinkan Anda untuk memecahkan, uh, masalah non-linier, jadi, misalnya, contoh dari sesuatu yang saya mainkan"
+  },
+  {
+    "id": 495,
+    "start": 3595.44,
+    "duration": 5.36,
+    "english": "Around with is called the math long transformation which is a transformation you do to the",
+    "indonesian": "Adalah yang disebut transformasi Madelung, yang merupakan transformasi yang Anda lakukan pada persamaan Schrödinger yang memetakannya menjadi persamaan seperti fluida"
+  },
+  {
+    "id": 496,
+    "start": 3600.8,
+    "duration": 6.4,
+    "english": "Schrodinger equation that maps it into fluid-like equations that's very interesting okay it has it",
+    "indonesian": "Itu sangat menarik, oke, itu memiliki keterbatasan, tapi itu sangat menarik, karena persamaan MHD kita mirip dengan itu, oke"
+  },
+  {
+    "id": 497,
+    "start": 3607.2,
+    "duration": 7.6,
+    "english": "Has limitations but it's very interesting because our mhd equations are similar to those okay so this gives you an idea of the",
+    "indonesian": "Jadi, ini memberi Anda gambaran tentang jenis pemetaan yang bisa Anda lakukan dengan beberapa masalah yang mungkin membuatnya lebih mudah untuk dipecahkan pada komputer kuantum"
+  },
+  {
+    "id": 498,
+    "start": 3614.8,
+    "duration": 6.96,
+    "english": "Type of mapping that you can do with some problems that might make them easier to solve on a quantum computer",
+    "indonesian": "Tapi itu adalah cara berpikir yang sama sekali berbeda dari apa yang kita lakukan saat ini dengan komputasi konvensional, seperti Anda tidak"
+  },
+  {
+    "id": 499,
+    "start": 3621.76,
+    "duration": 6.56,
+    "english": "But it's a completely different way of thinking through what we do currently with conventional computing like you don't",
+    "indonesian": "Tapi itu adalah cara berpikir yang sama sekali berbeda dari apa yang kita lakukan saat ini dengan komputasi konvensional, seperti Anda tidak"
+  },
+  {
+    "id": 500,
+    "start": 3628.32,
+    "duration": 9.6,
+    "english": "Think like that for conventional computing so that's the answer thank you um",
+    "indonesian": "Pikirkan seperti itu untuk komputasi konvensional, jadi itu jawabannya, terima kasih, um"
+  },
+  {
+    "id": 501,
+    "start": 3637.92,
+    "duration": 6.56,
+    "english": "I think that's also without said i think we can close this session uh thanks again for",
+    "indonesian": "Saya pikir itu juga tanpa dikatakan, saya pikir kita bisa menutup sesi ini, uh, terima kasih lagi untuk"
+  },
+  {
+    "id": 502,
+    "start": 3644.48,
+    "duration": 8.64,
+    "english": "The very interesting talk um uh and um so for the participants listening i'll just remind you that the",
+    "indonesian": "Pembicaraan yang sangat menarik, um, uh, dan, um, jadi untuk peserta yang mendengarkan, saya akan mengingatkan Anda bahwa"
+  },
+  {
+    "id": 503,
+    "start": 3653.12,
+    "duration": 4.8,
+    "english": "Competition starts in about three and a half hours but in just about six hours our",
+    "indonesian": "Kompetisi dimulai sekitar tiga setengah jam dari sekarang, tapi dalam sekitar enam jam, pembicaraan berikutnya kita"
+  },
+  {
+    "id": 504,
+    "start": 3657.92,
+    "duration": 4.64,
+    "english": "Next talk is exactly going to be on quantum computing we're joined by tim from",
+    "indonesian": "Tepat akan membahas tentang komputasi kuantum, kita bergabung dengan tim dari"
+  },
+  {
+    "id": 505,
+    "start": 3662.56,
+    "duration": 7.44,
+    "english": "Nyu shanghai so if you're interested in seeing the other side of uh what the actual computer that",
+    "indonesian": "NYU Shanghai, jadi jika Anda tertarik untuk melihat sisi lain dari, uh, apa yang sebenarnya komputer itu"
+  },
+  {
+    "id": 506,
+    "start": 3670.0,
+    "duration": 6.48,
+    "english": "My one day help solve this problems may look like um then tune in about six hours",
+    "indonesian": "Mungkin suatu hari nanti membantu menyelesaikan masalah ini, maka saksikan sekitar enam jam"
+  },
+  {
+    "id": 507,
+    "start": 3676.48,
+    "duration": 6.8,
+    "english": "So with that said um i'd like to thank our speaker professor and laura um once again for joining us",
+    "indonesian": "Jadi dengan itu dikatakan, um, saya ingin berterima kasih kepada pembicara kita, profesor dan Laura, um, sekali lagi untuk bergabung dengan kita"
+  },
+  {
+    "id": 508,
+    "start": 3683.28,
+    "duration": 7.68,
+    "english": "And see you all later thank you thank you thank you everybody good luck",
+    "indonesian": "Dan jumpa lagi nanti, terima kasih, terima kasih, terima kasih semua, semoga beruntung"
+  }
+]
